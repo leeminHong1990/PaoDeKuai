@@ -1,0 +1,38 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Trophy" Type="Plist" ID="e0344a4a-3a22-43d9-b667-7acbe931b1dc" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Trophy/1.png" />
+      <FilePathData Path="Trophy/10.png" />
+      <FilePathData Path="Trophy/11.png" />
+      <FilePathData Path="Trophy/12.png" />
+      <FilePathData Path="Trophy/13.png" />
+      <FilePathData Path="Trophy/14.png" />
+      <FilePathData Path="Trophy/15.png" />
+      <FilePathData Path="Trophy/16.png" />
+      <FilePathData Path="Trophy/17.png" />
+      <FilePathData Path="Trophy/18.png" />
+      <FilePathData Path="Trophy/19.png" />
+      <FilePathData Path="Trophy/2.png" />
+      <FilePathData Path="Trophy/20.png" />
+      <FilePathData Path="Trophy/21.png" />
+      <FilePathData Path="Trophy/22.png" />
+      <FilePathData Path="Trophy/23.png" />
+      <FilePathData Path="Trophy/24.png" />
+      <FilePathData Path="Trophy/25.png" />
+      <FilePathData Path="Trophy/26.png" />
+      <FilePathData Path="Trophy/27.png" />
+      <FilePathData Path="Trophy/28.png" />
+      <FilePathData Path="Trophy/29.png" />
+      <FilePathData Path="Trophy/3.png" />
+      <FilePathData Path="Trophy/30.png" />
+      <FilePathData Path="Trophy/4.png" />
+      <FilePathData Path="Trophy/5.png" />
+      <FilePathData Path="Trophy/6.png" />
+      <FilePathData Path="Trophy/7.png" />
+      <FilePathData Path="Trophy/8.png" />
+      <FilePathData Path="Trophy/9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

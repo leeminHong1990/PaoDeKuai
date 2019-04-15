@@ -1,0 +1,12 @@
+.svn
+/cocos/frameworks
+/kbengine/kbe_1.17
+/kbengine/kbe
+/resource/res
+
+# Log files
+*.log
+
+# Editor directories and files
+.idea
+.vscode

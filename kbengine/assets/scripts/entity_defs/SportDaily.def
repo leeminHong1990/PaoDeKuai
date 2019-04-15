@@ -1,0 +1,11 @@
+<root>
+	<Properties>
+	    <sportId>
+		    <Type>			UINT32		</Type>
+			<Flags>			BASE		</Flags>
+		</sportId>
+	</Properties>
+
+	<BaseMethods>
+	</BaseMethods>
+</root>

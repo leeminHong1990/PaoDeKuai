@@ -1,0 +1,524 @@
+{
+  "ID": "b3ebf561-d95c-46b7-bcf5-b288f2f5c4cb",
+  "Version": "3.10.0.0",
+  "Name": "PlayerInfoUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 447,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 448,
+            "ActionTag": -183545652,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "PlayerInfoUI/playerinfo_bg.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 20,
+            "Scale9OriginY": 20,
+            "Scale9Width": 732,
+            "Scale9Height": 384,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.6031,
+              "Y": 0.5889
+            },
+            "LeftMargin": 254.0,
+            "RightMargin": 254.0,
+            "TopMargin": 148.0,
+            "BottomMargin": 148.0,
+            "Tag": 566,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHallUI/portrait_sprite.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 68.8849,
+                  "Y": 344.3351
+                },
+                "Scale": {
+                  "ScaleX": 0.81,
+                  "ScaleY": 0.81
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0892,
+                  "Y": 0.8121
+                },
+                "PreSize": {
+                  "X": 0.1295,
+                  "Y": 0.2358
+                },
+                "LeftMargin": 18.8849,
+                "RightMargin": 653.1151,
+                "TopMargin": 29.6649,
+                "BottomMargin": 294.3351,
+                "Tag": 891,
+                "ActionTag": -1162463833,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 100.0
+                },
+                "Name": "portrait_sprite",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PlayerInfoUI/bottom_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 138,
+                "Scale9OriginY": 12,
+                "Scale9Width": 144,
+                "Scale9Height": 14,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 322.0917,
+                  "Y": 362.8683
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4172,
+                  "Y": 0.8558
+                },
+                "PreSize": {
+                  "X": 0.544,
+                  "Y": 0.0896
+                },
+                "LeftMargin": 112.0917,
+                "RightMargin": 239.9083,
+                "TopMargin": 42.1317,
+                "BottomMargin": 343.8683,
+                "Tag": 1202,
+                "ActionTag": -98348275,
+                "Size": {
+                  "X": 420.0,
+                  "Y": 38.0
+                },
+                "Name": "black_bg_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "未知",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 235.2881,
+                  "Y": 364.1161
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 111,
+                  "G": 86,
+                  "B": 57
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3048,
+                  "Y": 0.8588
+                },
+                "PreSize": {
+                  "X": 0.2591,
+                  "Y": 0.059
+                },
+                "LeftMargin": 135.2881,
+                "RightMargin": 436.7119,
+                "TopMargin": 47.3839,
+                "BottomMargin": 351.6161,
+                "Tag": 30,
+                "ActionTag": 1323001268,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 25.0
+                },
+                "Name": "name_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "未知",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 235.2881,
+                  "Y": 323.2641
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 111,
+                  "G": 86,
+                  "B": 57
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3048,
+                  "Y": 0.7624
+                },
+                "PreSize": {
+                  "X": 0.2591,
+                  "Y": 0.059
+                },
+                "LeftMargin": 135.2881,
+                "RightMargin": 436.7119,
+                "TopMargin": 88.2359,
+                "BottomMargin": 310.7641,
+                "Tag": 2288,
+                "ActionTag": -767065125,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 25.0
+                },
+                "Name": "id_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 750,
+                  "Height": 252
+                },
+                "ScrollDirectionType": "Horizontal",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 18.2192,
+                  "Y": 23.7016
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0236,
+                  "Y": 0.0559
+                },
+                "PreSize": {
+                  "X": 0.9534,
+                  "Y": 0.5943
+                },
+                "LeftMargin": 18.2192,
+                "RightMargin": 17.7808,
+                "TopMargin": 148.2984,
+                "BottomMargin": 23.7016,
+                "Tag": 109,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 558.3005,
+                      "Y": 138.6
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7444,
+                      "Y": 0.55
+                    },
+                    "PercentHeightEnable": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 0.2133,
+                      "Y": 0.8
+                    },
+                    "LeftMargin": 558.3005,
+                    "RightMargin": 31.6995,
+                    "TopMargin": 12.6,
+                    "BottomMargin": 37.8,
+                    "Tag": 110,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Default",
+                          "Path": "Default/ImageFile.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": -4,
+                        "Scale9OriginY": -4,
+                        "Scale9Width": 54,
+                        "Scale9Height": 54,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 80.0,
+                          "Y": 84.8333
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.4208
+                        },
+                        "PreSize": {
+                          "X": 0.9625,
+                          "Y": 0.7639
+                        },
+                        "LeftMargin": 3.0,
+                        "RightMargin": 3.0,
+                        "TopMargin": 39.7667,
+                        "BottomMargin": 7.8333,
+                        "Tag": 111,
+                        "ActionTag": -1200156372,
+                        "Size": {
+                          "X": 154.0,
+                          "Y": 154.0
+                        },
+                        "Name": "magic_img",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -354939456,
+                    "Size": {
+                      "X": 160.0,
+                      "Y": 201.6
+                    },
+                    "Name": "items",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 20406347,
+                "Size": {
+                  "X": 736.0,
+                  "Y": 252.0
+                },
+                "Name": "magic_scroll",
+                "ctype": "ScrollViewObjectData"
+              }
+            ],
+            "ActionTag": -340166259,
+            "Size": {
+              "X": 772.0,
+              "Y": 424.0
+            },
+            "Name": "playerinfo_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/ImageFile.png",
+        "GameHallUI/portrait_sprite.png",
+        "PlayerInfoUI/bottom_bg.png",
+        "PlayerInfoUI/playerinfo_bg.png",
+        "zhunyuan.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

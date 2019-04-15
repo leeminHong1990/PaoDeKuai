@@ -1,0 +1,69 @@
+<root>
+	<Properties>
+	    <free_sport_list>
+			<Type>		    UINT8_ARRAY		</Type>
+			<Flags>		    BASE		    </Flags>
+			<Default>	    []              </Default>
+			<Persistent>	true		    </Persistent>
+		</free_sport_list>
+
+		<rank>
+		    <Type>			DAILY_RECORD_INFO_LIST		</Type>
+			<Flags>			BASE		</Flags>
+			<Persistent>	true		</Persistent>
+		</rank>
+
+	    <sportId>
+		    <Type>			UINT32		</Type>
+			<Flags>			BASE		</Flags>
+		</sportId>
+
+
+		<weekSportScore>
+			<Type>		        INT32_ARRAY		</Type>
+			<Flags>				BASE			</Flags>
+			<Default>	        []               </Default>
+			<Persistent>		true			</Persistent>
+		</weekSportScore>
+
+		<lastWeekSportResetTime>
+			<Type>			DOUBLE			</Type>
+			<Flags>			BASE		    </Flags>
+			<Default>		0.0		        </Default>
+			<Persistent>		true		</Persistent>
+		</lastWeekSportResetTime>
+
+	</Properties>
+
+
+	<BaseMethods>
+	    <joinSport>
+	        <Exposed/>
+			<Arg>		UINT32		</Arg>
+	    </joinSport>
+
+	    <getWeeklySportRank>
+	        <Exposed/>
+			<Arg>		UINT32		</Arg>
+	    </getWeeklySportRank>
+	</BaseMethods>
+
+	<CellMethods>
+	</CellMethods>
+
+	<ClientMethods>
+	    <gotWeeklySportRank>
+	        <Arg> UINT32 </Arg>
+	        <Arg> WEEKLY_RECORD_INFO_LIST </Arg>
+	    </gotWeeklySportRank>
+
+	    <pushDailySportRank>
+	    	<Arg> UINT32 </Arg>
+	        <Arg> DAILY_RECORD_INFO_DETAILED_LIST </Arg>
+	    </pushDailySportRank>
+	    <pushSportTimesList>
+	        <Arg> UINT8_ARRAY </Arg>
+	    </pushSportTimesList>
+	</ClientMethods>
+</root>
+

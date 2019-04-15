@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>EffectBtn/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,0},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{720,0},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{840,0},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,120},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,120},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,240},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/16.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,240},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,360},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,720},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,840},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{120,360},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{240,360},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{360,360},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{720,360},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+			<key>EffectBtn/9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{840,360},{360,120}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{360,120}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>effectbtn.png</string>
+			<key>realTextureFileName</key>
+			<string>effectbtn.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

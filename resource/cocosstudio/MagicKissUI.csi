@@ -1,0 +1,33 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="MagicKissUI" Type="Plist" ID="bedc8de0-327e-466c-9ad2-fd3c14d3198e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="MagicKissUI/1.png" />
+      <FilePathData Path="MagicKissUI/10.png" />
+      <FilePathData Path="MagicKissUI/11.png" />
+      <FilePathData Path="MagicKissUI/12.png" />
+      <FilePathData Path="MagicKissUI/13.png" />
+      <FilePathData Path="MagicKissUI/14.png" />
+      <FilePathData Path="MagicKissUI/15.png" />
+      <FilePathData Path="MagicKissUI/16.png" />
+      <FilePathData Path="MagicKissUI/17.png" />
+      <FilePathData Path="MagicKissUI/18.png" />
+      <FilePathData Path="MagicKissUI/19.png" />
+      <FilePathData Path="MagicKissUI/2.png" />
+      <FilePathData Path="MagicKissUI/20.png" />
+      <FilePathData Path="MagicKissUI/21.png" />
+      <FilePathData Path="MagicKissUI/22.png" />
+      <FilePathData Path="MagicKissUI/23.png" />
+      <FilePathData Path="MagicKissUI/24.png" />
+      <FilePathData Path="MagicKissUI/25.png" />
+      <FilePathData Path="MagicKissUI/3.png" />
+      <FilePathData Path="MagicKissUI/4.png" />
+      <FilePathData Path="MagicKissUI/5.png" />
+      <FilePathData Path="MagicKissUI/6.png" />
+      <FilePathData Path="MagicKissUI/7.png" />
+      <FilePathData Path="MagicKissUI/8.png" />
+      <FilePathData Path="MagicKissUI/9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

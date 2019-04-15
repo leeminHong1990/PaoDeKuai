@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="TrophyUI" Type="Plist" ID="651103f5-8bcc-450a-be17-8d166e210af2" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="TrophyUI/1.png" />
+      <FilePathData Path="TrophyUI/10.png" />
+      <FilePathData Path="TrophyUI/11.png" />
+      <FilePathData Path="TrophyUI/12.png" />
+      <FilePathData Path="TrophyUI/13.png" />
+      <FilePathData Path="TrophyUI/14.png" />
+      <FilePathData Path="TrophyUI/2.png" />
+      <FilePathData Path="TrophyUI/3.png" />
+      <FilePathData Path="TrophyUI/4.png" />
+      <FilePathData Path="TrophyUI/5.png" />
+      <FilePathData Path="TrophyUI/6.png" />
+      <FilePathData Path="TrophyUI/7.png" />
+      <FilePathData Path="TrophyUI/8.png" />
+      <FilePathData Path="TrophyUI/9.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,32 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="shunzi" Type="Plist" ID="f9b5a275-7f2e-429a-9a38-95c70f4a6203" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="ShunziUI/1.png" />
+      <FilePathData Path="ShunziUI/10.png" />
+      <FilePathData Path="ShunziUI/11.png" />
+      <FilePathData Path="ShunziUI/12.png" />
+      <FilePathData Path="ShunziUI/13.png" />
+      <FilePathData Path="ShunziUI/14.png" />
+      <FilePathData Path="ShunziUI/15.png" />
+      <FilePathData Path="ShunziUI/16.png" />
+      <FilePathData Path="ShunziUI/17.png" />
+      <FilePathData Path="ShunziUI/18.png" />
+      <FilePathData Path="ShunziUI/19.png" />
+      <FilePathData Path="ShunziUI/2.png" />
+      <FilePathData Path="ShunziUI/20.png" />
+      <FilePathData Path="ShunziUI/21.png" />
+      <FilePathData Path="ShunziUI/22.png" />
+      <FilePathData Path="ShunziUI/23.png" />
+      <FilePathData Path="ShunziUI/24.png" />
+      <FilePathData Path="ShunziUI/3.png" />
+      <FilePathData Path="ShunziUI/4.png" />
+      <FilePathData Path="ShunziUI/5.png" />
+      <FilePathData Path="ShunziUI/6.png" />
+      <FilePathData Path="ShunziUI/7.png" />
+      <FilePathData Path="ShunziUI/8.png" />
+      <FilePathData Path="ShunziUI/9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1460" />
+  </Content>
+</PlistInfoProjectFile>

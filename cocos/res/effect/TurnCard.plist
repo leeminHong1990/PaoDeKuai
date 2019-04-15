@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>TurnCard/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{118,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,160}</string>
+			</dict>
+			<key>TurnCard/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,163},{118,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,160}</string>
+			</dict>
+			<key>TurnCard/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,325},{118,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{118,160}</string>
+			</dict>
+			<key>TurnCard/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{121,1},{118,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,160}</string>
+			</dict>
+			<key>TurnCard/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{283,1},{118,160}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{118,160}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>TurnCard.png</string>
+			<key>realTextureFileName</key>
+			<string>TurnCard.png</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>512</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

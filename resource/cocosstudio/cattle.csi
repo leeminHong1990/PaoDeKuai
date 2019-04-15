@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="cattle" Type="Plist" ID="e6ae1ef5-3f65-48ab-8cda-2a5b4ab8af44" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="CattleUI/1.png" />
+      <FilePathData Path="CattleUI/2.png" />
+      <FilePathData Path="CattleUI/3.png" />
+      <FilePathData Path="CattleUI/4.png" />
+      <FilePathData Path="CattleUI/5.png" />
+      <FilePathData Path="CattleUI/6.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,2637 @@
+{
+  "ID": "2c688124-f43a-4a3c-bebe-1c775e27f4c7",
+  "Version": "3.10.0.0",
+  "Name": "GPSUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 208,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 228,
+            "ActionTag": -1440666870,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BackGround/medium_win.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 80,
+            "Scale9OriginY": 80,
+            "Scale9Width": 708,
+            "Scale9Height": 404,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 209,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GPSUI/bg_img.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 184,
+                "Scale9OriginY": 100,
+                "Scale9Width": 456,
+                "Scale9Height": 240,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 310.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4306
+                },
+                "PreSize": {
+                  "X": 0.6438,
+                  "Y": 0.6111
+                },
+                "LeftMargin": 228.0,
+                "RightMargin": 228.0,
+                "TopMargin": 190.0,
+                "BottomMargin": 90.0,
+                "Tag": 210,
+                "ActionTag": -1359064191,
+                "Size": {
+                  "X": 824.0,
+                  "Y": 440.0
+                },
+                "Name": "gps_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": -172,
+                "Scale9OriginY": -87,
+                "Scale9Width": 344,
+                "Scale9Height": 174,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 310.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4306
+                },
+                "PreSize": {
+                  "X": 0.6438,
+                  "Y": 0.6111
+                },
+                "LeftMargin": 228.0,
+                "RightMargin": 228.0,
+                "TopMargin": 190.0,
+                "BottomMargin": 90.0,
+                "Tag": 442,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/my_img.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 25,
+                    "Scale9OriginY": 38,
+                    "Scale9Width": 28,
+                    "Scale9Height": 42,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 313.2338,
+                      "Y": 30.4504
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3801,
+                      "Y": 0.0692
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.4545
+                    },
+                    "LeftMargin": 313.2338,
+                    "RightMargin": 310.7662,
+                    "TopMargin": 209.5496,
+                    "BottomMargin": 30.4504,
+                    "Tag": 443,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GPSUI/default_img.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 119.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.6
+                        },
+                        "PreSize": {
+                          "X": 0.36,
+                          "Y": 0.36
+                        },
+                        "LeftMargin": 64.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 44.0001,
+                        "BottomMargin": 83.9999,
+                        "Tag": 444,
+                        "ActionTag": -631700590,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 72.0
+                        },
+                        "Name": "portrait_sprite",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "192.168.255.255",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 99.0,
+                          "Y": 21.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 132,
+                          "G": 102,
+                          "B": 20
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.495,
+                          "Y": 0.105
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.1
+                        },
+                        "LeftMargin": -1.0,
+                        "RightMargin": 1.0,
+                        "TopMargin": 169.0,
+                        "BottomMargin": 11.0,
+                        "Tag": 824,
+                        "ActionTag": 1426971451,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 20.0
+                        },
+                        "Name": "ip_label",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1782040677,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "Name": "player_panel_0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/other_img.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 25,
+                    "Scale9OriginY": 38,
+                    "Scale9Width": 28,
+                    "Scale9Height": 42,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 596.3102,
+                      "Y": 244.9232
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7237,
+                      "Y": 0.5566
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.4545
+                    },
+                    "LeftMargin": 596.3102,
+                    "RightMargin": 27.6898,
+                    "TopMargin": -4.9232,
+                    "BottomMargin": 244.9232,
+                    "Tag": 445,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GPSUI/default_img.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 119.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.6
+                        },
+                        "PreSize": {
+                          "X": 0.36,
+                          "Y": 0.36
+                        },
+                        "LeftMargin": 64.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 44.0001,
+                        "BottomMargin": 83.9999,
+                        "Tag": 446,
+                        "ActionTag": -1452413914,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 72.0
+                        },
+                        "Name": "portrait_sprite",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "192.168.255.255",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 99.9995,
+                          "Y": 178.1045
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 132,
+                          "G": 102,
+                          "B": 20
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8905
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.1
+                        },
+                        "LeftMargin": -0.0005,
+                        "RightMargin": 0.0005,
+                        "TopMargin": 11.8955,
+                        "BottomMargin": 168.1045,
+                        "Tag": 825,
+                        "ActionTag": 86594801,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 20.0
+                        },
+                        "Name": "ip_label",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1561134291,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "player_panel_1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/other_img.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 25,
+                    "Scale9OriginY": 38,
+                    "Scale9Width": 28,
+                    "Scale9Height": 42,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 33.3527,
+                      "Y": 245.9741
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0405,
+                      "Y": 0.559
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.4545
+                    },
+                    "LeftMargin": 33.3527,
+                    "RightMargin": 590.6473,
+                    "TopMargin": -5.9741,
+                    "BottomMargin": 245.9741,
+                    "Tag": 447,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GPSUI/default_img.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 119.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.6
+                        },
+                        "PreSize": {
+                          "X": 0.36,
+                          "Y": 0.36
+                        },
+                        "LeftMargin": 64.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 44.0001,
+                        "BottomMargin": 83.9999,
+                        "Tag": 448,
+                        "ActionTag": 1397714706,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 72.0
+                        },
+                        "Name": "portrait_sprite",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "192.168.255.255",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 177.0535
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 132,
+                          "G": 102,
+                          "B": 20
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8853
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.1
+                        },
+                        "TopMargin": 12.9465,
+                        "BottomMargin": 167.0535,
+                        "Tag": 826,
+                        "ActionTag": 2122249950,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 20.0
+                        },
+                        "Name": "ip_label",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -373554967,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "player_panel_3",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/line_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 155,
+                    "Scale9Width": 160,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 559.0,
+                      "Y": 188.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.65,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -40.0,
+                    "RotationSkewY": -40.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6784,
+                      "Y": 0.4273
+                    },
+                    "PreSize": {
+                      "X": 0.5704,
+                      "Y": 0.0023
+                    },
+                    "LeftMargin": 324.0,
+                    "RightMargin": 30.0,
+                    "TopMargin": 251.5,
+                    "BottomMargin": 187.5,
+                    "Tag": 467,
+                    "ActionTag": -1150779744,
+                    "Size": {
+                      "X": 470.0,
+                      "Y": 1.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "line_img_0_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/line_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 155,
+                    "Scale9Width": 160,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 417.0,
+                      "Y": 352.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5061,
+                      "Y": 0.8
+                    },
+                    "PreSize": {
+                      "X": 0.5704,
+                      "Y": 0.0023
+                    },
+                    "LeftMargin": 182.0,
+                    "RightMargin": 172.0,
+                    "TopMargin": 87.5,
+                    "BottomMargin": 351.5,
+                    "Tag": 468,
+                    "ActionTag": -32055004,
+                    "Size": {
+                      "X": 470.0,
+                      "Y": 1.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "line_img_1_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/line_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 155,
+                    "Scale9Width": 160,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 268.0,
+                      "Y": 185.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.65,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 40.0,
+                    "RotationSkewY": 40.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3252,
+                      "Y": 0.4205
+                    },
+                    "PreSize": {
+                      "X": 0.5704,
+                      "Y": 0.0023
+                    },
+                    "LeftMargin": 33.0,
+                    "RightMargin": 321.0,
+                    "TopMargin": 254.5,
+                    "BottomMargin": 184.5,
+                    "Tag": 469,
+                    "ActionTag": -507259853,
+                    "Size": {
+                      "X": 470.0,
+                      "Y": 1.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "line_img_0_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "未知距离\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 547.5391,
+                      "Y": 201.9131
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -39.998,
+                    "RotationSkewY": -39.9999,
+                    "CColor": {
+                      "R": 244,
+                      "G": 45,
+                      "B": 44
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6645,
+                      "Y": 0.4589
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.0455
+                    },
+                    "LeftMargin": 447.5391,
+                    "RightMargin": 176.4609,
+                    "TopMargin": 228.0869,
+                    "BottomMargin": 191.9131,
+                    "Tag": 449,
+                    "ActionTag": -633455058,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 20.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "dis_label_0_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "未知距离\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 412.0,
+                      "Y": 369.9
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewY": -0.0013,
+                    "CColor": {
+                      "R": 244,
+                      "G": 45,
+                      "B": 44
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8407
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.0455
+                    },
+                    "LeftMargin": 312.0,
+                    "RightMargin": 312.0,
+                    "TopMargin": 60.1,
+                    "BottomMargin": 359.9,
+                    "Tag": 450,
+                    "ActionTag": -1232629407,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 20.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "dis_label_1_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "未知距离\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 269.7945,
+                      "Y": 214.9449
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 39.9999,
+                    "RotationSkewY": 39.9968,
+                    "CColor": {
+                      "R": 244,
+                      "G": 45,
+                      "B": 44
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3274,
+                      "Y": 0.4885
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.0455
+                    },
+                    "LeftMargin": 169.7945,
+                    "RightMargin": 454.2055,
+                    "TopMargin": 215.0551,
+                    "BottomMargin": 204.9449,
+                    "Tag": 451,
+                    "ActionTag": -4759144,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 20.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "dis_label_0_3",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -220932722,
+                "Size": {
+                  "X": 824.0,
+                  "Y": 440.0
+                },
+                "Name": "three_panel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": -20,
+                "Scale9OriginY": -20,
+                "Scale9Width": 40,
+                "Scale9Height": 40,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 310.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4306
+                },
+                "PreSize": {
+                  "X": 0.6438,
+                  "Y": 0.6111
+                },
+                "LeftMargin": 228.0,
+                "RightMargin": 228.0,
+                "TopMargin": 190.0,
+                "BottomMargin": 90.0,
+                "Tag": 452,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/my_img.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 25,
+                    "Scale9OriginY": 38,
+                    "Scale9Width": 28,
+                    "Scale9Height": 42,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 313.2338,
+                      "Y": -11.5496
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3801,
+                      "Y": -0.0262
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.4545
+                    },
+                    "LeftMargin": 313.2338,
+                    "RightMargin": 310.7662,
+                    "TopMargin": 251.5496,
+                    "BottomMargin": -11.5496,
+                    "Tag": 453,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GPSUI/default_img.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 119.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.6
+                        },
+                        "PreSize": {
+                          "X": 0.36,
+                          "Y": 0.36
+                        },
+                        "LeftMargin": 64.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 44.0001,
+                        "BottomMargin": 83.9999,
+                        "Tag": 454,
+                        "ActionTag": 722548424,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 72.0
+                        },
+                        "Name": "portrait_sprite",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "192.168.255.255",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 102.7911,
+                          "Y": 33.0215
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 132,
+                          "G": 102,
+                          "B": 20
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.514,
+                          "Y": 0.1651
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.1
+                        },
+                        "LeftMargin": 2.7911,
+                        "RightMargin": -2.7911,
+                        "TopMargin": 156.9785,
+                        "BottomMargin": 23.0215,
+                        "Tag": 830,
+                        "ActionTag": 1701744066,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 20.0
+                        },
+                        "Name": "ip_label",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1279432384,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "Name": "player_panel_0",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/other_img.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 25,
+                    "Scale9OriginY": 38,
+                    "Scale9Width": 28,
+                    "Scale9Height": 42,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 638.3102,
+                      "Y": 119.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7746,
+                      "Y": 0.2705
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.4545
+                    },
+                    "LeftMargin": 638.3102,
+                    "RightMargin": -14.3102,
+                    "TopMargin": 121.0,
+                    "BottomMargin": 119.0,
+                    "Tag": 455,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GPSUI/default_img.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 119.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.6
+                        },
+                        "PreSize": {
+                          "X": 0.36,
+                          "Y": 0.36
+                        },
+                        "LeftMargin": 64.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 44.0001,
+                        "BottomMargin": 83.9999,
+                        "Tag": 456,
+                        "ActionTag": 571391091,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 72.0
+                        },
+                        "Name": "portrait_sprite",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "192.168.255.255",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0062,
+                          "Y": 28.4136
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 132,
+                          "G": 102,
+                          "B": 20
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.1421
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.1
+                        },
+                        "LeftMargin": 0.0062,
+                        "RightMargin": -0.0062,
+                        "TopMargin": 161.5864,
+                        "BottomMargin": 18.4136,
+                        "Tag": 831,
+                        "ActionTag": 1371842321,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 20.0
+                        },
+                        "Name": "ip_label",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 291656459,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "player_panel_1",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/other_img.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 25,
+                    "Scale9OriginY": 38,
+                    "Scale9Width": 28,
+                    "Scale9Height": 42,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 413.0,
+                      "Y": 362.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5012,
+                      "Y": 0.8227
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.4545
+                    },
+                    "LeftMargin": 313.0,
+                    "RightMargin": 311.0,
+                    "TopMargin": -22.0,
+                    "BottomMargin": 262.0,
+                    "Tag": 462,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GPSUI/default_img.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 119.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.6
+                        },
+                        "PreSize": {
+                          "X": 0.36,
+                          "Y": 0.36
+                        },
+                        "LeftMargin": 64.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 44.0001,
+                        "BottomMargin": 83.9999,
+                        "Tag": 463,
+                        "ActionTag": -1141732522,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 72.0
+                        },
+                        "Name": "portrait_sprite",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "192.168.255.255",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.4176,
+                          "Y": 168.633
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 132,
+                          "G": 102,
+                          "B": 20
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5021,
+                          "Y": 0.8432
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.1
+                        },
+                        "LeftMargin": 0.4176,
+                        "RightMargin": -0.4176,
+                        "TopMargin": 21.367,
+                        "BottomMargin": 158.633,
+                        "Tag": 832,
+                        "ActionTag": 330412303,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 20.0
+                        },
+                        "Name": "ip_label",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -553045676,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "player_panel_2",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/other_img.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 25,
+                    "Scale9OriginY": 38,
+                    "Scale9Width": 28,
+                    "Scale9Height": 42,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -12.6473,
+                      "Y": 119.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.0153,
+                      "Y": 0.2705
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.4545
+                    },
+                    "LeftMargin": -12.6473,
+                    "RightMargin": 636.6473,
+                    "TopMargin": 121.0,
+                    "BottomMargin": 119.0,
+                    "Tag": 457,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "GPSUI/default_img.png",
+                          "Plist": ""
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 100.0,
+                          "Y": 119.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.6
+                        },
+                        "PreSize": {
+                          "X": 0.36,
+                          "Y": 0.36
+                        },
+                        "LeftMargin": 64.0,
+                        "RightMargin": 64.0,
+                        "TopMargin": 44.0001,
+                        "BottomMargin": 83.9999,
+                        "Tag": 458,
+                        "ActionTag": -1634656218,
+                        "Size": {
+                          "X": 72.0,
+                          "Y": 72.0
+                        },
+                        "Name": "portrait_sprite",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "192.168.255.255",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 98.4318,
+                          "Y": 29.7852
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 132,
+                          "G": 102,
+                          "B": 20
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4922,
+                          "Y": 0.1489
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.1
+                        },
+                        "LeftMargin": -1.5682,
+                        "RightMargin": 1.5682,
+                        "TopMargin": 160.2148,
+                        "BottomMargin": 19.7852,
+                        "Tag": 833,
+                        "ActionTag": 264475532,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 20.0
+                        },
+                        "Name": "ip_label",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 1218085105,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 200.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "player_panel_3",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/line_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 155,
+                    "Scale9Width": 160,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 589.0,
+                      "Y": 119.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -17.0,
+                    "RotationSkewY": -17.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7148,
+                      "Y": 0.2705
+                    },
+                    "PreSize": {
+                      "X": 0.5704,
+                      "Y": 0.0023
+                    },
+                    "LeftMargin": 354.0,
+                    "TopMargin": 320.5,
+                    "BottomMargin": 118.5,
+                    "Tag": 470,
+                    "ActionTag": 1754749226,
+                    "Size": {
+                      "X": 470.0,
+                      "Y": 1.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "line_img_0_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "未知距离\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 599.6705,
+                      "Y": 102.6391
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -16.9992,
+                    "RotationSkewY": -17.0019,
+                    "CColor": {
+                      "R": 244,
+                      "G": 45,
+                      "B": 44
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7278,
+                      "Y": 0.2333
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.0455
+                    },
+                    "LeftMargin": 499.6705,
+                    "RightMargin": 124.3295,
+                    "TopMargin": 327.3609,
+                    "BottomMargin": 92.6391,
+                    "Tag": 459,
+                    "ActionTag": -18264488,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 20.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "dis_label_0_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/line_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 155,
+                    "Scale9Width": 160,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 414.0,
+                      "Y": 215.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.2,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5024,
+                      "Y": 0.4886
+                    },
+                    "PreSize": {
+                      "X": 0.5704,
+                      "Y": 0.0023
+                    },
+                    "LeftMargin": 179.0,
+                    "RightMargin": 175.0,
+                    "TopMargin": 224.5,
+                    "BottomMargin": 214.5,
+                    "Tag": 471,
+                    "ActionTag": -1510660073,
+                    "Size": {
+                      "X": 470.0,
+                      "Y": 1.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "line_img_1_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "未知距离\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 246.2112,
+                      "Y": 234.4893
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewY": -0.0017,
+                    "CColor": {
+                      "R": 244,
+                      "G": 45,
+                      "B": 44
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.2988,
+                      "Y": 0.5329
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.0455
+                    },
+                    "LeftMargin": 146.2112,
+                    "RightMargin": 477.7888,
+                    "TopMargin": 195.5107,
+                    "BottomMargin": 224.4893,
+                    "Tag": 460,
+                    "ActionTag": -624839097,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 20.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "dis_label_1_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/line_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 155,
+                    "Scale9Width": 160,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 234.0,
+                      "Y": 118.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 17.0,
+                    "RotationSkewY": 17.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.284,
+                      "Y": 0.2682
+                    },
+                    "PreSize": {
+                      "X": 0.5704,
+                      "Y": 0.0023
+                    },
+                    "LeftMargin": -1.0,
+                    "RightMargin": 355.0,
+                    "TopMargin": 321.5,
+                    "BottomMargin": 117.5,
+                    "Tag": 473,
+                    "ActionTag": 626862868,
+                    "Size": {
+                      "X": 470.0,
+                      "Y": 1.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "line_img_0_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "未知距离\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 235.6736,
+                      "Y": 99.6392
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 16.9992,
+                    "RotationSkewY": 16.9964,
+                    "CColor": {
+                      "R": 244,
+                      "G": 45,
+                      "B": 44
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.286,
+                      "Y": 0.2265
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.0455
+                    },
+                    "LeftMargin": 135.6736,
+                    "RightMargin": 488.3264,
+                    "TopMargin": 330.3608,
+                    "BottomMargin": 89.6392,
+                    "Tag": 461,
+                    "ActionTag": -899391144,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 20.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "dis_label_0_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/line_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 155,
+                    "Scale9Width": 160,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 591.0,
+                      "Y": 322.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 17.0,
+                    "RotationSkewY": 17.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7172,
+                      "Y": 0.7318
+                    },
+                    "PreSize": {
+                      "X": 0.5704,
+                      "Y": 0.0023
+                    },
+                    "LeftMargin": 356.0,
+                    "RightMargin": -2.0,
+                    "TopMargin": 117.5,
+                    "BottomMargin": 321.5,
+                    "Tag": 474,
+                    "ActionTag": 1093211798,
+                    "Size": {
+                      "X": 470.0,
+                      "Y": 1.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "line_img_1_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "未知距离\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 601.67,
+                      "Y": 341.4873
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 16.9994,
+                    "RotationSkewY": 16.9994,
+                    "CColor": {
+                      "R": 244,
+                      "G": 45,
+                      "B": 44
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7302,
+                      "Y": 0.7761
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.0455
+                    },
+                    "LeftMargin": 501.67,
+                    "RightMargin": 122.33,
+                    "TopMargin": 88.5127,
+                    "BottomMargin": 331.4873,
+                    "Tag": 464,
+                    "ActionTag": -510660145,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 20.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "dis_label_1_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/line_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 155,
+                    "Scale9Width": 160,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 414.0,
+                      "Y": 216.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.25,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 90.0,
+                    "RotationSkewY": 90.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5024,
+                      "Y": 0.4909
+                    },
+                    "PreSize": {
+                      "X": 0.5704,
+                      "Y": 0.0023
+                    },
+                    "LeftMargin": 179.0,
+                    "RightMargin": 175.0,
+                    "TopMargin": 223.5,
+                    "BottomMargin": 215.5,
+                    "Tag": 475,
+                    "ActionTag": -1085332733,
+                    "Size": {
+                      "X": 470.0,
+                      "Y": 1.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "line_img_0_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "未知距离\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 433.4402,
+                      "Y": 232.1537
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -90.0,
+                    "RotationSkewY": -90.0,
+                    "CColor": {
+                      "R": 244,
+                      "G": 45,
+                      "B": 44
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.526,
+                      "Y": 0.5276
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.0455
+                    },
+                    "LeftMargin": 333.4402,
+                    "RightMargin": 290.5598,
+                    "TopMargin": 197.8463,
+                    "BottomMargin": 222.1537,
+                    "Tag": 465,
+                    "ActionTag": -227767436,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 20.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "dis_label_0_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GPSUI/line_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 155,
+                    "Scale9Width": 160,
+                    "Scale9Height": 1,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 235.0,
+                      "Y": 322.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -17.0,
+                    "RotationSkewY": -17.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2852,
+                      "Y": 0.7318
+                    },
+                    "PreSize": {
+                      "X": 0.5704,
+                      "Y": 0.0023
+                    },
+                    "RightMargin": 354.0,
+                    "TopMargin": 117.5,
+                    "BottomMargin": 321.5,
+                    "Tag": 472,
+                    "ActionTag": 585169589,
+                    "Size": {
+                      "X": 470.0,
+                      "Y": 1.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "line_img_2_3",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "未知距离\n",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 233.67,
+                      "Y": 340.49
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": -17.0002,
+                    "RotationSkewY": -17.001,
+                    "CColor": {
+                      "R": 244,
+                      "G": 45,
+                      "B": 44
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2836,
+                      "Y": 0.7738
+                    },
+                    "PreSize": {
+                      "X": 0.2427,
+                      "Y": 0.0455
+                    },
+                    "LeftMargin": 133.67,
+                    "RightMargin": 490.33,
+                    "TopMargin": 89.51,
+                    "BottomMargin": 330.49,
+                    "Tag": 466,
+                    "ActionTag": -902524779,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 20.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "dis_label_2_3",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1527809393,
+                "Size": {
+                  "X": 824.0,
+                  "Y": 440.0
+                },
+                "VisibleForFrame": false,
+                "Name": "four_panel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GPSUI/title_img.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 29,
+                "Scale9OriginY": 15,
+                "Scale9Width": 162,
+                "Scale9Height": 38,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 583.848
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8109
+                },
+                "PreSize": {
+                  "X": 0.1719,
+                  "Y": 0.0944
+                },
+                "LeftMargin": 530.0,
+                "RightMargin": 530.0,
+                "TopMargin": 102.152,
+                "BottomMargin": 549.848,
+                "Tag": 211,
+                "ActionTag": 288733291,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 68.0
+                },
+                "Name": "title_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GPSUI/back_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 52,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 921.0937,
+                  "Y": 151.3818
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7196,
+                  "Y": 0.2103
+                },
+                "PreSize": {
+                  "X": 0.1578,
+                  "Y": 0.1028
+                },
+                "LeftMargin": 820.0937,
+                "RightMargin": 257.9063,
+                "TopMargin": 531.6182,
+                "BottomMargin": 114.3818,
+                "Tag": 795,
+                "ActionTag": 587707902,
+                "Size": {
+                  "X": 202.0,
+                  "Y": 74.0
+                },
+                "Name": "return_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "GPSUI/dissroom_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 172,
+                "Scale9Height": 52,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 361.634,
+                  "Y": 151.3818
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2825,
+                  "Y": 0.2103
+                },
+                "PreSize": {
+                  "X": 0.1578,
+                  "Y": 0.1028
+                },
+                "LeftMargin": 260.634,
+                "RightMargin": 817.366,
+                "TopMargin": 531.6182,
+                "BottomMargin": 114.3818,
+                "Tag": 794,
+                "ActionTag": 1895518458,
+                "Size": {
+                  "X": 202.0,
+                  "Y": 74.0
+                },
+                "Name": "dissroom_btn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1411757820,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "gps_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "BackGround/medium_win.png",
+        "GPSUI/back_btn.png",
+        "GPSUI/bg_img.png",
+        "GPSUI/default_img.png",
+        "GPSUI/dissroom_btn.png",
+        "GPSUI/line_img.png",
+        "GPSUI/my_img.png",
+        "GPSUI/other_img.png",
+        "GPSUI/title_img.png",
+        "zhunyuan.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

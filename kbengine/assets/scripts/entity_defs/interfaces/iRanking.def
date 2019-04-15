@@ -1,0 +1,16 @@
+<root>
+	<Properties>
+	</Properties>
+
+	<BaseMethods>
+		<reqRankingInfos>
+			<Exposed/>
+		</reqRankingInfos>
+	</BaseMethods>
+
+	<ClientMethods>
+		<pushRankingInfos>
+	        <Arg>      RANKING_INFO_LIST    </Arg>
+	    </pushRankingInfos>
+	</ClientMethods>
+</root>

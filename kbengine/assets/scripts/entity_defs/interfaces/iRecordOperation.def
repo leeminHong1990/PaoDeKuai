@@ -1,0 +1,31 @@
+<root>
+    <Properties>
+    </Properties>
+    <BaseMethods>
+        <queryRecord>
+            <Exposed/>
+            <Arg>		INT32		</Arg>
+        </queryRecord>
+
+        <queryUserRecord>
+            <Exposed/>
+            <Arg>		UID		</Arg>
+            <Arg>		INT32		</Arg>
+        </queryUserRecord>
+    </BaseMethods>
+
+    <ClientMethods>
+        <queryRecordResult>
+            <Arg> UNICODE </Arg>
+        </queryRecordResult>
+
+        <queryRecordFailed>
+            <Arg> INT32 </Arg>
+        </queryRecordFailed>
+
+        <queryUserRecordResult>
+            <Arg> UNICODE </Arg>
+        </queryUserRecordResult>
+    </ClientMethods>
+</root>
+

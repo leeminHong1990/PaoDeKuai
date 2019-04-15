@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>MainCityUI/main_city_ad_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,504},{8,38}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{8,38}</string>
+			</dict>
+			<key>MainCityUI/main_city_add.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{613,444},{42,42}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,42}</string>
+			</dict>
+			<key>MainCityUI/main_city_card.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{571,444},{42,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{42,44}</string>
+			</dict>
+			<key>MainCityUI/main_city_diamond.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{655,444},{42,32}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{42,32}</string>
+			</dict>
+			<key>MainCityUI/main_city_expect.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{644,0},{246,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{246,294}</string>
+			</dict>
+			<key>MainCityUI/main_city_game_name_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{428,386},{230,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{230,58}</string>
+			</dict>
+			<key>MainCityUI/main_city_head_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,386},{312,118}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{312,118}</string>
+			</dict>
+			<key>MainCityUI/main_city_head_cicle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{312,386},{120,116}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{120,116}</string>
+			</dict>
+			<key>MainCityUI/main_city_share_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{274,0},{98,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,122}</string>
+			</dict>
+			<key>MainCityUI/main_city_shop_btn.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{274,122},{98,122}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{98,122}</string>
+			</dict>
+			<key>MainCityUI/main_city_sss.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{274,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{274,294}</string>
+			</dict>
+			<key>MainCityUI/main_city_title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{428,444},{143,44}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{143,44}</string>
+			</dict>
+			<key>MainCityUI/main_city_title_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,294},{644,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{644,92}</string>
+			</dict>
+			<key>MainCityUI/main_city_xsmj.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{687,246},{246,294}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{246,294}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>MainCityUI.png</string>
+			<key>realTextureFileName</key>
+			<string>MainCityUI.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

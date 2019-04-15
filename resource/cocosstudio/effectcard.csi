@@ -1,0 +1,37 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="effectcard" Type="Plist" ID="26c3f332-f204-45f8-be36-23c3353a01f6" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="EffevtCardUI/1.png" />
+      <FilePathData Path="EffevtCardUI/10.png" />
+      <FilePathData Path="EffevtCardUI/11.png" />
+      <FilePathData Path="EffevtCardUI/12.png" />
+      <FilePathData Path="EffevtCardUI/13.png" />
+      <FilePathData Path="EffevtCardUI/14.png" />
+      <FilePathData Path="EffevtCardUI/2.png" />
+      <FilePathData Path="EffevtCardUI/3.png" />
+      <FilePathData Path="EffevtCardUI/4.png" />
+      <FilePathData Path="EffevtCardUI/5.png" />
+      <FilePathData Path="EffevtCardUI/6.png" />
+      <FilePathData Path="EffevtCardUI/7.png" />
+      <FilePathData Path="EffevtCardUI/8.png" />
+      <FilePathData Path="EffevtCardUI/9.png" />
+      <FilePathData Path="EffevtCardUI/15.png" />
+      <FilePathData Path="EffevtCardUI/16.png" />
+      <FilePathData Path="EffevtCardUI/17.png" />
+      <FilePathData Path="EffevtCardUI/18.png" />
+      <FilePathData Path="EffevtCardUI/19.png" />
+      <FilePathData Path="EffevtCardUI/20.png" />
+      <FilePathData Path="EffevtCardUI/21.png" />
+      <FilePathData Path="EffevtCardUI/22.png" />
+      <FilePathData Path="EffevtCardUI/23.png" />
+      <FilePathData Path="EffevtCardUI/24.png" />
+      <FilePathData Path="EffevtCardUI/25.png" />
+      <FilePathData Path="EffevtCardUI/26.png" />
+      <FilePathData Path="EffevtCardUI/27.png" />
+      <FilePathData Path="EffevtCardUI/28.png" />
+      <FilePathData Path="EffevtCardUI/29.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

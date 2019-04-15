@@ -1,0 +1,1518 @@
+{
+  "ID": "e05e5298-789a-4dd4-aa99-00994b435e92",
+  "Version": "3.10.0.0",
+  "Name": "testUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 224,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 1.6471,
+              "Y": 7.5791
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0013,
+              "Y": 0.0105
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 1.6471,
+            "RightMargin": -1.6471,
+            "TopMargin": -7.5791,
+            "BottomMargin": 7.5791,
+            "Tag": 225,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "会长邀请成员",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 308.8063,
+                  "Y": 667.347
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2413,
+                  "Y": 0.9269
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 263.8063,
+                "RightMargin": 926.1937,
+                "TopMargin": 26.653,
+                "BottomMargin": 641.347,
+                "Tag": 226,
+                "ActionTag": -1757059129,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "删除成员",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 414.4329,
+                  "Y": 666.1425
+                },
+                "Scale": {
+                  "ScaleX": 0.9418,
+                  "ScaleY": 0.849
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3238,
+                  "Y": 0.9252
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 369.4329,
+                "RightMargin": 820.5671,
+                "TopMargin": 27.8575,
+                "BottomMargin": 640.1425,
+                "Tag": 227,
+                "ActionTag": -191224855,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "创建公会",
+                "TextColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 74.9327,
+                  "Y": 667.6757
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0585,
+                  "Y": 0.9273
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 29.9327,
+                "RightMargin": 1160.0673,
+                "TopMargin": 26.3243,
+                "BottomMargin": 641.6757,
+                "Tag": 228,
+                "ActionTag": -2004450246,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "修改公告",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 195.1354,
+                  "Y": 668.5088
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1524,
+                  "Y": 0.9285
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 150.1354,
+                "RightMargin": 1039.8646,
+                "TopMargin": 25.4912,
+                "BottomMargin": 642.5088,
+                "Tag": 229,
+                "ActionTag": -579404522,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "备注",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 516.5214,
+                  "Y": 665.0479
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4035,
+                  "Y": 0.9237
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 471.5214,
+                "RightMargin": 718.4786,
+                "TopMargin": 28.9521,
+                "BottomMargin": 639.0479,
+                "Tag": 230,
+                "ActionTag": 225131613,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_5",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "创建赛事",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 628.5735,
+                  "Y": 656.358
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4911,
+                  "Y": 0.9116
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 583.5735,
+                "RightMargin": 606.4265,
+                "TopMargin": 37.642,
+                "BottomMargin": 630.358,
+                "Tag": 231,
+                "ActionTag": 1971454261,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_6",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "删除赛事",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 728.8542,
+                  "Y": 656.8253
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5694,
+                  "Y": 0.9123
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 683.8542,
+                "RightMargin": 506.1458,
+                "TopMargin": 37.1747,
+                "BottomMargin": 630.8253,
+                "Tag": 232,
+                "ActionTag": 920568414,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_7",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "加入赛事",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 826.5126,
+                  "Y": 658.6008
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6457,
+                  "Y": 0.9147
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 781.5126,
+                "RightMargin": 408.4874,
+                "TopMargin": 35.3992,
+                "BottomMargin": 632.6008,
+                "Tag": 233,
+                "ActionTag": -644939278,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_8",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "删除赛事成员",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 926.7906,
+                  "Y": 653.8339
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7241,
+                  "Y": 0.9081
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 881.7906,
+                "RightMargin": 308.2094,
+                "TopMargin": 40.1661,
+                "BottomMargin": 627.8339,
+                "Tag": 234,
+                "ActionTag": -1467949159,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_9",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "创建房间",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1032.3027,
+                  "Y": 652.9937
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8065,
+                  "Y": 0.9069
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 987.3027,
+                "RightMargin": 202.6973,
+                "TopMargin": 41.0063,
+                "BottomMargin": 626.9937,
+                "Tag": 235,
+                "ActionTag": 656620699,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_10",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1064.5435,
+                  "Y": 595.8924
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8317,
+                  "Y": 0.8276
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 1019.5435,
+                "RightMargin": 170.4565,
+                "TopMargin": 98.1076,
+                "BottomMargin": 569.8924,
+                "Tag": 236,
+                "ActionTag": -1906140431,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_20",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 219.5275,
+                  "Y": 534.2114
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1715,
+                  "Y": 0.742
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 174.5275,
+                "RightMargin": 1015.4725,
+                "TopMargin": 159.7886,
+                "BottomMargin": 508.2114,
+                "Tag": 244,
+                "ActionTag": 1652526802,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_22",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 106.5417,
+                  "Y": 529.4451
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0832,
+                  "Y": 0.7353
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 61.5417,
+                "RightMargin": 1128.4584,
+                "TopMargin": 164.5549,
+                "BottomMargin": 503.4451,
+                "Tag": 245,
+                "ActionTag": 1832263864,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_21",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 960.4383,
+                  "Y": 591.4037
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7503,
+                  "Y": 0.8214
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 915.4383,
+                "RightMargin": 274.5617,
+                "TopMargin": 102.5963,
+                "BottomMargin": 565.4037,
+                "Tag": 246,
+                "ActionTag": 574176123,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_19",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 852.6828,
+                  "Y": 594.488
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6662,
+                  "Y": 0.8257
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 807.6828,
+                "RightMargin": 382.3172,
+                "TopMargin": 99.512,
+                "BottomMargin": 568.488,
+                "Tag": 247,
+                "ActionTag": -373935240,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_18",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "删除公会",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.556,
+                  "ScaleY": 0.4283
+                },
+                "Position": {
+                  "X": 747.3536,
+                  "Y": 595.1548
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5839,
+                  "Y": 0.8266
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 697.3137,
+                "RightMargin": 492.6863,
+                "TopMargin": 95.1168,
+                "BottomMargin": 572.8832,
+                "Tag": 248,
+                "ActionTag": -771375056,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_17",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "自己离开公会",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 633.2531,
+                  "Y": 599.3464
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4947,
+                  "Y": 0.8324
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 588.2531,
+                "RightMargin": 601.7469,
+                "TopMargin": 94.6536,
+                "BottomMargin": 573.3464,
+                "Tag": 249,
+                "ActionTag": -1642196057,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_16",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "自己加入公会",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 530.7318,
+                  "Y": 603.7379
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4146,
+                  "Y": 0.8385
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 485.7318,
+                "RightMargin": 704.2682,
+                "TopMargin": 90.2621,
+                "BottomMargin": 577.7379,
+                "Tag": 250,
+                "ActionTag": -1765484400,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_15",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "解散房间",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 426.9053,
+                  "Y": 604.2051
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3335,
+                  "Y": 0.8392
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 381.9053,
+                "RightMargin": 808.0947,
+                "TopMargin": 89.7949,
+                "BottomMargin": 578.2051,
+                "Tag": 251,
+                "ActionTag": 1637594207,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_14",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "公会房间列表",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 320.4625,
+                  "Y": 602.054
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2504,
+                  "Y": 0.8362
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 275.4625,
+                "RightMargin": 914.5375,
+                "TopMargin": 91.946,
+                "BottomMargin": 576.054,
+                "Tag": 252,
+                "ActionTag": 2030610290,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_13",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "赛事房间列表",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 216.6342,
+                  "Y": 598.5968
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1692,
+                  "Y": 0.8314
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 171.6342,
+                "RightMargin": 1018.3658,
+                "TopMargin": 95.4032,
+                "BottomMargin": 572.5968,
+                "Tag": 253,
+                "ActionTag": 366888741,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_12",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "改变赛事状态",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionRoomInfoUI/bg_short_img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 174,
+                "Scale9Height": 16,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 106.2645,
+                  "Y": 597.7554
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.083,
+                  "Y": 0.8302
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 61.2645,
+                "RightMargin": 1128.7355,
+                "TopMargin": 96.2446,
+                "BottomMargin": 571.7554,
+                "Tag": 254,
+                "ActionTag": -1540945405,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "Button_11",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1431855861,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "UnionRoomInfoUI/bg_short_img.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

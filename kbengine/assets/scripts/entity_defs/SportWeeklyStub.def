@@ -1,0 +1,12 @@
+<root>
+	<Properties>
+	    <sportWeeklyList>
+		    <Type>			UINT32_ARRAY		</Type>
+			<Flags>			BASE		        </Flags>
+			<Persistent>	true		        </Persistent>
+		</sportWeeklyList>
+	</Properties>
+
+	<BaseMethods>
+	</BaseMethods>
+</root>

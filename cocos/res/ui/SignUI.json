@@ -1,0 +1,2693 @@
+{
+  "ID": "20106694-c294-455e-a5bf-678cea709ea5",
+  "Version": "3.10.0.0",
+  "Name": "SignUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 108,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 109,
+            "ActionTag": 1647991655,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "SignUI/sign_win.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 299,
+            "Scale9OriginY": 228,
+            "Scale9Width": 310,
+            "Scale9Height": 236,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 110,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/return_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1090.3179,
+                  "Y": 633.5466
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8518,
+                  "Y": 0.8799
+                },
+                "PreSize": {
+                  "X": 0.0547,
+                  "Y": 0.1
+                },
+                "LeftMargin": 1055.3179,
+                "RightMargin": 154.6821,
+                "TopMargin": 50.4534,
+                "BottomMargin": 597.5466,
+                "Tag": 611,
+                "ActionTag": -618931338,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 72.0
+                },
+                "Name": "return_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SignUI/day1.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 70,
+                "Scale9Height": 90,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 217.0395,
+                  "Y": 324.48
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1696,
+                  "Y": 0.4507
+                },
+                "PreSize": {
+                  "X": 0.1594,
+                  "Y": 0.3667
+                },
+                "LeftMargin": 217.0395,
+                "RightMargin": 858.9605,
+                "TopMargin": 131.52,
+                "BottomMargin": 324.48,
+                "Tag": 111,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 79,
+                    "Scale9OriginY": 99,
+                    "Scale9Width": 84,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.1863,
+                      "Y": 1.1439
+                    },
+                    "LeftMargin": -19.0,
+                    "RightMargin": -19.0,
+                    "TopMargin": -19.0,
+                    "BottomMargin": -19.0,
+                    "Tag": 314,
+                    "ActionTag": -1600842913,
+                    "Size": {
+                      "X": 242.0,
+                      "Y": 302.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "light_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/Diamond/Diamond1.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7255,
+                      "Y": 0.553
+                    },
+                    "LeftMargin": 28.0,
+                    "RightMargin": 28.0,
+                    "TopMargin": 59.0,
+                    "BottomMargin": 59.0,
+                    "Tag": 112,
+                    "ActionTag": 2068742584,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/diamond_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 32,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.54,
+                      "Y": 47.52
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.385,
+                      "Y": 0.18
+                    },
+                    "PreSize": {
+                      "X": 0.2745,
+                      "Y": 0.1136
+                    },
+                    "LeftMargin": 50.54,
+                    "RightMargin": 97.46,
+                    "TopMargin": 201.48,
+                    "BottomMargin": 32.52,
+                    "Tag": 312,
+                    "ActionTag": 209069295,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 30.0
+                    },
+                    "Name": "reward_txt_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "X1",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "SignUI/qdsz.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 130.56,
+                      "Y": 46.5168
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.64,
+                      "Y": 0.1762
+                    },
+                    "PreSize": {
+                      "X": 0.1961,
+                      "Y": 0.1212
+                    },
+                    "LeftMargin": 110.56,
+                    "RightMargin": 53.44,
+                    "TopMargin": 201.4832,
+                    "BottomMargin": 30.5168,
+                    "Tag": 313,
+                    "ActionTag": -140336849,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/cover.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 67,
+                    "Scale9OriginY": 87,
+                    "Scale9Width": 70,
+                    "Scale9Height": 90,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 315,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SignUI/received.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 60,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 62,
+                        "Scale9Height": 20,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 79.4857,
+                          "Y": 78.3023
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3896,
+                          "Y": 0.2966
+                        },
+                        "PreSize": {
+                          "X": 0.8922,
+                          "Y": 0.2121
+                        },
+                        "LeftMargin": -11.5143,
+                        "RightMargin": 33.5143,
+                        "TopMargin": 157.6977,
+                        "BottomMargin": 50.3023,
+                        "Tag": 316,
+                        "ActionTag": 1031307453,
+                        "Size": {
+                          "X": 182.0,
+                          "Y": 56.0
+                        },
+                        "Name": "received_img",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 2001510923,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 264.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "cover_panel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 294392341,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 264.0
+                },
+                "Name": "day_panel_1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SignUI/day2.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 70,
+                "Scale9Height": 90,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 430.4068,
+                  "Y": 324.48
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3363,
+                  "Y": 0.4507
+                },
+                "PreSize": {
+                  "X": 0.1594,
+                  "Y": 0.3667
+                },
+                "LeftMargin": 430.4068,
+                "RightMargin": 645.5932,
+                "TopMargin": 131.52,
+                "BottomMargin": 324.48,
+                "Tag": 317,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 79,
+                    "Scale9OriginY": 99,
+                    "Scale9Width": 84,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.1863,
+                      "Y": 1.1439
+                    },
+                    "LeftMargin": -19.0,
+                    "RightMargin": -19.0,
+                    "TopMargin": -19.0,
+                    "BottomMargin": -19.0,
+                    "Tag": 318,
+                    "ActionTag": -1145894418,
+                    "Size": {
+                      "X": 242.0,
+                      "Y": 302.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "light_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/Diamond/Diamond2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7255,
+                      "Y": 0.553
+                    },
+                    "LeftMargin": 28.0,
+                    "RightMargin": 28.0,
+                    "TopMargin": 59.0,
+                    "BottomMargin": 59.0,
+                    "Tag": 319,
+                    "ActionTag": 145661463,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/diamond_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 32,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.54,
+                      "Y": 47.52
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.385,
+                      "Y": 0.18
+                    },
+                    "PreSize": {
+                      "X": 0.2745,
+                      "Y": 0.1136
+                    },
+                    "LeftMargin": 50.54,
+                    "RightMargin": 97.46,
+                    "TopMargin": 201.48,
+                    "BottomMargin": 32.52,
+                    "Tag": 320,
+                    "ActionTag": 1155733290,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 30.0
+                    },
+                    "Name": "reward_txt_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "X2",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "SignUI/qdsz.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 130.56,
+                      "Y": 46.5168
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.64,
+                      "Y": 0.1762
+                    },
+                    "PreSize": {
+                      "X": 0.1961,
+                      "Y": 0.1212
+                    },
+                    "LeftMargin": 110.56,
+                    "RightMargin": 53.44,
+                    "TopMargin": 201.4832,
+                    "BottomMargin": 30.5168,
+                    "Tag": 321,
+                    "ActionTag": -2029698650,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/cover.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 67,
+                    "Scale9OriginY": 87,
+                    "Scale9Width": 70,
+                    "Scale9Height": 90,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 322,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SignUI/received.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 60,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 62,
+                        "Scale9Height": 20,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 79.4857,
+                          "Y": 78.3023
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3896,
+                          "Y": 0.2966
+                        },
+                        "PreSize": {
+                          "X": 0.8922,
+                          "Y": 0.2121
+                        },
+                        "LeftMargin": -11.5143,
+                        "RightMargin": 33.5143,
+                        "TopMargin": 157.6977,
+                        "BottomMargin": 50.3023,
+                        "Tag": 323,
+                        "ActionTag": 278285405,
+                        "Size": {
+                          "X": 182.0,
+                          "Y": 56.0
+                        },
+                        "Name": "received_img",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -832123177,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 264.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "cover_panel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -493923419,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 264.0
+                },
+                "Name": "day_panel_2",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SignUI/day3.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 70,
+                "Scale9Height": 90,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 643.8922,
+                  "Y": 324.48
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.503,
+                  "Y": 0.4507
+                },
+                "PreSize": {
+                  "X": 0.1594,
+                  "Y": 0.3667
+                },
+                "LeftMargin": 643.8922,
+                "RightMargin": 432.1078,
+                "TopMargin": 131.52,
+                "BottomMargin": 324.48,
+                "Tag": 324,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 79,
+                    "Scale9OriginY": 99,
+                    "Scale9Width": 84,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.1863,
+                      "Y": 1.1439
+                    },
+                    "LeftMargin": -19.0,
+                    "RightMargin": -19.0,
+                    "TopMargin": -19.0,
+                    "BottomMargin": -19.0,
+                    "Tag": 325,
+                    "ActionTag": -1846051379,
+                    "Size": {
+                      "X": 242.0,
+                      "Y": 302.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "light_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/Diamond/Diamond3.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7255,
+                      "Y": 0.553
+                    },
+                    "LeftMargin": 28.0,
+                    "RightMargin": 28.0,
+                    "TopMargin": 59.0,
+                    "BottomMargin": 59.0,
+                    "Tag": 326,
+                    "ActionTag": 315609202,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/diamond_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 32,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.54,
+                      "Y": 47.52
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.385,
+                      "Y": 0.18
+                    },
+                    "PreSize": {
+                      "X": 0.2745,
+                      "Y": 0.1136
+                    },
+                    "LeftMargin": 50.54,
+                    "RightMargin": 97.46,
+                    "TopMargin": 201.48,
+                    "BottomMargin": 32.52,
+                    "Tag": 327,
+                    "ActionTag": -1536892632,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 30.0
+                    },
+                    "Name": "reward_txt_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "X3",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "SignUI/qdsz.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 130.56,
+                      "Y": 46.5168
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.64,
+                      "Y": 0.1762
+                    },
+                    "PreSize": {
+                      "X": 0.1961,
+                      "Y": 0.1212
+                    },
+                    "LeftMargin": 110.56,
+                    "RightMargin": 53.44,
+                    "TopMargin": 201.4832,
+                    "BottomMargin": 30.5168,
+                    "Tag": 328,
+                    "ActionTag": 1200224635,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/cover.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 67,
+                    "Scale9OriginY": 87,
+                    "Scale9Width": 70,
+                    "Scale9Height": 90,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 329,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SignUI/received.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 60,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 62,
+                        "Scale9Height": 20,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 79.4857,
+                          "Y": 78.3023
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3896,
+                          "Y": 0.2966
+                        },
+                        "PreSize": {
+                          "X": 0.8922,
+                          "Y": 0.2121
+                        },
+                        "LeftMargin": -11.5143,
+                        "RightMargin": 33.5143,
+                        "TopMargin": 157.6977,
+                        "BottomMargin": 50.3023,
+                        "Tag": 330,
+                        "ActionTag": 764147955,
+                        "Size": {
+                          "X": 182.0,
+                          "Y": 56.0
+                        },
+                        "Name": "received_img",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -2124261376,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 264.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "cover_panel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 637569635,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 264.0
+                },
+                "Name": "day_panel_3",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SignUI/day4.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 70,
+                "Scale9Height": 90,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 857.6504,
+                  "Y": 324.48
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.67,
+                  "Y": 0.4507
+                },
+                "PreSize": {
+                  "X": 0.1594,
+                  "Y": 0.3667
+                },
+                "LeftMargin": 857.6504,
+                "RightMargin": 218.3496,
+                "TopMargin": 131.52,
+                "BottomMargin": 324.48,
+                "Tag": 331,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 79,
+                    "Scale9OriginY": 99,
+                    "Scale9Width": 84,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.1863,
+                      "Y": 1.1439
+                    },
+                    "LeftMargin": -19.0,
+                    "RightMargin": -19.0,
+                    "TopMargin": -19.0,
+                    "BottomMargin": -19.0,
+                    "Tag": 332,
+                    "ActionTag": -1744774040,
+                    "Size": {
+                      "X": 242.0,
+                      "Y": 302.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "light_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/Diamond/Diamond4.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7255,
+                      "Y": 0.553
+                    },
+                    "LeftMargin": 28.0,
+                    "RightMargin": 28.0,
+                    "TopMargin": 59.0,
+                    "BottomMargin": 59.0,
+                    "Tag": 333,
+                    "ActionTag": 993473741,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/diamond_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 32,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.54,
+                      "Y": 47.52
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.385,
+                      "Y": 0.18
+                    },
+                    "PreSize": {
+                      "X": 0.2745,
+                      "Y": 0.1136
+                    },
+                    "LeftMargin": 50.54,
+                    "RightMargin": 97.46,
+                    "TopMargin": 201.48,
+                    "BottomMargin": 32.52,
+                    "Tag": 334,
+                    "ActionTag": -346422760,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 30.0
+                    },
+                    "Name": "reward_txt_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "X4",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "SignUI/qdsz.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 130.56,
+                      "Y": 45.5136
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.64,
+                      "Y": 0.1724
+                    },
+                    "PreSize": {
+                      "X": 0.1961,
+                      "Y": 0.1212
+                    },
+                    "LeftMargin": 110.56,
+                    "RightMargin": 53.44,
+                    "TopMargin": 202.4864,
+                    "BottomMargin": 29.5136,
+                    "Tag": 335,
+                    "ActionTag": 892433657,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/cover.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 67,
+                    "Scale9OriginY": 87,
+                    "Scale9Width": 70,
+                    "Scale9Height": 90,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 336,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SignUI/received.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 60,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 62,
+                        "Scale9Height": 20,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 79.4857,
+                          "Y": 78.3023
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3896,
+                          "Y": 0.2966
+                        },
+                        "PreSize": {
+                          "X": 0.8922,
+                          "Y": 0.2121
+                        },
+                        "LeftMargin": -11.5143,
+                        "RightMargin": 33.5143,
+                        "TopMargin": 157.6977,
+                        "BottomMargin": 50.3023,
+                        "Tag": 337,
+                        "ActionTag": -1505287840,
+                        "Size": {
+                          "X": 182.0,
+                          "Y": 56.0
+                        },
+                        "Name": "received_img",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1591306510,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 264.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "cover_panel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 656921290,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 264.0
+                },
+                "Name": "day_panel_4",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SignUI/day5.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 70,
+                "Scale9Height": 90,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 217.0395,
+                  "Y": 49.5687
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1696,
+                  "Y": 0.0688
+                },
+                "PreSize": {
+                  "X": 0.1594,
+                  "Y": 0.3667
+                },
+                "LeftMargin": 217.0395,
+                "RightMargin": 858.9605,
+                "TopMargin": 406.4313,
+                "BottomMargin": 49.5687,
+                "Tag": 338,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 79,
+                    "Scale9OriginY": 99,
+                    "Scale9Width": 84,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.1863,
+                      "Y": 1.1439
+                    },
+                    "LeftMargin": -19.0,
+                    "RightMargin": -19.0,
+                    "TopMargin": -19.0,
+                    "BottomMargin": -19.0,
+                    "Tag": 339,
+                    "ActionTag": -351649693,
+                    "Size": {
+                      "X": 242.0,
+                      "Y": 302.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "light_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/Diamond/Diamond5.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7255,
+                      "Y": 0.553
+                    },
+                    "LeftMargin": 28.0,
+                    "RightMargin": 28.0,
+                    "TopMargin": 59.0,
+                    "BottomMargin": 59.0,
+                    "Tag": 340,
+                    "ActionTag": -1876296212,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/diamond_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 32,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.54,
+                      "Y": 47.52
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.385,
+                      "Y": 0.18
+                    },
+                    "PreSize": {
+                      "X": 0.2745,
+                      "Y": 0.1136
+                    },
+                    "LeftMargin": 50.54,
+                    "RightMargin": 97.46,
+                    "TopMargin": 201.48,
+                    "BottomMargin": 32.52,
+                    "Tag": 341,
+                    "ActionTag": 1087683100,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 30.0
+                    },
+                    "Name": "reward_txt_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "X5",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "SignUI/qdsz.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 130.56,
+                      "Y": 46.5168
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.64,
+                      "Y": 0.1762
+                    },
+                    "PreSize": {
+                      "X": 0.1961,
+                      "Y": 0.1212
+                    },
+                    "LeftMargin": 110.56,
+                    "RightMargin": 53.44,
+                    "TopMargin": 201.4832,
+                    "BottomMargin": 30.5168,
+                    "Tag": 342,
+                    "ActionTag": -157003099,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/cover.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 67,
+                    "Scale9OriginY": 87,
+                    "Scale9Width": 70,
+                    "Scale9Height": 90,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 343,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SignUI/received.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 60,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 62,
+                        "Scale9Height": 20,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 79.4857,
+                          "Y": 78.3023
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3896,
+                          "Y": 0.2966
+                        },
+                        "PreSize": {
+                          "X": 0.8922,
+                          "Y": 0.2121
+                        },
+                        "LeftMargin": -11.5143,
+                        "RightMargin": 33.5143,
+                        "TopMargin": 157.6977,
+                        "BottomMargin": 50.3023,
+                        "Tag": 344,
+                        "ActionTag": 482701105,
+                        "Size": {
+                          "X": 182.0,
+                          "Y": 56.0
+                        },
+                        "Name": "received_img",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 568833122,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 264.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "cover_panel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 128574740,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 264.0
+                },
+                "Name": "day_panel_5",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SignUI/day6.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 70,
+                "Scale9Height": 90,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 430.4068,
+                  "Y": 49.5687
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3363,
+                  "Y": 0.0688
+                },
+                "PreSize": {
+                  "X": 0.1594,
+                  "Y": 0.3667
+                },
+                "LeftMargin": 430.4068,
+                "RightMargin": 645.5932,
+                "TopMargin": 406.4313,
+                "BottomMargin": 49.5687,
+                "Tag": 345,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/light.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 79,
+                    "Scale9OriginY": 99,
+                    "Scale9Width": 84,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.1863,
+                      "Y": 1.1439
+                    },
+                    "LeftMargin": -19.0,
+                    "RightMargin": -19.0,
+                    "TopMargin": -19.0,
+                    "BottomMargin": -19.0,
+                    "Tag": 346,
+                    "ActionTag": -2010341115,
+                    "Size": {
+                      "X": 242.0,
+                      "Y": 302.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "light_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/Diamond/Diamond6.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7255,
+                      "Y": 0.553
+                    },
+                    "LeftMargin": 28.0,
+                    "RightMargin": 28.0,
+                    "TopMargin": 59.0,
+                    "BottomMargin": 59.0,
+                    "Tag": 347,
+                    "ActionTag": 1536386420,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/diamond_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 32,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 78.54,
+                      "Y": 47.52
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.385,
+                      "Y": 0.18
+                    },
+                    "PreSize": {
+                      "X": 0.2745,
+                      "Y": 0.1136
+                    },
+                    "LeftMargin": 50.54,
+                    "RightMargin": 97.46,
+                    "TopMargin": 201.48,
+                    "BottomMargin": 32.52,
+                    "Tag": 348,
+                    "ActionTag": 1558395696,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 30.0
+                    },
+                    "Name": "reward_txt_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "X6",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "SignUI/qdsz.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 130.56,
+                      "Y": 46.5168
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.64,
+                      "Y": 0.1762
+                    },
+                    "PreSize": {
+                      "X": 0.1961,
+                      "Y": 0.1212
+                    },
+                    "LeftMargin": 110.56,
+                    "RightMargin": 53.44,
+                    "TopMargin": 201.4832,
+                    "BottomMargin": 30.5168,
+                    "Tag": 349,
+                    "ActionTag": -1199088474,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/cover.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 67,
+                    "Scale9OriginY": 87,
+                    "Scale9Width": 70,
+                    "Scale9Height": 90,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 350,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SignUI/received.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 60,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 62,
+                        "Scale9Height": 20,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 79.4857,
+                          "Y": 78.3023
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3896,
+                          "Y": 0.2966
+                        },
+                        "PreSize": {
+                          "X": 0.8922,
+                          "Y": 0.2121
+                        },
+                        "LeftMargin": -11.5143,
+                        "RightMargin": 33.5143,
+                        "TopMargin": 157.6977,
+                        "BottomMargin": 50.3023,
+                        "Tag": 351,
+                        "ActionTag": -378901307,
+                        "Size": {
+                          "X": 182.0,
+                          "Y": 56.0
+                        },
+                        "Name": "received_img",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 61912091,
+                    "Size": {
+                      "X": 204.0,
+                      "Y": 264.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "cover_panel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -305212473,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 264.0
+                },
+                "Name": "day_panel_6",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "SignUI/day7.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 278,
+                "Scale9Height": 90,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 645.65,
+                  "Y": 50.5687
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5044,
+                  "Y": 0.0702
+                },
+                "PreSize": {
+                  "X": 0.3219,
+                  "Y": 0.3667
+                },
+                "LeftMargin": 645.65,
+                "RightMargin": 222.35,
+                "TopMargin": 405.4313,
+                "BottomMargin": 50.5687,
+                "Tag": 352,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/light_big.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 79,
+                    "Scale9OriginY": 99,
+                    "Scale9Width": 296,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 206.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.1019,
+                      "Y": 1.1439
+                    },
+                    "LeftMargin": -21.0,
+                    "RightMargin": -21.0,
+                    "TopMargin": -19.0,
+                    "BottomMargin": -19.0,
+                    "Tag": 353,
+                    "ActionTag": -196388873,
+                    "Size": {
+                      "X": 454.0,
+                      "Y": 302.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "light_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/Diamond/Diamond7.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 206.0,
+                      "Y": 132.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3592,
+                      "Y": 0.553
+                    },
+                    "LeftMargin": 132.0,
+                    "RightMargin": 132.0,
+                    "TopMargin": 59.0,
+                    "BottomMargin": 59.0,
+                    "Tag": 354,
+                    "ActionTag": -691830903,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/diamond_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 18,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 32,
+                    "Scale9Height": 14,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 181.9392,
+                      "Y": 47.52
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4416,
+                      "Y": 0.18
+                    },
+                    "PreSize": {
+                      "X": 0.1359,
+                      "Y": 0.1136
+                    },
+                    "LeftMargin": 153.9392,
+                    "RightMargin": 202.0608,
+                    "TopMargin": 201.48,
+                    "BottomMargin": 32.52,
+                    "Tag": 355,
+                    "ActionTag": -683164603,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 30.0
+                    },
+                    "Name": "reward_txt_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "X7",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "SignUI/qdsz.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 234.9636,
+                      "Y": 46.5168
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5703,
+                      "Y": 0.1762
+                    },
+                    "PreSize": {
+                      "X": 0.0971,
+                      "Y": 0.1212
+                    },
+                    "LeftMargin": 214.9636,
+                    "RightMargin": 157.0364,
+                    "TopMargin": 201.4832,
+                    "BottomMargin": 30.5168,
+                    "Tag": 356,
+                    "ActionTag": 462246429,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "SignUI/cover_big.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 67,
+                    "Scale9OriginY": 87,
+                    "Scale9Width": 274,
+                    "Scale9Height": 84,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 1.0,
+                      "Y": -2.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0024,
+                      "Y": -0.0076
+                    },
+                    "PercentWidthEnable": true,
+                    "PercentHeightEnable": true,
+                    "PercentWidthEnabled": true,
+                    "PercentHeightEnabled": true,
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "LeftMargin": 1.0,
+                    "RightMargin": -1.0,
+                    "TopMargin": 2.0,
+                    "BottomMargin": -2.0,
+                    "Tag": 357,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "SignUI/received.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 60,
+                        "Scale9OriginY": 18,
+                        "Scale9Width": 62,
+                        "Scale9Height": 20,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 79.4857,
+                          "Y": 78.3023
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1929,
+                          "Y": 0.2966
+                        },
+                        "PreSize": {
+                          "X": 0.4417,
+                          "Y": 0.2121
+                        },
+                        "LeftMargin": -11.5143,
+                        "RightMargin": 241.5143,
+                        "TopMargin": 157.6977,
+                        "BottomMargin": 50.3023,
+                        "Tag": 358,
+                        "ActionTag": -387175379,
+                        "Size": {
+                          "X": 182.0,
+                          "Y": 56.0
+                        },
+                        "Name": "received_img",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -884158464,
+                    "Size": {
+                      "X": 412.0,
+                      "Y": 264.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "cover_panel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": -1169149600,
+                "Size": {
+                  "X": 412.0,
+                  "Y": 264.0
+                },
+                "Name": "day_panel_7",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 79446115,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "sign_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/return_btn.png",
+        "SignUI/cover.png",
+        "SignUI/cover_big.png",
+        "SignUI/day1.png",
+        "SignUI/day2.png",
+        "SignUI/day3.png",
+        "SignUI/day4.png",
+        "SignUI/day5.png",
+        "SignUI/day6.png",
+        "SignUI/day7.png",
+        "SignUI/Diamond/Diamond1.png",
+        "SignUI/Diamond/Diamond2.png",
+        "SignUI/Diamond/Diamond3.png",
+        "SignUI/Diamond/Diamond4.png",
+        "SignUI/Diamond/Diamond5.png",
+        "SignUI/Diamond/Diamond6.png",
+        "SignUI/Diamond/Diamond7.png",
+        "SignUI/diamond_img.png",
+        "SignUI/light.png",
+        "SignUI/light_big.png",
+        "SignUI/qdsz.fnt",
+        "SignUI/qdsz.png",
+        "SignUI/received.png",
+        "SignUI/sign_win.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

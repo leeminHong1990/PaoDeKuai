@@ -1,0 +1,23 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="MagicCheersUI" Type="Plist" ID="a6431de1-9d66-4e1b-8eb1-834ef7d84f5e" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="MagicCheersUI/1.png" />
+      <FilePathData Path="MagicCheersUI/10.png" />
+      <FilePathData Path="MagicCheersUI/11.png" />
+      <FilePathData Path="MagicCheersUI/12.png" />
+      <FilePathData Path="MagicCheersUI/13.png" />
+      <FilePathData Path="MagicCheersUI/14.png" />
+      <FilePathData Path="MagicCheersUI/15.png" />
+      <FilePathData Path="MagicCheersUI/2.png" />
+      <FilePathData Path="MagicCheersUI/3.png" />
+      <FilePathData Path="MagicCheersUI/4.png" />
+      <FilePathData Path="MagicCheersUI/5.png" />
+      <FilePathData Path="MagicCheersUI/6.png" />
+      <FilePathData Path="MagicCheersUI/7.png" />
+      <FilePathData Path="MagicCheersUI/8.png" />
+      <FilePathData Path="MagicCheersUI/9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

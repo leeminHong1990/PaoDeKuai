@@ -1,0 +1,182 @@
+<root>
+	<Volatile>
+		<position> 0 </position>
+		<yaw> 0 </yaw>
+		<pitch> 0 </pitch>
+		<roll> 0 </roll>
+	</Volatile>
+
+	<Interfaces>
+		<Interface>	GameObject		    </Interface>
+		<Interface>	iBase		        </Interface>
+		<Interface>	iGroup		        </Interface>
+		<Interface>	iRoomOperation		</Interface>
+		<Interface>	iRecordOperation	</Interface>
+		<Interface>	iAchievement		</Interface>
+		<Interface>	iRanking		    </Interface>
+		<Interface>	iSportOperation		</Interface>
+	</Interfaces>
+
+	<Properties>
+		<userId>
+			<Type>			UID			</Type>
+			<Flags>			BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</userId>
+
+		<uuid>
+			<Type>			UUID			</Type>
+			<Flags>			BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</uuid>
+		
+		<accountName>
+			<Type>			UNICODE			</Type>
+			<Flags>			BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</accountName>
+
+		<characterNum>
+			<Type>			UINT8		</Type>
+			<Flags>			BASE				</Flags>
+			<Persistent>		true				</Persistent>
+		</characterNum>
+		
+		<name>
+			<Type>			UNICODE			</Type>
+			<Flags>			BASE		</Flags>
+			<Default>			Richard			</Default>
+			<Persistent>		true			</Persistent>
+		</name>
+		
+		<vipLevel>
+			<Type>			UINT32		</Type>
+			<Flags>			BASE				</Flags>
+		</vipLevel>
+
+		<lastLoginTime>
+			<Type>	DOUBLE	</Type>
+			<Flags>	BASE	</Flags>
+			<Persistent>	true	</Persistent>
+			<Default>	0	</Default>
+		</lastLoginTime>
+
+		<cards>
+			<Type>			INT32			</Type>
+			<Flags>			BASE		</Flags>
+			<Default>			3			</Default>
+			<Persistent>		true			</Persistent>
+		</cards>
+		<sex>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE		</Flags>
+			<Default>			1			</Default>
+			<Persistent>		true			</Persistent>
+		</sex>
+		<head_icon>
+			<Type>				UNICODE			</Type>
+			<Flags>				BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</head_icon>
+		<location>
+			<Type>				UNICODE			</Type>
+			<Flags>				BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</location>
+		<lat>
+			<Type>				UNICODE			</Type>
+			<Flags>				BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</lat>
+		<lng>
+			<Type>				UNICODE			</Type>
+			<Flags>				BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</lng>
+		<game_history>
+			<Type>				GAME_RECORD_LIST			</Type>
+			<Flags>				BASE	</Flags>
+			<Default>			[]		</Default>
+			<Persistent>		true		</Persistent>
+		</game_history>
+		<id_name>
+			<Type>				UNICODE			</Type>
+			<Flags>				BASE	</Flags>
+			<Persistent>		true		</Persistent>
+		</id_name>
+		<id_number>
+			<Type>				UNICODE			</Type>
+			<Flags>				BASE	</Flags>
+			<Persistent>		true		</Persistent>
+		</id_number>
+		<integral>
+			<Type>				INT32			</Type>
+			<Flags>				BASE	</Flags>
+			<Persistent>		true		</Persistent>
+		</integral>
+
+		<left_games>
+			<Type>				INT32		</Type>
+			<Flags>				BASE	    </Flags>
+			<Default>			0		</Default>
+			<Persistent>		true		</Persistent>
+		</left_games>
+	</Properties>
+
+
+	<BaseMethods>
+		<logout>
+			<Exposed/>
+		</logout>
+		<updateUserInfo>
+			<Exposed/>
+			<Arg> USER_INFO </Arg>
+		</updateUserInfo>
+		<updateRealNameInfo>
+			<Exposed/>
+			<Arg> REALNAME_INFO </Arg>
+		</updateRealNameInfo>
+		<giveUpWeeklySport>
+			<Exposed/>
+		</giveUpWeeklySport>
+	</BaseMethods>
+
+	<CellMethods>
+	</CellMethods>
+
+	<ClientMethods>
+		<closeClient>
+		</closeClient>
+		<beginGame>
+			<Arg>	UINT8	</Arg>
+		</beginGame>
+		<pushRoomCard>
+			<Arg>	UINT32	</Arg>
+		</pushRoomCard>
+		<operationFail>
+			<Arg>			UINT32		</Arg>
+			<Arg>			UINT32		</Arg>
+		</operationFail>
+		<operationSuccess>
+			<Arg>			UINT32		</Arg>
+			<Arg>			UINT32		</Arg>
+		</operationSuccess>
+		<pushPlayerInfoList>
+			<Arg>		AVATAR_INFO_LIST		</Arg>
+			<Arg>		UINT8					</Arg>
+		</pushPlayerInfoList>
+		<showTip>
+			<Arg>  UNICODE  </Arg>
+		</showTip>
+		<showGPS>
+		</showGPS>
+		<recvWorldNotice>
+			<Arg>  UNICODE  </Arg>
+			<Arg>	UINT32  </Arg>
+		</recvWorldNotice>
+		<pushGameLeft>
+			<Arg>	INT32	</Arg>
+		</pushGameLeft>
+	</ClientMethods>
+</root>
+

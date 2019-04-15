@@ -1,0 +1,30 @@
+<root>
+	<Properties>
+		<mailList>
+			<Type>	MAIL_LIST	</Type>
+			<Flags>	BASE		</Flags>
+			<Persistent>		true				</Persistent>
+		</mailList>
+	</Properties>
+	<ClientMethods>
+	</ClientMethods>
+	<BaseMethods>
+		<sendMail>
+			<Arg>		UUID		</Arg>
+			<Arg>		MAIL_INFO		</Arg>
+		</sendMail>
+		<sendMailByUID>
+			<Arg>		UINT32		</Arg>
+			<Arg>		MAIL_INFO		</Arg>
+		</sendMailByUID>
+		<sendPidToMail>
+			<Arg>		UINT32		</Arg>
+			<Arg>		DBID		</Arg>
+			<Arg>		MAIL_INFO		</Arg>
+		</sendPidToMail>		
+		<getSysMails>
+			<Arg>		MAILBOX		</Arg>
+			<Arg>		DOUBLE		</Arg>
+		</getSysMails>
+	</BaseMethods>
+</root>

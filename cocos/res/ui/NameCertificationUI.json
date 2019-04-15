@@ -1,0 +1,535 @@
+{
+  "ID": "35a650de-90b4-41e0-ba05-1825dca7864c",
+  "Version": "3.10.0.0",
+  "Name": "NameCertificationUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 656,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 657,
+            "ActionTag": -235683914,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BackGround/medium_win.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 274,
+            "Scale9OriginY": 196,
+            "Scale9Width": 320,
+            "Scale9Height": 172,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 658,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "NameCertificationUI/NameCer_bg_img.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 271,
+                "Scale9OriginY": 145,
+                "Scale9Width": 282,
+                "Scale9Height": 150,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 313.2
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.435
+                },
+                "PreSize": {
+                  "X": 0.6438,
+                  "Y": 0.6111
+                },
+                "LeftMargin": 228.0,
+                "RightMargin": 228.0,
+                "TopMargin": 186.8,
+                "BottomMargin": 93.2,
+                "Tag": 659,
+                "ActionTag": 1251632161,
+                "Size": {
+                  "X": 824.0,
+                  "Y": 440.0
+                },
+                "Name": "bg_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "NameCertificationUI/nameCertification.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 72,
+                "Scale9OriginY": 22,
+                "Scale9Width": 76,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 585.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8125
+                },
+                "PreSize": {
+                  "X": 0.1719,
+                  "Y": 0.0944
+                },
+                "LeftMargin": 530.0,
+                "RightMargin": 530.0,
+                "TopMargin": 101.0,
+                "BottomMargin": 551.0,
+                "Tag": 660,
+                "ActionTag": 1240009315,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 68.0
+                },
+                "Name": "bg_txt_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 238.4678,
+                  "Y": 279.9945
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1863,
+                  "Y": 0.3889
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.2778
+                },
+                "LeftMargin": 238.4678,
+                "RightMargin": 241.5322,
+                "TopMargin": 240.0055,
+                "BottomMargin": 279.9945,
+                "Tag": 661,
+                "Children": [
+                  {
+                    "FontSize": 35,
+                    "LabelText": "姓名：",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 118.0787,
+                      "Y": 150.3072
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 133,
+                      "G": 87,
+                      "B": 32
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1476,
+                      "Y": 0.7515
+                    },
+                    "PreSize": {
+                      "X": 0.1312,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 65.5787,
+                    "RightMargin": 629.4213,
+                    "TopMargin": 32.1928,
+                    "BottomMargin": 132.8072,
+                    "Tag": 665,
+                    "ActionTag": -1802250261,
+                    "Size": {
+                      "X": 105.0,
+                      "Y": 35.0
+                    },
+                    "Name": "name_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 35,
+                    "LabelText": "身份证：",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5404,
+                      "ScaleY": 0.5485
+                    },
+                    "Position": {
+                      "X": 106.2299,
+                      "Y": 42.2
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 133,
+                      "G": 87,
+                      "B": 32
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1328,
+                      "Y": 0.211
+                    },
+                    "PreSize": {
+                      "X": 0.175,
+                      "Y": 0.175
+                    },
+                    "LeftMargin": 30.5739,
+                    "RightMargin": 629.4261,
+                    "TopMargin": 141.9975,
+                    "BottomMargin": 23.0025,
+                    "Tag": 666,
+                    "ActionTag": -1354904079,
+                    "Size": {
+                      "X": 140.0,
+                      "Y": 35.0
+                    },
+                    "Name": "id_label",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -489325487,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 200.0
+                },
+                "Name": "info_panel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "NameCertificationUI/ok_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 194,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 187.2
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.26
+                },
+                "PreSize": {
+                  "X": 0.175,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 528.0,
+                "RightMargin": 528.0,
+                "TopMargin": 485.8,
+                "BottomMargin": 140.2,
+                "Tag": 662,
+                "ActionTag": 1880894924,
+                "Size": {
+                  "X": 224.0,
+                  "Y": 94.0
+                },
+                "Name": "confirm_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/return_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1069.0883,
+                  "Y": 546.7748
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8352,
+                  "Y": 0.7594
+                },
+                "PreSize": {
+                  "X": 0.0547,
+                  "Y": 0.1
+                },
+                "LeftMargin": 1034.0883,
+                "RightMargin": 175.9117,
+                "TopMargin": 137.2252,
+                "BottomMargin": 510.7748,
+                "Tag": 14,
+                "ActionTag": 319401576,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 72.0
+                },
+                "Name": "return_btn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 2098674694,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "certification_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "BackGround/medium_win.png",
+        "Default/return_btn.png",
+        "NameCertificationUI/NameCer_bg_img.png",
+        "NameCertificationUI/nameCertification.png",
+        "NameCertificationUI/ok_btn.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

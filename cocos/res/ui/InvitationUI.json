@@ -1,0 +1,2260 @@
+{
+  "ID": "2dd4a61c-6200-43fa-a3c4-5f799e994fd1",
+  "Version": "3.10.0.0",
+  "Name": "InvitationUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1637,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1638,
+            "ActionTag": 1304507002,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BackGround/tall_win.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 168,
+            "Scale9OriginY": 168,
+            "Scale9Width": 410,
+            "Scale9Height": 320,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.5828,
+              "Y": 0.9111
+            },
+            "LeftMargin": 267.0,
+            "RightMargin": 267.0,
+            "TopMargin": 32.0,
+            "BottomMargin": 32.0,
+            "Tag": 1639,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/title.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 59,
+                "Scale9OriginY": 15,
+                "Scale9Width": 78,
+                "Scale9Height": 10,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 373.0,
+                  "Y": 605.4224
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9229
+                },
+                "PreSize": {
+                  "X": 0.2627,
+                  "Y": 0.061
+                },
+                "LeftMargin": 275.0,
+                "RightMargin": 275.0,
+                "TopMargin": 30.5776,
+                "BottomMargin": 585.4224,
+                "Tag": 1640,
+                "ActionTag": -1774075722,
+                "Size": {
+                  "X": 196.0,
+                  "Y": 40.0
+                },
+                "Name": "title_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "请输入房间号",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 380.0124,
+                  "Y": 548.0224
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 49,
+                  "G": 48,
+                  "B": 48
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5094,
+                  "Y": 0.8354
+                },
+                "PreSize": {
+                  "X": 0.2011,
+                  "Y": 0.0457
+                },
+                "LeftMargin": 305.0124,
+                "RightMargin": 290.9876,
+                "TopMargin": 92.9776,
+                "BottomMargin": 533.0224,
+                "Tag": 132,
+                "ActionTag": -1788648536,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 30.0
+                },
+                "Name": "hint_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/underline.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 23,
+                "Scale9OriginY": 1,
+                "Scale9Width": 50,
+                "Scale9Height": 49,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 172.0012,
+                  "Y": 461.4
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2306,
+                  "Y": 0.7034
+                },
+                "PreSize": {
+                  "X": 0.1287,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 124.0012,
+                "RightMargin": 525.9988,
+                "TopMargin": 169.1,
+                "BottomMargin": 435.9,
+                "Tag": 1642,
+                "ActionTag": 308912406,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 51.0
+                },
+                "Name": "Image_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/underline.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 23,
+                "Scale9OriginY": 1,
+                "Scale9Width": 50,
+                "Scale9Height": 49,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 256.0005,
+                  "Y": 461.4016
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3432,
+                  "Y": 0.7034
+                },
+                "PreSize": {
+                  "X": 0.1287,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 208.0005,
+                "RightMargin": 441.9995,
+                "TopMargin": 169.0984,
+                "BottomMargin": 435.9016,
+                "Tag": 1643,
+                "ActionTag": -1498990359,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 51.0
+                },
+                "Name": "Image_3_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/underline.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 23,
+                "Scale9OriginY": 1,
+                "Scale9Width": 50,
+                "Scale9Height": 49,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 340.0,
+                  "Y": 461.4016
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4558,
+                  "Y": 0.7034
+                },
+                "PreSize": {
+                  "X": 0.1287,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 292.0,
+                "RightMargin": 358.0,
+                "TopMargin": 169.0984,
+                "BottomMargin": 435.9016,
+                "Tag": 1644,
+                "ActionTag": 728125886,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 51.0
+                },
+                "Name": "Image_3_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/underline.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 23,
+                "Scale9OriginY": 1,
+                "Scale9Width": 50,
+                "Scale9Height": 49,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 424.0,
+                  "Y": 461.4016
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5684,
+                  "Y": 0.7034
+                },
+                "PreSize": {
+                  "X": 0.1287,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 376.0,
+                "RightMargin": 274.0,
+                "TopMargin": 169.0984,
+                "BottomMargin": 435.9016,
+                "Tag": 1645,
+                "ActionTag": 108396626,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 51.0
+                },
+                "Name": "Image_3_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/underline.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 23,
+                "Scale9OriginY": 1,
+                "Scale9Width": 50,
+                "Scale9Height": 49,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 507.0,
+                  "Y": 461.4012
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6796,
+                  "Y": 0.7034
+                },
+                "PreSize": {
+                  "X": 0.1287,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 459.0,
+                "RightMargin": 191.0,
+                "TopMargin": 169.0988,
+                "BottomMargin": 435.9012,
+                "Tag": 1646,
+                "ActionTag": -819869771,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 51.0
+                },
+                "Name": "Image_3_3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/underline.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 23,
+                "Scale9OriginY": 1,
+                "Scale9Width": 50,
+                "Scale9Height": 49,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 590.0006,
+                  "Y": 461.4012
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7909,
+                  "Y": 0.7034
+                },
+                "PreSize": {
+                  "X": 0.1287,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 542.0006,
+                "RightMargin": 107.9994,
+                "TopMargin": 169.0988,
+                "BottomMargin": 435.9012,
+                "Tag": 1647,
+                "ActionTag": -542499797,
+                "Size": {
+                  "X": 96.0,
+                  "Y": 51.0
+                },
+                "Name": "Image_3_4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "InvitationUI/0.png",
+                  "Plist": "InvitationUI.plist"
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 13,
+                "Scale9Width": 38,
+                "Scale9Height": 25,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 172.0,
+                  "Y": 494.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2306,
+                  "Y": 0.753
+                },
+                "PreSize": {
+                  "X": 0.0751,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 144.0,
+                "RightMargin": 546.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 468.5,
+                "Tag": 1648,
+                "ActionTag": -1044596908,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 51.0
+                },
+                "Name": "num_img5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "InvitationUI/0.png",
+                  "Plist": "InvitationUI.plist"
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 13,
+                "Scale9Width": 38,
+                "Scale9Height": 25,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 256.0,
+                  "Y": 494.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3432,
+                  "Y": 0.753
+                },
+                "PreSize": {
+                  "X": 0.0751,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 228.0,
+                "RightMargin": 462.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 468.5,
+                "Tag": 1649,
+                "ActionTag": 16555627,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 51.0
+                },
+                "Name": "num_img4",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "InvitationUI/0.png",
+                  "Plist": "InvitationUI.plist"
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 13,
+                "Scale9Width": 38,
+                "Scale9Height": 25,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 340.0,
+                  "Y": 494.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4558,
+                  "Y": 0.753
+                },
+                "PreSize": {
+                  "X": 0.0751,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 312.0,
+                "RightMargin": 378.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 468.5,
+                "Tag": 1650,
+                "ActionTag": -1002447916,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 51.0
+                },
+                "Name": "num_img3",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "InvitationUI/0.png",
+                  "Plist": "InvitationUI.plist"
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 13,
+                "Scale9Width": 38,
+                "Scale9Height": 25,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 424.0,
+                  "Y": 494.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5684,
+                  "Y": 0.753
+                },
+                "PreSize": {
+                  "X": 0.0751,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 396.0,
+                "RightMargin": 294.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 468.5,
+                "Tag": 1651,
+                "ActionTag": -131254146,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 51.0
+                },
+                "Name": "num_img2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "InvitationUI/0.png",
+                  "Plist": "InvitationUI.plist"
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 13,
+                "Scale9Width": 38,
+                "Scale9Height": 25,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 507.0,
+                  "Y": 494.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6796,
+                  "Y": 0.753
+                },
+                "PreSize": {
+                  "X": 0.0751,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 479.0,
+                "RightMargin": 211.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 468.5,
+                "Tag": 1652,
+                "ActionTag": -567450817,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 51.0
+                },
+                "Name": "num_img1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "InvitationUI/0.png",
+                  "Plist": "InvitationUI.plist"
+                },
+                "Scale9OriginX": 9,
+                "Scale9OriginY": 13,
+                "Scale9Width": 38,
+                "Scale9Height": 25,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 590.0,
+                  "Y": 494.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7909,
+                  "Y": 0.753
+                },
+                "PreSize": {
+                  "X": 0.0751,
+                  "Y": 0.0777
+                },
+                "LeftMargin": 562.0,
+                "RightMargin": 128.0,
+                "TopMargin": 136.5,
+                "BottomMargin": 468.5,
+                "Tag": 1653,
+                "ActionTag": -1509967431,
+                "Size": {
+                  "X": 56.0,
+                  "Y": 51.0
+                },
+                "Name": "num_img0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 212.237,
+                  "Y": 397.3392
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2845,
+                  "Y": 0.6057
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 158.237,
+                "RightMargin": 479.763,
+                "TopMargin": 206.6608,
+                "BottomMargin": 345.3392,
+                "Tag": 1655,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "InvitationUI/1.png",
+                      "Plist": "InvitationUI.plist"
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 36,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5185,
+                      "Y": 0.4904
+                    },
+                    "LeftMargin": 26.0,
+                    "RightMargin": 26.0,
+                    "TopMargin": 26.5,
+                    "BottomMargin": 26.5,
+                    "Tag": 1679,
+                    "ActionTag": -312122354,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 51.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1040772021,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_1_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.0266,
+                  "Y": 397.3392
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5121,
+                  "Y": 0.6057
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 328.0266,
+                "RightMargin": 309.9734,
+                "TopMargin": 206.6608,
+                "BottomMargin": 345.3392,
+                "Tag": 1656,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "InvitationUI/2.png",
+                      "Plist": "InvitationUI.plist"
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 36,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5185,
+                      "Y": 0.4904
+                    },
+                    "LeftMargin": 26.0,
+                    "RightMargin": 26.0,
+                    "TopMargin": 26.5,
+                    "BottomMargin": 26.5,
+                    "Tag": 1678,
+                    "ActionTag": 1294695609,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 51.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 414638636,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_2_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 542.7896,
+                  "Y": 397.3392
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7276,
+                  "Y": 0.6057
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 488.7896,
+                "RightMargin": 149.2104,
+                "TopMargin": 206.6608,
+                "BottomMargin": 345.3392,
+                "Tag": 1657,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "InvitationUI/3.png",
+                      "Plist": "InvitationUI.plist"
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 36,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5185,
+                      "Y": 0.4904
+                    },
+                    "LeftMargin": 26.0,
+                    "RightMargin": 26.0,
+                    "TopMargin": 26.5,
+                    "BottomMargin": 26.5,
+                    "Tag": 1677,
+                    "ActionTag": 2012536246,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 51.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 778936174,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_3_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 212.237,
+                  "Y": 292.248
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2845,
+                  "Y": 0.4455
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 158.237,
+                "RightMargin": 479.763,
+                "TopMargin": 311.752,
+                "BottomMargin": 240.248,
+                "Tag": 1659,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "InvitationUI/4.png",
+                      "Plist": "InvitationUI.plist"
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 36,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5185,
+                      "Y": 0.4904
+                    },
+                    "LeftMargin": 26.0,
+                    "RightMargin": 26.0,
+                    "TopMargin": 26.5,
+                    "BottomMargin": 26.5,
+                    "Tag": 1676,
+                    "ActionTag": 1793578632,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 51.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -763693669,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_4_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.0266,
+                  "Y": 292.248
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5121,
+                  "Y": 0.4455
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 328.0266,
+                "RightMargin": 309.9734,
+                "TopMargin": 311.752,
+                "BottomMargin": 240.248,
+                "Tag": 1660,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "InvitationUI/5.png",
+                      "Plist": "InvitationUI.plist"
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 36,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5185,
+                      "Y": 0.4904
+                    },
+                    "LeftMargin": 26.0,
+                    "RightMargin": 26.0,
+                    "TopMargin": 26.5,
+                    "BottomMargin": 26.5,
+                    "Tag": 1675,
+                    "ActionTag": -546940513,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 51.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -541317806,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_5_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 542.7896,
+                  "Y": 292.248
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7276,
+                  "Y": 0.4455
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 488.7896,
+                "RightMargin": 149.2104,
+                "TopMargin": 311.752,
+                "BottomMargin": 240.248,
+                "Tag": 1661,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "InvitationUI/6.png",
+                      "Plist": "InvitationUI.plist"
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 36,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5185,
+                      "Y": 0.4904
+                    },
+                    "LeftMargin": 26.0,
+                    "RightMargin": 26.0,
+                    "TopMargin": 26.5,
+                    "BottomMargin": 26.5,
+                    "Tag": 1674,
+                    "ActionTag": 1604148650,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 51.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 252384204,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_6_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 212.237,
+                  "Y": 185.1232
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2845,
+                  "Y": 0.2822
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 158.237,
+                "RightMargin": 479.763,
+                "TopMargin": 418.8768,
+                "BottomMargin": 133.1232,
+                "Tag": 1662,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "InvitationUI/7.png",
+                      "Plist": "InvitationUI.plist"
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 36,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5185,
+                      "Y": 0.4904
+                    },
+                    "LeftMargin": 26.0,
+                    "RightMargin": 26.0,
+                    "TopMargin": 26.5,
+                    "BottomMargin": 26.5,
+                    "Tag": 1673,
+                    "ActionTag": -421671099,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 51.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 86496052,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_7_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.0266,
+                  "Y": 185.1232
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5121,
+                  "Y": 0.2822
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 328.0266,
+                "RightMargin": 309.9734,
+                "TopMargin": 418.8768,
+                "BottomMargin": 133.1232,
+                "Tag": 1663,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "InvitationUI/8.png",
+                      "Plist": "InvitationUI.plist"
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 36,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5185,
+                      "Y": 0.4904
+                    },
+                    "LeftMargin": 26.0,
+                    "RightMargin": 26.0,
+                    "TopMargin": 26.5,
+                    "BottomMargin": 26.5,
+                    "Tag": 1672,
+                    "ActionTag": -1998150063,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 51.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1606850936,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_8_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 542.7896,
+                  "Y": 185.1232
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7276,
+                  "Y": 0.2822
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 488.7896,
+                "RightMargin": 149.2104,
+                "TopMargin": 418.8768,
+                "BottomMargin": 133.1232,
+                "Tag": 1664,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "InvitationUI/9.png",
+                      "Plist": "InvitationUI.plist"
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 36,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5185,
+                      "Y": 0.4904
+                    },
+                    "LeftMargin": 26.0,
+                    "RightMargin": 26.0,
+                    "TopMargin": 26.5,
+                    "BottomMargin": 26.5,
+                    "Tag": 1671,
+                    "ActionTag": 396043698,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 51.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 767110089,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_9_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 212.237,
+                  "Y": 82.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2845,
+                  "Y": 0.125
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 158.237,
+                "RightMargin": 479.763,
+                "TopMargin": 522.0,
+                "BottomMargin": 30.0,
+                "Tag": 1665,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "InvitationUI/del.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 19,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 50,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.8148,
+                      "Y": 0.3269
+                    },
+                    "LeftMargin": 10.0,
+                    "RightMargin": 10.0,
+                    "TopMargin": 35.0,
+                    "BottomMargin": 35.0,
+                    "Tag": 1670,
+                    "ActionTag": 1193741673,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 34.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1140874923,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_back_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 382.0266,
+                  "Y": 82.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5121,
+                  "Y": 0.125
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 328.0266,
+                "RightMargin": 309.9734,
+                "TopMargin": 522.0,
+                "BottomMargin": 30.0,
+                "Tag": 1666,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "InvitationUI/0.png",
+                      "Plist": "InvitationUI.plist"
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 38,
+                    "Scale9Height": 25,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.5185,
+                      "Y": 0.4904
+                    },
+                    "LeftMargin": 26.0,
+                    "RightMargin": 26.0,
+                    "TopMargin": 26.5,
+                    "BottomMargin": 26.5,
+                    "Tag": 1669,
+                    "ActionTag": 854812698,
+                    "Size": {
+                      "X": 56.0,
+                      "Y": 51.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -289391273,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_0_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "InvitationUI/num_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 78,
+                "Scale9Height": 82,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 542.7896,
+                  "Y": 82.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7276,
+                  "Y": 0.125
+                },
+                "PreSize": {
+                  "X": 0.1448,
+                  "Y": 0.1585
+                },
+                "LeftMargin": 488.7896,
+                "RightMargin": 149.2104,
+                "TopMargin": 522.0,
+                "BottomMargin": 30.0,
+                "Tag": 1667,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "InvitationUI/ok.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 16,
+                    "Scale9Width": 60,
+                    "Scale9Height": 2,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 54.0,
+                      "Y": 52.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.8148,
+                      "Y": 0.3269
+                    },
+                    "LeftMargin": 10.0,
+                    "RightMargin": 10.0,
+                    "TopMargin": 35.0,
+                    "BottomMargin": 35.0,
+                    "Tag": 1668,
+                    "ActionTag": -1985475938,
+                    "Size": {
+                      "X": 88.0,
+                      "Y": 34.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1876911412,
+                "Size": {
+                  "X": 108.0,
+                  "Y": 104.0
+                },
+                "Name": "_ok_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/return_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 52,
+                "Scale9Height": 52,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 656.48,
+                  "Y": 596.96
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.88,
+                  "Y": 0.91
+                },
+                "PreSize": {
+                  "X": 0.1099,
+                  "Y": 0.1128
+                },
+                "LeftMargin": 615.48,
+                "RightMargin": 48.52,
+                "TopMargin": 22.04,
+                "BottomMargin": 559.96,
+                "Tag": 1680,
+                "ActionTag": 1907806195,
+                "Size": {
+                  "X": 82.0,
+                  "Y": 74.0
+                },
+                "Name": "return_btn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 780414838,
+            "Size": {
+              "X": 746.0,
+              "Y": 656.0
+            },
+            "Name": "joinroom_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "BackGround/tall_win.png",
+        "Default/return_btn.png",
+        "InvitationUI.plist",
+        "InvitationUI.png",
+        "InvitationUI/del.png",
+        "InvitationUI/num_bg.png",
+        "InvitationUI/ok.png",
+        "InvitationUI/title.png",
+        "InvitationUI/underline.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

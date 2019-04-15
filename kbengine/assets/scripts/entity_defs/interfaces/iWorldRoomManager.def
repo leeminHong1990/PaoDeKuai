@@ -1,0 +1,43 @@
+<root>
+	<Volatile>
+		<position> 0 </position>
+		<yaw> 0 </yaw>
+		<pitch> 0 </pitch>
+		<roll> 0 </roll>
+	</Volatile>
+
+	<Interfaces>
+	</Interfaces>
+
+	<Properties>
+	</Properties>
+
+
+	<BaseMethods>
+        <addRoom>
+			<Arg>		MAILBOX		</Arg>
+		</addRoom>
+        <delRoom>
+			<Arg>		MAILBOX		</Arg>
+		</delRoom>
+        <enterRoom>
+			<Arg>		UINT32		</Arg>
+            <Arg>		MAILBOX		</Arg>
+		</enterRoom>
+        <quitRoom>
+			<Arg>		UINT32		</Arg>
+			<Arg>		MAILBOX		</Arg>
+		</quitRoom>
+		<swapTileToTop>
+			<Arg>		UINT32		</Arg>
+			<Arg>		UINT32		</Arg>
+		</swapTileToTop>
+	</BaseMethods>
+
+	<CellMethods>
+	</CellMethods>
+
+	<ClientMethods>
+	</ClientMethods>
+</root>
+

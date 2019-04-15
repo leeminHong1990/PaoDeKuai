@@ -1,0 +1,48 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="EffectStreamerUI" Type="Plist" ID="8aff2b60-725b-4c02-86a6-5483d005d815" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="EffectStreamerUI/1.png" />
+      <FilePathData Path="EffectStreamerUI/10.png" />
+      <FilePathData Path="EffectStreamerUI/11.png" />
+      <FilePathData Path="EffectStreamerUI/12.png" />
+      <FilePathData Path="EffectStreamerUI/13.png" />
+      <FilePathData Path="EffectStreamerUI/14.png" />
+      <FilePathData Path="EffectStreamerUI/15.png" />
+      <FilePathData Path="EffectStreamerUI/16.png" />
+      <FilePathData Path="EffectStreamerUI/17.png" />
+      <FilePathData Path="EffectStreamerUI/18.png" />
+      <FilePathData Path="EffectStreamerUI/19.png" />
+      <FilePathData Path="EffectStreamerUI/2.png" />
+      <FilePathData Path="EffectStreamerUI/20.png" />
+      <FilePathData Path="EffectStreamerUI/21.png" />
+      <FilePathData Path="EffectStreamerUI/22.png" />
+      <FilePathData Path="EffectStreamerUI/23.png" />
+      <FilePathData Path="EffectStreamerUI/24.png" />
+      <FilePathData Path="EffectStreamerUI/25.png" />
+      <FilePathData Path="EffectStreamerUI/26.png" />
+      <FilePathData Path="EffectStreamerUI/27.png" />
+      <FilePathData Path="EffectStreamerUI/28.png" />
+      <FilePathData Path="EffectStreamerUI/29.png" />
+      <FilePathData Path="EffectStreamerUI/3.png" />
+      <FilePathData Path="EffectStreamerUI/30.png" />
+      <FilePathData Path="EffectStreamerUI/31.png" />
+      <FilePathData Path="EffectStreamerUI/32.png" />
+      <FilePathData Path="EffectStreamerUI/33.png" />
+      <FilePathData Path="EffectStreamerUI/34.png" />
+      <FilePathData Path="EffectStreamerUI/35.png" />
+      <FilePathData Path="EffectStreamerUI/36.png" />
+      <FilePathData Path="EffectStreamerUI/37.png" />
+      <FilePathData Path="EffectStreamerUI/38.png" />
+      <FilePathData Path="EffectStreamerUI/39.png" />
+      <FilePathData Path="EffectStreamerUI/4.png" />
+      <FilePathData Path="EffectStreamerUI/40.png" />
+      <FilePathData Path="EffectStreamerUI/5.png" />
+      <FilePathData Path="EffectStreamerUI/6.png" />
+      <FilePathData Path="EffectStreamerUI/7.png" />
+      <FilePathData Path="EffectStreamerUI/8.png" />
+      <FilePathData Path="EffectStreamerUI/9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

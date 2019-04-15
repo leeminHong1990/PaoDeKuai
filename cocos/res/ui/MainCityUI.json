@@ -1,0 +1,1729 @@
+{
+  "ID": "0e3c79c7-e1ea-4267-80d7-8a06bfe57c43",
+  "Version": "3.10.0.0",
+  "Name": "MainCityUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 30,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "MainCityUI/main_city_bg.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 422,
+            "Scale9OriginY": 237,
+            "Scale9Width": 436,
+            "Scale9Height": 246,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 31,
+            "ActionTag": 1559987055,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 57.2482,
+              "Y": 504.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0447,
+              "Y": 0.7
+            },
+            "PreSize": {
+              "X": 0.3516,
+              "Y": 0.2083
+            },
+            "LeftMargin": 57.2482,
+            "RightMargin": 772.7518,
+            "TopMargin": 66.0,
+            "BottomMargin": 504.0,
+            "Tag": 51,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_head_bg.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 38,
+                "Scale9Width": 234,
+                "Scale9Height": 42,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 269.4998,
+                  "Y": 71.9287
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5989,
+                  "Y": 0.4795
+                },
+                "PreSize": {
+                  "X": 0.6933,
+                  "Y": 0.7867
+                },
+                "LeftMargin": 113.4998,
+                "RightMargin": 24.5002,
+                "TopMargin": 19.0713,
+                "BottomMargin": 12.9287,
+                "Tag": 55,
+                "ActionTag": -333154367,
+                "Size": {
+                  "X": 312.0,
+                  "Y": 118.0
+                },
+                "Name": "Image_11",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_card.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9OriginX": 13,
+                "Scale9OriginY": 14,
+                "Scale9Width": 16,
+                "Scale9Height": 16,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 142.6911,
+                  "Y": 53.6287
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3171,
+                  "Y": 0.3575
+                },
+                "PreSize": {
+                  "X": 0.0933,
+                  "Y": 0.2933
+                },
+                "LeftMargin": 121.6911,
+                "RightMargin": 286.3089,
+                "TopMargin": 74.3713,
+                "BottomMargin": 31.6287,
+                "Tag": 52,
+                "ActionTag": 365177016,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 44.0
+                },
+                "Name": "Image_8",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_diamond.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9OriginX": 13,
+                "Scale9OriginY": 10,
+                "Scale9Width": 16,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 266.2081,
+                  "Y": 53.441
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5916,
+                  "Y": 0.3563
+                },
+                "PreSize": {
+                  "X": 0.0933,
+                  "Y": 0.2133
+                },
+                "LeftMargin": 245.2081,
+                "RightMargin": 162.7919,
+                "TopMargin": 80.559,
+                "BottomMargin": 37.441,
+                "Tag": 54,
+                "ActionTag": 1628883712,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 32.0
+                },
+                "Name": "Image_10",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_add.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 12,
+                "Scale9Height": 20,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 391.9924,
+                  "Y": 52.9911
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8711,
+                  "Y": 0.3533
+                },
+                "PreSize": {
+                  "X": 0.0933,
+                  "Y": 0.28
+                },
+                "LeftMargin": 370.9924,
+                "RightMargin": 37.0076,
+                "TopMargin": 76.0089,
+                "BottomMargin": 31.9911,
+                "Tag": 60,
+                "ActionTag": 139400384,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 42.0
+                },
+                "Name": "add_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_head_cicle.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9OriginX": 39,
+                "Scale9OriginY": 38,
+                "Scale9Width": 42,
+                "Scale9Height": 40,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 70.5001,
+                  "Y": 75.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1567,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2667,
+                  "Y": 0.7733
+                },
+                "LeftMargin": 10.5001,
+                "RightMargin": 319.4999,
+                "TopMargin": 17.0,
+                "BottomMargin": 17.0,
+                "Tag": 61,
+                "ActionTag": -1157065948,
+                "Size": {
+                  "X": 120.0,
+                  "Y": 116.0
+                },
+                "Name": "player_icon_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9Width": 46,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 71.8963,
+                  "Y": 75.0044
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1598,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2111,
+                  "Y": 0.6333
+                },
+                "LeftMargin": 24.3963,
+                "RightMargin": 330.6037,
+                "TopMargin": 27.4956,
+                "BottomMargin": 27.5044,
+                "Tag": 77,
+                "ActionTag": 1520724622,
+                "Size": {
+                  "X": 95.0,
+                  "Y": 95.0
+                },
+                "Name": "name_icon",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 25,
+                "LabelText": "晴天",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 151.3255,
+                  "Y": 92.727
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3363,
+                  "Y": 0.6182
+                },
+                "PreSize": {
+                  "X": 0.5556,
+                  "Y": 0.1667
+                },
+                "LeftMargin": 151.3255,
+                "RightMargin": 48.6744,
+                "TopMargin": 44.773,
+                "BottomMargin": 80.227,
+                "Tag": 62,
+                "ActionTag": -268955171,
+                "Size": {
+                  "X": 250.0,
+                  "Y": 25.0
+                },
+                "Name": "name_lbl",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "0",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 162.9497,
+                  "Y": 51.03
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3621,
+                  "Y": 0.3402
+                },
+                "PreSize": {
+                  "X": 0.1778,
+                  "Y": 0.1333
+                },
+                "LeftMargin": 162.9497,
+                "RightMargin": 207.0503,
+                "TopMargin": 88.97,
+                "BottomMargin": 41.03,
+                "Tag": 64,
+                "ActionTag": -1504749477,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 20.0
+                },
+                "Name": "card_lbl",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "0",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 288.0263,
+                  "Y": 51.2836
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6401,
+                  "Y": 0.3419
+                },
+                "PreSize": {
+                  "X": 0.1778,
+                  "Y": 0.1333
+                },
+                "LeftMargin": 288.0263,
+                "RightMargin": 81.9737,
+                "TopMargin": 88.7164,
+                "BottomMargin": 41.2836,
+                "Tag": 63,
+                "ActionTag": 194734142,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 20.0
+                },
+                "Name": "diamond_lbl",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1410488684,
+            "Size": {
+              "X": 450.0,
+              "Y": 150.0
+            },
+            "Name": "name_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 324.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.45
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.4861
+            },
+            "TopMargin": 221.0,
+            "BottomMargin": 149.0,
+            "Tag": 46,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_xsmj.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 216,
+                "Scale9Height": 272,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 227.0003,
+                  "Y": 175.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1773,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1922,
+                  "Y": 0.84
+                },
+                "LeftMargin": 104.0003,
+                "RightMargin": 929.9996,
+                "TopMargin": 28.0,
+                "BottomMargin": 28.0,
+                "Tag": 47,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "MainCityUI/main_city_game_name_bg.png",
+                      "Plist": "MainCityUI.plist"
+                    },
+                    "Scale9OriginX": 75,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 80,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 123.0,
+                      "Y": -30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.102
+                    },
+                    "PreSize": {
+                      "X": 0.935,
+                      "Y": 0.1973
+                    },
+                    "LeftMargin": 8.0,
+                    "RightMargin": 8.0,
+                    "TopMargin": 295.0,
+                    "BottomMargin": -59.0,
+                    "Tag": 65,
+                    "ActionTag": -532363181,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 58.0
+                    },
+                    "Name": "img_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "萧山麻将",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 123.0,
+                      "Y": -30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.102
+                    },
+                    "PreSize": {
+                      "X": 0.4878,
+                      "Y": 0.102
+                    },
+                    "LeftMargin": 63.0,
+                    "RightMargin": 63.0,
+                    "TopMargin": 309.0,
+                    "BottomMargin": -45.0,
+                    "Tag": 69,
+                    "ActionTag": 297249786,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 30.0
+                    },
+                    "Name": "game_name",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -2123873049,
+                "Size": {
+                  "X": 246.0,
+                  "Y": 294.0
+                },
+                "Name": "xxmj_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_sss.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 244,
+                "Scale9Height": 272,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 517.0001,
+                  "Y": 175.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4039,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2141,
+                  "Y": 0.84
+                },
+                "LeftMargin": 380.0001,
+                "RightMargin": 625.9999,
+                "TopMargin": 28.0,
+                "BottomMargin": 28.0,
+                "Tag": 48,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "MainCityUI/main_city_game_name_bg.png",
+                      "Plist": "MainCityUI.plist"
+                    },
+                    "Scale9OriginX": 75,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 80,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 137.0,
+                      "Y": -30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.102
+                    },
+                    "PreSize": {
+                      "X": 0.8394,
+                      "Y": 0.1973
+                    },
+                    "LeftMargin": 22.0,
+                    "RightMargin": 22.0,
+                    "TopMargin": 295.0,
+                    "BottomMargin": -59.0,
+                    "Tag": 66,
+                    "ActionTag": 857311588,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 58.0
+                    },
+                    "Name": "img_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "十三张",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 137.0,
+                      "Y": -30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.102
+                    },
+                    "PreSize": {
+                      "X": 0.3285,
+                      "Y": 0.102
+                    },
+                    "LeftMargin": 92.0,
+                    "RightMargin": 92.0,
+                    "TopMargin": 309.0,
+                    "BottomMargin": -45.0,
+                    "Tag": 70,
+                    "ActionTag": 347522175,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 30.0
+                    },
+                    "Name": "game_name",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -660356010,
+                "Size": {
+                  "X": 274.0,
+                  "Y": 294.0
+                },
+                "Name": "ssz_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_expect.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 216,
+                "Scale9Height": 272,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 791.0001,
+                  "Y": 175.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.618,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1922,
+                  "Y": 0.84
+                },
+                "LeftMargin": 668.0001,
+                "RightMargin": 365.9999,
+                "TopMargin": 28.0,
+                "BottomMargin": 28.0,
+                "Tag": 49,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "MainCityUI/main_city_game_name_bg.png",
+                      "Plist": "MainCityUI.plist"
+                    },
+                    "Scale9OriginX": 75,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 80,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 123.0,
+                      "Y": -30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.102
+                    },
+                    "PreSize": {
+                      "X": 0.935,
+                      "Y": 0.1973
+                    },
+                    "LeftMargin": 8.0,
+                    "RightMargin": 8.0,
+                    "TopMargin": 295.0,
+                    "BottomMargin": -59.0,
+                    "Tag": 67,
+                    "ActionTag": -390705313,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 58.0
+                    },
+                    "Name": "img_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "暂未开放",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 123.0,
+                      "Y": -30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.102
+                    },
+                    "PreSize": {
+                      "X": 0.4878,
+                      "Y": 0.102
+                    },
+                    "LeftMargin": 63.0,
+                    "RightMargin": 63.0,
+                    "TopMargin": 309.0,
+                    "BottomMargin": -45.0,
+                    "Tag": 71,
+                    "ActionTag": -144166949,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 30.0
+                    },
+                    "Name": "game_name",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -882979513,
+                "Size": {
+                  "X": 246.0,
+                  "Y": 294.0
+                },
+                "Name": "expect_btn_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_expect.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 216,
+                "Scale9Height": 272,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1064.0013,
+                  "Y": 175.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8313,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.1922,
+                  "Y": 0.84
+                },
+                "LeftMargin": 941.0013,
+                "RightMargin": 92.9987,
+                "TopMargin": 28.0,
+                "BottomMargin": 28.0,
+                "Tag": 50,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "MarkedSubImage",
+                      "Path": "MainCityUI/main_city_game_name_bg.png",
+                      "Plist": "MainCityUI.plist"
+                    },
+                    "Scale9OriginX": 75,
+                    "Scale9OriginY": 19,
+                    "Scale9Width": 80,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 123.0,
+                      "Y": -30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.102
+                    },
+                    "PreSize": {
+                      "X": 0.935,
+                      "Y": 0.1973
+                    },
+                    "LeftMargin": 8.0,
+                    "RightMargin": 8.0,
+                    "TopMargin": 295.0,
+                    "BottomMargin": -59.0,
+                    "Tag": 68,
+                    "ActionTag": 1604875781,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 58.0
+                    },
+                    "Name": "img_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "暂未开放",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 123.0,
+                      "Y": -30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.102
+                    },
+                    "PreSize": {
+                      "X": 0.4878,
+                      "Y": 0.102
+                    },
+                    "LeftMargin": 63.0,
+                    "RightMargin": 63.0,
+                    "TopMargin": 309.0,
+                    "BottomMargin": -45.0,
+                    "Tag": 72,
+                    "ActionTag": -1540299789,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 30.0
+                    },
+                    "Name": "game_name",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -2099282192,
+                "Size": {
+                  "X": 246.0,
+                  "Y": 294.0
+                },
+                "Name": "expect_btn_2",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 395991851,
+            "Size": {
+              "X": 1280.0,
+              "Y": 350.0
+            },
+            "Name": "game_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 720.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 1.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.1
+            },
+            "BottomMargin": 648.0,
+            "Tag": 56,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_title_bg.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9OriginX": 212,
+                "Scale9OriginY": 30,
+                "Scale9Width": 220,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 46.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.65
+                },
+                "PreSize": {
+                  "X": 0.5031,
+                  "Y": 1.2778
+                },
+                "LeftMargin": -4.0,
+                "RightMargin": 640.0,
+                "TopMargin": -20.8,
+                "BottomMargin": 0.8,
+                "Tag": 57,
+                "ActionTag": -2051308873,
+                "Size": {
+                  "X": 644.0,
+                  "Y": 92.0
+                },
+                "Name": "Image_12",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FlipX": true,
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_title_bg.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9OriginX": 212,
+                "Scale9OriginY": 30,
+                "Scale9Width": 220,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 46.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.65
+                },
+                "PreSize": {
+                  "X": 0.5031,
+                  "Y": 1.2778
+                },
+                "LeftMargin": -4.0,
+                "RightMargin": 640.0,
+                "TopMargin": -20.8,
+                "BottomMargin": 0.8,
+                "Tag": 58,
+                "ActionTag": 934288203,
+                "Size": {
+                  "X": 644.0,
+                  "Y": 92.0
+                },
+                "Name": "Image_13",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "MarkedSubImage",
+                  "Path": "MainCityUI/main_city_title.png",
+                  "Plist": "MainCityUI.plist"
+                },
+                "Scale9OriginX": 47,
+                "Scale9OriginY": 14,
+                "Scale9Width": 49,
+                "Scale9Height": 16,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 43.2
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6
+                },
+                "PreSize": {
+                  "X": 0.1117,
+                  "Y": 0.6111
+                },
+                "LeftMargin": 568.5,
+                "RightMargin": 568.5,
+                "TopMargin": 6.8,
+                "BottomMargin": 21.2,
+                "Tag": 59,
+                "ActionTag": 12335924,
+                "Size": {
+                  "X": 143.0,
+                  "Y": 44.0
+                },
+                "Name": "Image_14",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 2084885102,
+            "Size": {
+              "X": 1280.0,
+              "Y": 72.0
+            },
+            "Name": "title_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "MarkedSubImage",
+              "Path": "MainCityUI/main_city_ad_bg.png",
+              "Plist": "MainCityUI.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 2,
+            "Scale9OriginY": 12,
+            "Scale9Width": 4,
+            "Scale9Height": 14,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.0528
+            },
+            "TopMargin": 682.0,
+            "Tag": 73,
+            "ActionTag": 478259572,
+            "Size": {
+              "X": 1280.0,
+              "Y": 38.0
+            },
+            "Name": "bottom_img",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "FontSize": 21,
+            "LabelText": "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防上当受骗。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 19.3999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.0269
+            },
+            "PreSize": {
+              "X": 0.9187,
+              "Y": 0.0292
+            },
+            "LeftMargin": 52.0,
+            "RightMargin": 52.0,
+            "TopMargin": 690.1001,
+            "BottomMargin": 8.8999,
+            "Tag": 74,
+            "ActionTag": -977131692,
+            "Size": {
+              "X": 1176.0,
+              "Y": 21.0
+            },
+            "Name": "tips_lbl",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "MainCityUI/main_city_share_btn.png",
+              "Plist": "MainCityUI.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 68,
+            "Scale9Height": 100,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1075.2,
+              "Y": 575.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.84,
+              "Y": 0.8
+            },
+            "PreSize": {
+              "X": 0.0766,
+              "Y": 0.1694
+            },
+            "LeftMargin": 1026.2,
+            "RightMargin": 155.8,
+            "TopMargin": 83.0001,
+            "BottomMargin": 514.9999,
+            "Tag": 75,
+            "ActionTag": 1604803110,
+            "Size": {
+              "X": 98.0,
+              "Y": 122.0
+            },
+            "Name": "share_btn",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "MarkedSubImage",
+              "Path": "MainCityUI/main_city_shop_btn.png",
+              "Plist": "MainCityUI.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 68,
+            "Scale9Height": 100,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1203.2,
+              "Y": 575.9999
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.94,
+              "Y": 0.8
+            },
+            "PreSize": {
+              "X": 0.0766,
+              "Y": 0.1694
+            },
+            "LeftMargin": 1154.2,
+            "RightMargin": 27.8,
+            "TopMargin": 83.0001,
+            "BottomMargin": 514.9999,
+            "Tag": 76,
+            "ActionTag": 1639499820,
+            "Size": {
+              "X": 98.0,
+              "Y": 122.0
+            },
+            "Name": "shop_btn",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/ImageFile.png",
+        "MainCityUI.plist",
+        "MainCityUI.png",
+        "MainCityUI/main_city_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

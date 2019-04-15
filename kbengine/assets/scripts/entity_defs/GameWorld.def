@@ -1,0 +1,77 @@
+<root>
+	<Interfaces>
+		<Interface>			GameObject		        </Interface>
+		<Interface>			iCache					</Interface>
+		<Interface>			iWorldRoomManager		</Interface>
+		<Interface>			iWorldGroupManager		</Interface>
+		<Interface>			iRoomRecord				</Interface>
+	</Interfaces>
+
+	<Properties>
+		<userCount>
+			<Type>			UINT32		</Type>
+			<Flags>			BASE			</Flags>
+			<Persistent>	true			</Persistent>
+		</userCount>
+
+		<serverStartTime>
+			<Type>			DOUBLE		</Type>
+			<Flags>			BASE			</Flags>
+			<Persistent>	true			</Persistent>
+		</serverStartTime>
+
+		<rankingInfos>
+			<Type>		RANKING_INFO_LIST	</Type>
+			<Flags>				BASE		</Flags>
+			<Persistent>		true		</Persistent>
+		</rankingInfos>
+
+		<signInfo>
+			<Type>		SIGN_INFO			</Type>
+			<Flags>				BASE		</Flags>
+			<Persistent>		true		</Persistent>
+		</signInfo>
+		<lastWeekResetTime>
+			<Type>			DOUBLE			</Type>
+			<Flags>			BASE		    </Flags>
+			<Default>		0.0		        </Default>
+			<Persistent>		true		</Persistent>
+		</lastWeekResetTime>
+
+	</Properties>
+
+	<BaseMethods>
+		<loginToSpace>
+			<Arg>		MAILBOX		</Arg>
+		</loginToSpace>
+
+		<logoutSpace>
+			<Arg>		UID	</Arg>
+		</logoutSpace>
+
+		<canLogin>
+			<Arg>		MAILBOX 			</Arg>
+			<Arg>		UNICODE 			</Arg>
+		</canLogin>
+
+		<genGlobalBornData>
+			<Arg>		MAILBOX			</Arg>
+		</genGlobalBornData>
+
+		<updateRankingInfo>
+			<Arg> RANKING_INFO </Arg>
+		</updateRankingInfo>
+		
+		<reqRankingInfos>
+			<Arg> MAILBOX </Arg>
+		</reqRankingInfos>
+
+		<reqSignInfo>
+			<Arg> MAILBOX </Arg>
+		</reqSignInfo>
+
+	</BaseMethods>
+	<ClientMethods>
+	</ClientMethods>
+</root>
+

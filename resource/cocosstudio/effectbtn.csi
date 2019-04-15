@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="effectbtn" Type="Plist" ID="4f36b668-4993-4aee-9650-60275b326d75" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="EffectBtn/1.png" />
+      <FilePathData Path="EffectBtn/10.png" />
+      <FilePathData Path="EffectBtn/11.png" />
+      <FilePathData Path="EffectBtn/12.png" />
+      <FilePathData Path="EffectBtn/13.png" />
+      <FilePathData Path="EffectBtn/14.png" />
+      <FilePathData Path="EffectBtn/15.png" />
+      <FilePathData Path="EffectBtn/16.png" />
+      <FilePathData Path="EffectBtn/2.png" />
+      <FilePathData Path="EffectBtn/3.png" />
+      <FilePathData Path="EffectBtn/4.png" />
+      <FilePathData Path="EffectBtn/5.png" />
+      <FilePathData Path="EffectBtn/6.png" />
+      <FilePathData Path="EffectBtn/7.png" />
+      <FilePathData Path="EffectBtn/8.png" />
+      <FilePathData Path="EffectBtn/9.png" />
+    </ImageFiles>
+    <MaxSize Width="2048" Height="2048" />
+  </Content>
+</PlistInfoProjectFile>

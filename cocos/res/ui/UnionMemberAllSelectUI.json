@@ -1,0 +1,1212 @@
+{
+  "ID": "fae7b23f-58bc-47b2-9e0f-e1d96a2b5016",
+  "Version": "3.10.0.0",
+  "Name": "UnionMemberAllSelectUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 159,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 182,
+            "ActionTag": 296394237,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 50,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 160,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UnionMatchManagementUI/selectall_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 271,
+                "Scale9OriginY": 228,
+                "Scale9Width": 180,
+                "Scale9Height": 210,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5641,
+                  "Y": 0.925
+                },
+                "LeftMargin": 279.0,
+                "RightMargin": 279.0,
+                "TopMargin": 27.0,
+                "BottomMargin": 27.0,
+                "Tag": 161,
+                "ActionTag": 1095689200,
+                "Size": {
+                  "X": 722.0,
+                  "Y": 666.0
+                },
+                "Name": "bg_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "未加入本赛事的公会成员列表：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 516.0416,
+                  "Y": 657.9142
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 133,
+                  "G": 87,
+                  "B": 32
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4032,
+                  "Y": 0.9138
+                },
+                "PreSize": {
+                  "X": 0.3148,
+                  "Y": 0.0472
+                },
+                "LeftMargin": 314.5416,
+                "RightMargin": 562.4584,
+                "TopMargin": 45.0858,
+                "BottomMargin": 640.9142,
+                "Tag": 163,
+                "ActionTag": 1235296959,
+                "Size": {
+                  "X": 403.0,
+                  "Y": 34.0
+                },
+                "Name": "title_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionMatchManagementUI/selectall_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 60,
+                "Scale9Height": 30,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.4954,
+                  "ScaleY": 0.388
+                },
+                "Position": {
+                  "X": 904.1981,
+                  "Y": 641.0897
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7064,
+                  "Y": 0.8904
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 859.6121,
+                "RightMargin": 330.3879,
+                "TopMargin": 47.0863,
+                "BottomMargin": 620.9137,
+                "Tag": 164,
+                "ActionTag": 1390844973,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "select_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "12/50",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 446.8496,
+                  "Y": 91.561
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 116,
+                  "G": 73,
+                  "B": 50
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3491,
+                  "Y": 0.1272
+                },
+                "PreSize": {
+                  "X": 0.0625,
+                  "Y": 0.0444
+                },
+                "LeftMargin": 406.8496,
+                "RightMargin": 793.1504,
+                "TopMargin": 612.439,
+                "BottomMargin": 75.561,
+                "Tag": 168,
+                "ActionTag": 503290683,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 32.0
+                },
+                "Name": "num_page_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionMatchManagementUI/previouspage_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 60,
+                "Scale9Height": 30,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 360.6525,
+                  "Y": 91.5602
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2818,
+                  "Y": 0.1272
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 315.6525,
+                "RightMargin": 874.3475,
+                "TopMargin": 602.4398,
+                "BottomMargin": 65.5602,
+                "Tag": 169,
+                "ActionTag": -1084996084,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "previouspage_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionMatchManagementUI/nextpape_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 60,
+                "Scale9Height": 30,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 532.8644,
+                  "Y": 91.5602
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4163,
+                  "Y": 0.1272
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 487.8644,
+                "RightMargin": 702.1356,
+                "TopMargin": 602.4398,
+                "BottomMargin": 65.5602,
+                "Tag": 170,
+                "ActionTag": 719942223,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 52.0
+                },
+                "Name": "nextpage_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/confirm_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 194,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 863.8625,
+                  "Y": 100.6997
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6749,
+                  "Y": 0.1399
+                },
+                "PreSize": {
+                  "X": 0.175,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 751.8625,
+                "RightMargin": 304.1375,
+                "TopMargin": 572.3003,
+                "BottomMargin": 53.6997,
+                "Tag": 585,
+                "ActionTag": 265981638,
+                "Size": {
+                  "X": 224.0,
+                  "Y": 94.0
+                },
+                "Name": "confirm_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/return_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 991.897,
+                  "Y": 680.7122
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7749,
+                  "Y": 0.9454
+                },
+                "PreSize": {
+                  "X": 0.0547,
+                  "Y": 0.1
+                },
+                "LeftMargin": 956.897,
+                "RightMargin": 253.103,
+                "TopMargin": 3.2878,
+                "BottomMargin": 644.7122,
+                "Tag": 584,
+                "ActionTag": 1557237894,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 72.0
+                },
+                "Name": "cancel_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UnionMatchManagementUI/title_bg_img.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 242,
+                "Scale9OriginY": 17,
+                "Scale9Width": 180,
+                "Scale9Height": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 589.968
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8194
+                },
+                "PreSize": {
+                  "X": 0.5312,
+                  "Y": 0.075
+                },
+                "LeftMargin": 300.0,
+                "RightMargin": 300.0,
+                "TopMargin": 103.032,
+                "BottomMargin": 562.968,
+                "Tag": 171,
+                "Children": [
+                  {
+                    "FontSize": 30,
+                    "LabelText": "昵称",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 102.0,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 116,
+                      "G": 73,
+                      "B": 50
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.15,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0926,
+                      "Y": 0.6296
+                    },
+                    "LeftMargin": 70.5,
+                    "RightMargin": 546.5,
+                    "TopMargin": 10.0,
+                    "BottomMargin": 10.0,
+                    "Tag": 172,
+                    "ActionTag": 121379428,
+                    "Size": {
+                      "X": 63.0,
+                      "Y": 34.0
+                    },
+                    "Name": "title_name_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "ID",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 374.0,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 116,
+                      "G": 73,
+                      "B": 50
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.55,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0397,
+                      "Y": 0.6296
+                    },
+                    "LeftMargin": 360.5,
+                    "RightMargin": 292.5,
+                    "TopMargin": 10.0,
+                    "BottomMargin": 10.0,
+                    "Tag": 173,
+                    "ActionTag": -940798458,
+                    "Size": {
+                      "X": 27.0,
+                      "Y": 34.0
+                    },
+                    "Name": "title_id_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "操作",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 607.376,
+                      "Y": 27.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 116,
+                      "G": 73,
+                      "B": 50
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.8932,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.0926,
+                      "Y": 0.6296
+                    },
+                    "LeftMargin": 575.876,
+                    "RightMargin": 41.124,
+                    "TopMargin": 10.0,
+                    "BottomMargin": 10.0,
+                    "Tag": 175,
+                    "ActionTag": -971031369,
+                    "Size": {
+                      "X": 63.0,
+                      "Y": 34.0
+                    },
+                    "Name": "title_manage_label",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 52336459,
+                "Size": {
+                  "X": 680.0,
+                  "Y": 54.0
+                },
+                "Name": "title_member_info_panel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 644.608,
+                  "Y": 362.592
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5036,
+                  "Y": 0.5036
+                },
+                "PreSize": {
+                  "X": 0.5312,
+                  "Y": 0.5556
+                },
+                "LeftMargin": 304.608,
+                "RightMargin": 295.392,
+                "TopMargin": 157.408,
+                "BottomMargin": 162.592,
+                "Tag": 176,
+                "Children": [
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 320.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.8
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.2
+                    },
+                    "BottomMargin": 320.0,
+                    "Tag": 177,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 30,
+                        "LabelText": "晴天快乐就好见的",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 102.0,
+                          "Y": 40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 133,
+                          "G": 87,
+                          "B": 32
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.15,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.2544,
+                          "Y": 0.375
+                        },
+                        "LeftMargin": 15.5,
+                        "RightMargin": 491.5,
+                        "TopMargin": 25.0,
+                        "BottomMargin": 25.0,
+                        "Tag": 178,
+                        "ActionTag": 1537098280,
+                        "Size": {
+                          "X": 173.0,
+                          "Y": 30.0
+                        },
+                        "Name": "name_label",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 30,
+                        "LabelText": "12345232",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 374.0,
+                          "Y": 40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 133,
+                          "G": 87,
+                          "B": 32
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.55,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.2206,
+                          "Y": 0.375
+                        },
+                        "LeftMargin": 299.0,
+                        "RightMargin": 231.0,
+                        "TopMargin": 25.0,
+                        "BottomMargin": 25.0,
+                        "Tag": 179,
+                        "ActionTag": -1051700998,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 30.0
+                        },
+                        "Name": "id_label",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "UnionMatchManagementUI/check_chx.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 22,
+                        "Scale9OriginY": 15,
+                        "Scale9Width": 24,
+                        "Scale9Height": 18,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 610.98,
+                          "Y": 40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.8985,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.1,
+                          "Y": 0.6
+                        },
+                        "LeftMargin": 576.98,
+                        "RightMargin": 35.02,
+                        "TopMargin": 16.0,
+                        "BottomMargin": 16.0,
+                        "Tag": 868,
+                        "ActionTag": 1897250778,
+                        "Size": {
+                          "X": 68.0,
+                          "Y": 48.0
+                        },
+                        "Name": "select_bg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "UnionMatchManagementUI/ok_img.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 22,
+                        "Scale9OriginY": 15,
+                        "Scale9Width": 24,
+                        "Scale9Height": 18,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 605.948,
+                          "Y": 40.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.8911,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.1,
+                          "Y": 0.6
+                        },
+                        "LeftMargin": 571.948,
+                        "RightMargin": 40.052,
+                        "TopMargin": 16.0,
+                        "BottomMargin": 16.0,
+                        "Tag": 869,
+                        "ActionTag": -1469018658,
+                        "Size": {
+                          "X": 68.0,
+                          "Y": 48.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "ok_img",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1433726855,
+                    "Size": {
+                      "X": 680.0,
+                      "Y": 80.0
+                    },
+                    "Name": "item_panel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 1990607493,
+                "Size": {
+                  "X": 680.0,
+                  "Y": 400.0
+                },
+                "Name": "member_listview",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": -1954022985,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "match_member_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/confirm_btn.png",
+        "Default/return_btn.png",
+        "UnionMatchManagementUI/check_chx.png",
+        "UnionMatchManagementUI/nextpape_btn.png",
+        "UnionMatchManagementUI/ok_img.png",
+        "UnionMatchManagementUI/previouspage_btn.png",
+        "UnionMatchManagementUI/selectall_bg.png",
+        "UnionMatchManagementUI/selectall_btn.png",
+        "UnionMatchManagementUI/title_bg_img.png",
+        "zhunyuan.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

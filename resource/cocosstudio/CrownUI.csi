@@ -1,0 +1,30 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="CrownUI" Type="Plist" ID="947a643f-d21b-42c7-91dc-74347d15139b" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="CrownUI/1.png" />
+      <FilePathData Path="CrownUI/10.png" />
+      <FilePathData Path="CrownUI/11.png" />
+      <FilePathData Path="CrownUI/12.png" />
+      <FilePathData Path="CrownUI/13.png" />
+      <FilePathData Path="CrownUI/14.png" />
+      <FilePathData Path="CrownUI/15.png" />
+      <FilePathData Path="CrownUI/16.png" />
+      <FilePathData Path="CrownUI/17.png" />
+      <FilePathData Path="CrownUI/18.png" />
+      <FilePathData Path="CrownUI/19.png" />
+      <FilePathData Path="CrownUI/2.png" />
+      <FilePathData Path="CrownUI/20.png" />
+      <FilePathData Path="CrownUI/21.png" />
+      <FilePathData Path="CrownUI/22.png" />
+      <FilePathData Path="CrownUI/3.png" />
+      <FilePathData Path="CrownUI/4.png" />
+      <FilePathData Path="CrownUI/5.png" />
+      <FilePathData Path="CrownUI/6.png" />
+      <FilePathData Path="CrownUI/7.png" />
+      <FilePathData Path="CrownUI/8.png" />
+      <FilePathData Path="CrownUI/9.png" />
+    </ImageFiles>
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

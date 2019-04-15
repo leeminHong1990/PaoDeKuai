@@ -1,0 +1,38 @@
+<root>
+	<Properties>
+        <sign_in_ts>
+			<Type>			DOUBLE			</Type>
+			<Flags>			BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</sign_in_ts>
+        <sign_in_days>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</sign_in_days>
+	</Properties>
+
+	<ClientMethods>
+        <pushSignInNum>
+			<Arg>	UINT32 	</Arg>
+		</pushSignInNum>
+        <signInFailed>
+		</signInFailed>
+
+		<pushSignInfo>
+			<Arg>	SIGN_INFO 	</Arg>
+		</pushSignInfo>
+
+	</ClientMethods>
+
+	<BaseMethods>
+         <signIn>
+			<Exposed/>
+		</signIn>
+
+		<reqSignInfo>
+			<Exposed/>
+		</reqSignInfo>
+
+	</BaseMethods>
+</root>

@@ -1,0 +1,1206 @@
+{
+  "ID": "d7ee0da3-ab69-4c57-b8e1-81fdcc7a8df3",
+  "Version": "3.10.0.0",
+  "Name": "ActivitiesUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 149,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 150,
+            "ActionTag": -19351651,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "BackGround/big_win.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 422,
+            "Scale9OriginY": 237,
+            "Scale9Width": 436,
+            "Scale9Height": 246,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 151,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ActivitiesUI/activitirs_txt.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 72,
+                "Scale9OriginY": 22,
+                "Scale9Width": 76,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 673.416
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9353
+                },
+                "PreSize": {
+                  "X": 0.1719,
+                  "Y": 0.0944
+                },
+                "LeftMargin": 530.0,
+                "RightMargin": 530.0,
+                "TopMargin": 12.584,
+                "BottomMargin": 639.416,
+                "Tag": 208,
+                "ActionTag": 1746630678,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 68.0
+                },
+                "Name": "activities_txt_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/return_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1254.1117,
+                  "Y": 635.8054
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9798,
+                  "Y": 0.8831
+                },
+                "PreSize": {
+                  "X": 0.0547,
+                  "Y": 0.1
+                },
+                "LeftMargin": 1219.1117,
+                "RightMargin": -9.1117,
+                "TopMargin": 48.1946,
+                "BottomMargin": 599.8054,
+                "Tag": 204,
+                "ActionTag": 603589632,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 72.0
+                },
+                "Name": "return_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ActivitiesUI/activities_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 285,
+                "Scale9OriginY": 170,
+                "Scale9Width": 296,
+                "Scale9Height": 178,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 344.448,
+                  "Y": 324.792
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2691,
+                  "Y": 0.4511
+                },
+                "PreSize": {
+                  "X": 0.6938,
+                  "Y": 0.7931
+                },
+                "LeftMargin": 344.448,
+                "RightMargin": 47.552,
+                "TopMargin": 109.708,
+                "BottomMargin": 39.292,
+                "Tag": 211,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ActivitiesUI/protrite.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 273,
+                    "Scale9OriginY": 171,
+                    "Scale9Width": 284,
+                    "Scale9Height": 178,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 444.0,
+                      "Y": 285.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.9347,
+                      "Y": 0.9107
+                    },
+                    "LeftMargin": 29.0,
+                    "RightMargin": 29.0,
+                    "TopMargin": 25.5,
+                    "BottomMargin": 25.5,
+                    "Tag": 1791,
+                    "ActionTag": -2029095302,
+                    "Size": {
+                      "X": 830.0,
+                      "Y": 520.0
+                    },
+                    "Name": "portrait_sprite0",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -966744639,
+                "Size": {
+                  "X": 888.0,
+                  "Y": 571.0
+                },
+                "VisibleForFrame": false,
+                "Name": "yellow_bg_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ActivitiesUI/activities_black_bg.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 87,
+                "Scale9OriginY": 167,
+                "Scale9Width": 90,
+                "Scale9Height": 174,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 193.152,
+                  "Y": 324.792
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1509,
+                  "Y": 0.4511
+                },
+                "PreSize": {
+                  "X": 0.2219,
+                  "Y": 0.7931
+                },
+                "LeftMargin": 51.152,
+                "RightMargin": 944.848,
+                "TopMargin": 109.708,
+                "BottomMargin": 39.292,
+                "Tag": 210,
+                "ActionTag": 637703878,
+                "Size": {
+                  "X": 284.0,
+                  "Y": 571.0
+                },
+                "VisibleForFrame": false,
+                "Name": "black_bg_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ActivitiesUI/activities_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 285,
+                "Scale9OriginY": 170,
+                "Scale9Width": 296,
+                "Scale9Height": 178,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 618.984
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8597
+                },
+                "PreSize": {
+                  "X": 0.9258,
+                  "Y": 0.8139
+                },
+                "LeftMargin": 47.5,
+                "RightMargin": 47.5,
+                "TopMargin": 101.016,
+                "BottomMargin": 32.984,
+                "Tag": 48,
+                "ActionTag": -650539135,
+                "Size": {
+                  "X": 1185.0,
+                  "Y": 586.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_no_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 36,
+                "LabelText": "暂无活动，敬请期待。",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 115,
+                  "G": 70,
+                  "B": 46
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2672,
+                  "Y": 0.0569
+                },
+                "LeftMargin": 469.0,
+                "RightMargin": 469.0,
+                "TopMargin": 339.5,
+                "BottomMargin": 339.5,
+                "Tag": 49,
+                "ActionTag": -533531106,
+                "Size": {
+                  "X": 342.0,
+                  "Y": 41.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_no_label",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionPersonalUI/union_btn_1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionPersonalUI/union_btn_2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 252,
+                "Scale9Height": 70,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 196.224,
+                  "Y": 541.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1533,
+                  "Y": 0.7519
+                },
+                "PreSize": {
+                  "X": 0.2203,
+                  "Y": 0.1278
+                },
+                "LeftMargin": 55.224,
+                "RightMargin": 942.776,
+                "TopMargin": 132.632,
+                "BottomMargin": 495.368,
+                "Tag": 412,
+                "ActionTag": 1457131716,
+                "Size": {
+                  "X": 282.0,
+                  "Y": 92.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_btn0",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "最新活动",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 196.224,
+                  "Y": 541.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 115,
+                  "G": 70,
+                  "B": 46
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1533,
+                  "Y": 0.7519
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 96.224,
+                "RightMargin": 983.776,
+                "TopMargin": 153.632,
+                "BottomMargin": 516.368,
+                "Tag": 1792,
+                "ActionTag": 346252262,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 50.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_label0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionPersonalUI/union_btn_1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionPersonalUI/union_btn_2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 252,
+                "Scale9Height": 70,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 196.224,
+                  "Y": 433.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1533,
+                  "Y": 0.6019
+                },
+                "PreSize": {
+                  "X": 0.2203,
+                  "Y": 0.1278
+                },
+                "LeftMargin": 55.224,
+                "RightMargin": 942.776,
+                "TopMargin": 240.632,
+                "BottomMargin": 387.368,
+                "Tag": 413,
+                "ActionTag": 1417443988,
+                "Size": {
+                  "X": 282.0,
+                  "Y": 92.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_btn1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "最新活动",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 196.224,
+                  "Y": 433.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 115,
+                  "G": 70,
+                  "B": 46
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1533,
+                  "Y": 0.6019
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 96.224,
+                "RightMargin": 983.776,
+                "TopMargin": 261.632,
+                "BottomMargin": 408.368,
+                "Tag": 1795,
+                "ActionTag": 1465733343,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 50.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_label1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionPersonalUI/union_btn_1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionPersonalUI/union_btn_2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 252,
+                "Scale9Height": 70,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 196.224,
+                  "Y": 325.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1533,
+                  "Y": 0.4519
+                },
+                "PreSize": {
+                  "X": 0.2203,
+                  "Y": 0.1278
+                },
+                "LeftMargin": 55.224,
+                "RightMargin": 942.776,
+                "TopMargin": 348.632,
+                "BottomMargin": 279.368,
+                "Tag": 414,
+                "ActionTag": 2034451594,
+                "Size": {
+                  "X": 282.0,
+                  "Y": 92.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_btn2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "最新活动",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 196.224,
+                  "Y": 325.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 115,
+                  "G": 70,
+                  "B": 46
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1533,
+                  "Y": 0.4519
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 96.224,
+                "RightMargin": 983.776,
+                "TopMargin": 369.632,
+                "BottomMargin": 300.368,
+                "Tag": 1796,
+                "ActionTag": -424951706,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 50.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_label2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionPersonalUI/union_btn_1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionPersonalUI/union_btn_2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 252,
+                "Scale9Height": 70,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 193.408,
+                  "Y": 217.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1511,
+                  "Y": 0.3019
+                },
+                "PreSize": {
+                  "X": 0.2203,
+                  "Y": 0.1278
+                },
+                "LeftMargin": 52.408,
+                "RightMargin": 945.592,
+                "TopMargin": 456.632,
+                "BottomMargin": 171.368,
+                "Tag": 1789,
+                "ActionTag": -2034906990,
+                "Size": {
+                  "X": 282.0,
+                  "Y": 92.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_btn3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "最新活动",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 196.224,
+                  "Y": 217.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 115,
+                  "G": 70,
+                  "B": 46
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1533,
+                  "Y": 0.3019
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 96.224,
+                "RightMargin": 983.776,
+                "TopMargin": 477.632,
+                "BottomMargin": 192.368,
+                "Tag": 1797,
+                "ActionTag": -1597684660,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 50.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_label3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionPersonalUI/union_btn_1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionPersonalUI/union_btn_2.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 252,
+                "Scale9Height": 70,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 193.408,
+                  "Y": 109.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1511,
+                  "Y": 0.1519
+                },
+                "PreSize": {
+                  "X": 0.2203,
+                  "Y": 0.1278
+                },
+                "LeftMargin": 52.408,
+                "RightMargin": 945.592,
+                "TopMargin": 564.632,
+                "BottomMargin": 63.368,
+                "Tag": 1790,
+                "ActionTag": -956570342,
+                "Size": {
+                  "X": 282.0,
+                  "Y": 92.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_btn4",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 28,
+                "LabelText": "最新活动",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "zhunyuan.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 196.224,
+                  "Y": 109.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 115,
+                  "G": 70,
+                  "B": 46
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1533,
+                  "Y": 0.1519
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 96.224,
+                "RightMargin": 983.776,
+                "TopMargin": 585.632,
+                "BottomMargin": 84.368,
+                "Tag": 1798,
+                "ActionTag": -1328760707,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 50.0
+                },
+                "VisibleForFrame": false,
+                "Name": "activity_label4",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 2069614032,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "activities_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "ActivitiesUI/activities_bg.png",
+        "ActivitiesUI/activities_black_bg.png",
+        "ActivitiesUI/activitirs_txt.png",
+        "ActivitiesUI/protrite.png",
+        "BackGround/big_win.png",
+        "Default/return_btn.png",
+        "UnionPersonalUI/union_btn_1.png",
+        "UnionPersonalUI/union_btn_2.png",
+        "zhunyuan.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

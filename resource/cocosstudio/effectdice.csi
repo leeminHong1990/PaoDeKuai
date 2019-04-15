@@ -1,0 +1,38 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="effectdice" Type="Plist" ID="34fc5d53-0443-4680-b721-b9c2ba8f52fe" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="EffectDiceUI/1.png" />
+      <FilePathData Path="EffectDiceUI/10.png" />
+      <FilePathData Path="EffectDiceUI/11.png" />
+      <FilePathData Path="EffectDiceUI/12.png" />
+      <FilePathData Path="EffectDiceUI/13.png" />
+      <FilePathData Path="EffectDiceUI/14.png" />
+      <FilePathData Path="EffectDiceUI/15.png" />
+      <FilePathData Path="EffectDiceUI/16.png" />
+      <FilePathData Path="EffectDiceUI/17.png" />
+      <FilePathData Path="EffectDiceUI/18.png" />
+      <FilePathData Path="EffectDiceUI/19.png" />
+      <FilePathData Path="EffectDiceUI/2.png" />
+      <FilePathData Path="EffectDiceUI/20.png" />
+      <FilePathData Path="EffectDiceUI/21.png" />
+      <FilePathData Path="EffectDiceUI/22.png" />
+      <FilePathData Path="EffectDiceUI/23.png" />
+      <FilePathData Path="EffectDiceUI/24.png" />
+      <FilePathData Path="EffectDiceUI/25.png" />
+      <FilePathData Path="EffectDiceUI/26.png" />
+      <FilePathData Path="EffectDiceUI/27.png" />
+      <FilePathData Path="EffectDiceUI/28.png" />
+      <FilePathData Path="EffectDiceUI/29.png" />
+      <FilePathData Path="EffectDiceUI/3.png" />
+      <FilePathData Path="EffectDiceUI/30.png" />
+      <FilePathData Path="EffectDiceUI/4.png" />
+      <FilePathData Path="EffectDiceUI/5.png" />
+      <FilePathData Path="EffectDiceUI/6.png" />
+      <FilePathData Path="EffectDiceUI/7.png" />
+      <FilePathData Path="EffectDiceUI/8.png" />
+      <FilePathData Path="EffectDiceUI/9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

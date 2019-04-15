@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="MagicEgeUI" Type="Plist" ID="81203209-fee9-4596-a0f0-8a32f52bba11" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="MagicEgeUI/1.png" />
+      <FilePathData Path="MagicEgeUI/10.png" />
+      <FilePathData Path="MagicEgeUI/11.png" />
+      <FilePathData Path="MagicEgeUI/12.png" />
+      <FilePathData Path="MagicEgeUI/13.png" />
+      <FilePathData Path="MagicEgeUI/14.png" />
+      <FilePathData Path="MagicEgeUI/15.png" />
+      <FilePathData Path="MagicEgeUI/16.png" />
+      <FilePathData Path="MagicEgeUI/2.png" />
+      <FilePathData Path="MagicEgeUI/3.png" />
+      <FilePathData Path="MagicEgeUI/4.png" />
+      <FilePathData Path="MagicEgeUI/5.png" />
+      <FilePathData Path="MagicEgeUI/6.png" />
+      <FilePathData Path="MagicEgeUI/7.png" />
+      <FilePathData Path="MagicEgeUI/8.png" />
+      <FilePathData Path="MagicEgeUI/9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

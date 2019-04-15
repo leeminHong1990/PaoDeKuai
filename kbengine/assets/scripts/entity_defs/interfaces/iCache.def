@@ -1,0 +1,33 @@
+<root>
+	<Properties>
+	</Properties>
+
+	<BaseMethods>
+		<addCacheDict>
+			<Arg>		UUID 			</Arg>
+			<Arg>		PY_DICT			</Arg>
+		</addCacheDict>
+
+		<updateCacheDict>
+			<Arg>		UUID 			</Arg>
+			<Arg>		PY_DICT			</Arg>
+		</updateCacheDict>
+
+		<addPlayer2Pid>
+			<Arg>		UID 			</Arg>
+			<Arg>		UUID 			</Arg>
+			<Arg>		UNICODE			</Arg>
+			<Arg>		UINT32 			</Arg>
+		</addPlayer2Pid>
+
+		<delPlayer2Pid>
+			<Arg>		UID 			</Arg>
+			<Arg>		UUID 			</Arg>
+			<Arg>		UNICODE			</Arg>
+			<Arg>		UINT32 			</Arg>
+		</delPlayer2Pid>
+	</BaseMethods>
+
+	<ClientMethods>
+	</ClientMethods>
+</root>

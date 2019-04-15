@@ -1,0 +1,1617 @@
+{
+  "ID": "1108e955-9b81-4f44-81a9-fa80a8723829",
+  "Version": "3.10.0.0",
+  "Name": "UnionAddNewMemberUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 222,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 314,
+            "ActionTag": 1769394737,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "UnionAddNewMemberUI/bg_img.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 168,
+            "Scale9OriginY": 168,
+            "Scale9Width": 308,
+            "Scale9Height": 258,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 273,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 440.4539,
+                  "Y": 424.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3441,
+                  "Y": 0.59
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 344.4539,
+                "RightMargin": 743.546,
+                "TopMargin": 254.2,
+                "BottomMargin": 383.8,
+                "Tag": 289,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/1.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 16,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.1875,
+                      "Y": 0.5854
+                    },
+                    "LeftMargin": 78.0,
+                    "RightMargin": 78.0,
+                    "TopMargin": 13.72,
+                    "BottomMargin": 20.28,
+                    "Tag": 290,
+                    "ActionTag": 1521050623,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 48.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 250783968,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_1_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 639.9999,
+                  "Y": 424.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.59
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 543.9999,
+                "RightMargin": 544.0001,
+                "TopMargin": 254.2,
+                "BottomMargin": 383.8,
+                "Tag": 291,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 16,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.1875,
+                      "Y": 0.5854
+                    },
+                    "LeftMargin": 78.0,
+                    "RightMargin": 78.0,
+                    "TopMargin": 13.72,
+                    "BottomMargin": 20.28,
+                    "Tag": 292,
+                    "ActionTag": 1579444797,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 48.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -616407579,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_2_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 839.5594,
+                  "Y": 424.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6559,
+                  "Y": 0.59
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 743.5594,
+                "RightMargin": 344.4406,
+                "TopMargin": 254.2,
+                "BottomMargin": 383.8,
+                "Tag": 293,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/3.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 16,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.1875,
+                      "Y": 0.5854
+                    },
+                    "LeftMargin": 78.0,
+                    "RightMargin": 78.0,
+                    "TopMargin": 13.72,
+                    "BottomMargin": 20.28,
+                    "Tag": 294,
+                    "ActionTag": 1261598406,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 48.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -70931081,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_3_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 440.4539,
+                  "Y": 331.2
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3441,
+                  "Y": 0.46
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 344.4539,
+                "RightMargin": 743.546,
+                "TopMargin": 347.8,
+                "BottomMargin": 290.2,
+                "Tag": 295,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/4.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 16,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.1875,
+                      "Y": 0.5854
+                    },
+                    "LeftMargin": 78.0,
+                    "RightMargin": 78.0,
+                    "TopMargin": 13.72,
+                    "BottomMargin": 20.28,
+                    "Tag": 296,
+                    "ActionTag": -1690807249,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 48.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1878158762,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_4_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 639.9999,
+                  "Y": 331.2
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.46
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 543.9999,
+                "RightMargin": 544.0001,
+                "TopMargin": 347.8,
+                "BottomMargin": 290.2,
+                "Tag": 297,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/5.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 16,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.1875,
+                      "Y": 0.5854
+                    },
+                    "LeftMargin": 78.0,
+                    "RightMargin": 78.0,
+                    "TopMargin": 13.72,
+                    "BottomMargin": 20.28,
+                    "Tag": 298,
+                    "ActionTag": -696866681,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 48.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1965192340,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_5_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 839.5594,
+                  "Y": 331.2
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6559,
+                  "Y": 0.46
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 743.5594,
+                "RightMargin": 344.4406,
+                "TopMargin": 347.8,
+                "BottomMargin": 290.2,
+                "Tag": 299,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/6.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 16,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.1875,
+                      "Y": 0.5854
+                    },
+                    "LeftMargin": 78.0,
+                    "RightMargin": 78.0,
+                    "TopMargin": 13.72,
+                    "BottomMargin": 20.28,
+                    "Tag": 300,
+                    "ActionTag": 19885620,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 48.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -882953999,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_6_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 440.4539,
+                  "Y": 237.6
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3441,
+                  "Y": 0.33
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 344.4539,
+                "RightMargin": 743.5461,
+                "TopMargin": 441.4,
+                "BottomMargin": 196.6,
+                "Tag": 301,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/7.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 16,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.1875,
+                      "Y": 0.5854
+                    },
+                    "LeftMargin": 78.0,
+                    "RightMargin": 78.0,
+                    "TopMargin": 13.72,
+                    "BottomMargin": 20.28,
+                    "Tag": 302,
+                    "ActionTag": -319563063,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 48.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 25396794,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_7_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 639.9999,
+                  "Y": 237.6
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.33
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 543.9999,
+                "RightMargin": 544.0001,
+                "TopMargin": 441.4,
+                "BottomMargin": 196.6,
+                "Tag": 303,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/8.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 16,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.1875,
+                      "Y": 0.5854
+                    },
+                    "LeftMargin": 78.0,
+                    "RightMargin": 78.0,
+                    "TopMargin": 13.72,
+                    "BottomMargin": 20.28,
+                    "Tag": 304,
+                    "ActionTag": 1314678403,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 48.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1718907595,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_8_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 839.5594,
+                  "Y": 237.6
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6559,
+                  "Y": 0.33
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 743.5594,
+                "RightMargin": 344.4406,
+                "TopMargin": 441.4,
+                "BottomMargin": 196.6,
+                "Tag": 305,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/9.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 10,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 16,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.1875,
+                      "Y": 0.5854
+                    },
+                    "LeftMargin": 78.0,
+                    "RightMargin": 78.0,
+                    "TopMargin": 13.72,
+                    "BottomMargin": 20.28,
+                    "Tag": 306,
+                    "ActionTag": 1659955434,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 48.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 224220430,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_9_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 440.4539,
+                  "Y": 144.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3441,
+                  "Y": 0.2
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 344.4539,
+                "RightMargin": 743.546,
+                "TopMargin": 535.0,
+                "BottomMargin": 103.0,
+                "Tag": 307,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/delete_btn.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 19,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 52,
+                    "Scale9Height": 20,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.4688,
+                      "Y": 0.561
+                    },
+                    "LeftMargin": 51.0,
+                    "RightMargin": 51.0,
+                    "TopMargin": 14.72,
+                    "BottomMargin": 21.28,
+                    "Tag": 308,
+                    "ActionTag": 878166994,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 46.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1107965278,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_back_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 639.9999,
+                  "Y": 144.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 543.9999,
+                "RightMargin": 544.0001,
+                "TopMargin": 535.0,
+                "BottomMargin": 103.0,
+                "Tag": 309,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/0.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 9,
+                    "Scale9OriginY": 13,
+                    "Scale9Width": 18,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.1875,
+                      "Y": 0.5854
+                    },
+                    "LeftMargin": 78.0,
+                    "RightMargin": 78.0,
+                    "TopMargin": 13.72,
+                    "BottomMargin": 20.28,
+                    "Tag": 310,
+                    "ActionTag": -1136594373,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 48.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1640255053,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_0_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionAddNewMemberUI/num_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 162,
+                "Scale9Height": 60,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 839.5594,
+                  "Y": 144.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6559,
+                  "Y": 0.2
+                },
+                "PreSize": {
+                  "X": 0.15,
+                  "Y": 0.1139
+                },
+                "LeftMargin": 743.5594,
+                "RightMargin": 344.4406,
+                "TopMargin": 535.0,
+                "BottomMargin": 103.0,
+                "Tag": 311,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionAddNewMemberUI/confirm_btn.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 14,
+                    "Scale9OriginY": 18,
+                    "Scale9Width": 62,
+                    "Scale9Height": 10,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 96.0,
+                      "Y": 44.28
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.54
+                    },
+                    "PreSize": {
+                      "X": 0.4688,
+                      "Y": 0.561
+                    },
+                    "LeftMargin": 51.0,
+                    "RightMargin": 51.0,
+                    "TopMargin": 14.72,
+                    "BottomMargin": 21.28,
+                    "Tag": 312,
+                    "ActionTag": -974946787,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 46.0
+                    },
+                    "Name": "btn_img",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1068821170,
+                "Size": {
+                  "X": 192.0,
+                  "Y": 82.0
+                },
+                "Name": "_ok_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/return_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 949.504,
+                  "Y": 633.6
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7418,
+                  "Y": 0.88
+                },
+                "PreSize": {
+                  "X": 0.0547,
+                  "Y": 0.1
+                },
+                "LeftMargin": 914.504,
+                "RightMargin": 295.496,
+                "TopMargin": 50.4,
+                "BottomMargin": 597.6,
+                "Tag": 313,
+                "ActionTag": -1065623012,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 72.0
+                },
+                "Name": "return_btn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -59097280,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "addmember_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/return_btn.png",
+        "UnionAddNewMemberUI/0.png",
+        "UnionAddNewMemberUI/1.png",
+        "UnionAddNewMemberUI/2.png",
+        "UnionAddNewMemberUI/3.png",
+        "UnionAddNewMemberUI/4.png",
+        "UnionAddNewMemberUI/5.png",
+        "UnionAddNewMemberUI/6.png",
+        "UnionAddNewMemberUI/7.png",
+        "UnionAddNewMemberUI/8.png",
+        "UnionAddNewMemberUI/9.png",
+        "UnionAddNewMemberUI/bg_img.png",
+        "UnionAddNewMemberUI/confirm_btn.png",
+        "UnionAddNewMemberUI/delete_btn.png",
+        "UnionAddNewMemberUI/num_btn.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

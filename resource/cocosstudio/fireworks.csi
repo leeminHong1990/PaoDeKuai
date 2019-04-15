@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="fireworks" Type="Plist" ID="b99e7fcd-3060-4f8a-83d2-3046b985a1be" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Effects/fireworks_00000.png" />
+      <FilePathData Path="Effects/fireworks_00001.png" />
+      <FilePathData Path="Effects/fireworks_00002.png" />
+      <FilePathData Path="Effects/fireworks_00003.png" />
+      <FilePathData Path="Effects/fireworks_00004.png" />
+      <FilePathData Path="Effects/fireworks_00005.png" />
+      <FilePathData Path="Effects/fireworks_00006.png" />
+      <FilePathData Path="Effects/fireworks_00007.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

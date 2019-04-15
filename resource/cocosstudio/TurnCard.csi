@@ -1,0 +1,6 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="TurnCard" Type="Plist" ID="a924b810-b7f1-4480-a001-675b8fc959db" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <MaxSize Width="512" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

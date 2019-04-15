@@ -1,0 +1,250 @@
+<root>
+	<Properties>
+		<group_list>
+			<Type>			GROUP_LIST			</Type>
+			<Flags>			BASE				</Flags>
+			<Default>	    []                  </Default>
+			<Persistent>	true				</Persistent>
+		</group_list>
+	</Properties>
+
+	<BaseMethods>
+	    <reqGroupInfoList>
+	        <Exposed/>
+	    </reqGroupInfoList>
+
+	    <reqCreateGroup>
+	        <Exposed/>
+	        <Arg>       UNICODE                </Arg>
+	    </reqCreateGroup>
+
+	    <modifyGroupBillboard>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UNICODE                </Arg>
+	    </modifyGroupBillboard>
+
+	    <reqJoinGroup>
+	        <Exposed/>
+	        <Arg>       GROUP_ID                 </Arg>
+	    </reqJoinGroup>
+
+	    <reqInviteJoinGroup>
+	        <Exposed/>
+	        <Arg>       GROUP_ID                </Arg>
+	        <Arg>       USER_ID                 </Arg>
+	    </reqInviteJoinGroup>
+
+	    <reqExitGroup>
+	        <Exposed/>
+	        <Arg>       GROUP_ID                 </Arg>
+	    </reqExitGroup>
+
+	    <reqDestroyGroup>
+	        <Exposed/>
+	        <Arg>       GROUP_ID                    </Arg>
+	    </reqDestroyGroup>
+
+	    <reqDelMember>
+	        <Exposed/>
+	        <Arg>       GROUP_ID                    </Arg>
+	        <Arg>       USER_ID                    </Arg>
+	    </reqDelMember>
+
+	    <reqMarkMember>
+	        <Exposed/>
+	        <Arg>       GROUP_ID                    </Arg>
+	        <Arg>       USER_ID                     </Arg>
+	        <Arg>       UNICODE                     </Arg>
+	    </reqMarkMember>
+
+	    <reqCreateTeam>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       ROOM_OP                </Arg>
+	        <Arg>       UNICODE                </Arg>
+	    </reqCreateTeam>
+
+	    <reqDestroyTeam>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UUID                   </Arg>
+	    </reqDestroyTeam>
+
+	    <reqJoinTeam>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UUID                   </Arg>
+	        <Arg>       USER_ID                </Arg>
+	    </reqJoinTeam>
+
+	    <reqDelTeamMem>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UUID                   </Arg>
+	        <Arg>       USER_ID                </Arg>
+	    </reqDelTeamMem>
+
+	    <reqGenTeamRoom>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UUID                   </Arg>
+	        <Arg>       UINT8                  </Arg>
+	    </reqGenTeamRoom>
+
+	    <reqChangeTeamState>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UUID                   </Arg>
+	        <Arg>       UINT8                  </Arg>
+	    </reqChangeTeamState>
+
+	    <reqTeamRoomList>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UUID                   </Arg>
+	    </reqTeamRoomList>
+
+	    <reqTeamHistoryRoomList>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UUID                   </Arg>
+	    </reqTeamHistoryRoomList>
+
+	    <reqGroupRoomList>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	    </reqGroupRoomList>
+
+	    <reqDismissGroupRoom>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UINT32                 </Arg>
+	    </reqDismissGroupRoom>
+
+	    <reqUpdateGroupName>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UNICODE                 </Arg>
+	    </reqUpdateGroupName>
+
+	    <reqGroupRankList>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UINT8                  </Arg>
+	        <Arg>       UINT8                  </Arg>
+	    </reqGroupRankList>
+
+	    <reqUpdateGroupNormalAcc>
+	        <Exposed/>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UINT8                  </Arg>
+	    </reqUpdateGroupNormalAcc>
+	</BaseMethods>
+	
+	<ClientMethods>
+	    <pushGroupInfoList>
+	        <Arg>       GROUP_LOGIN_INFO_LIST   </Arg>
+	    </pushGroupInfoList>
+
+	    <pushNewGroup>
+	        <Arg>       GROUP_LOGIN_INFO        </Arg>
+	    </pushNewGroup>
+
+	    <pushJoinGroup>
+	        <Arg>       GROUP_LOGIN_INFO        </Arg>
+	    </pushJoinGroup>
+
+	    <pushInviteJoinGroup>
+	        <Arg>       GROUP_ID                             </Arg>
+	        <Arg>       GROUP_MEMBER_DETAIL_INFO_LIST        </Arg>
+	    </pushInviteJoinGroup>
+
+	    <pushExitGroup>
+	        <Arg>       GROUP_ID                </Arg>
+	    </pushExitGroup>
+
+	    <pushDestroyGroup>
+	        <Arg>       GROUP_ID                </Arg>
+	    </pushDestroyGroup>
+
+	    <pushGroupBillboard>
+	        <Arg>       GROUP_ID                </Arg>
+	        <Arg>       UNICODE                 </Arg>
+	    </pushGroupBillboard>
+
+	    <pushMarkMember>
+	        <Arg>       GROUP_ID                </Arg>
+	        <Arg>       USER_ID                 </Arg>
+	        <Arg>       UNICODE                 </Arg>
+	    </pushMarkMember>
+
+	    <pushDelMember>
+	        <Arg>       GROUP_ID                </Arg>
+	        <Arg>       USER_ID                 </Arg>
+	    </pushDelMember>
+
+	    <pushCreateTeam>
+	        <Arg>       GROUP_ID                </Arg>
+	        <Arg>       GROUP_TEAM_INFO_LIST    </Arg>
+	    </pushCreateTeam>
+
+        <pushDestroyTeam>
+	        <Arg>       GROUP_ID                </Arg>
+	        <Arg>       GROUP_TEAM_INFO_LIST    </Arg>
+	    </pushDestroyTeam>
+
+	    <pushJoinTeam>
+	        <Arg>       GROUP_ID                </Arg>
+	        <Arg>       UUID                    </Arg>
+	        <Arg>       USER_ID                 </Arg>
+	    </pushJoinTeam>
+
+	    <pushDelTeamMem>
+	        <Arg>       GROUP_ID               </Arg>
+	        <Arg>       UUID                   </Arg>
+	        <Arg>       USER_ID                </Arg>
+	    </pushDelTeamMem>
+
+	    <pushGenTeamRoom>
+	        <Arg>       GROUP_ID                </Arg>
+	        <Arg>       UUID                    </Arg>
+	        <Arg>       TEAM_ROOM_INFO          </Arg>
+	    </pushGenTeamRoom>
+
+	    <pushChangeTeamState>
+	        <Arg>       GROUP_ID                </Arg>
+	        <Arg>       UUID                    </Arg>
+	        <Arg>       UINT8                   </Arg>
+	    </pushChangeTeamState>
+
+	    <pushTeamRoomList>
+	        <Arg>       GROUP_ID                </Arg>
+	        <Arg>       UUID                    </Arg>
+            <Arg>       GROUP_ROOM_INFO_LIST    </Arg>
+	    </pushTeamRoomList>
+
+	    <pushTeamHistoryRoomList>
+	        <Arg>       GROUP_ID                	</Arg>
+	        <Arg>       UUID                    	</Arg>
+            <Arg>       GROUP_ROOM_INFO_LIST    	</Arg>
+	    </pushTeamHistoryRoomList>
+
+	    <pushGroupRoomList>
+	        <Arg>       GROUP_ID                </Arg>
+            <Arg>       GROUP_ROOM_INFO_LIST    </Arg>
+	    </pushGroupRoomList>
+
+	    <pushDismissGroupRoom>
+            <Arg>       GROUP_ID                </Arg>
+            <Arg>       UINT32                  </Arg>
+	    </pushDismissGroupRoom>
+
+	    <pushGroupRankList>
+            <Arg>       GROUP_RANK_LIST_LIST   </Arg>
+            <Arg>       UINT8                  </Arg>
+            <Arg>       UINT8                  </Arg>
+	    </pushGroupRankList>
+	</ClientMethods>
+</root>
+

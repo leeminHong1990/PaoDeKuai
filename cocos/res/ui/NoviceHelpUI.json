@@ -1,0 +1,486 @@
+{
+  "ID": "c4ae4f47-71e2-48e0-8a6b-060c1452a0f9",
+  "Version": "3.10.0.0",
+  "Name": "NoviceHelpUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 363,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 468,
+            "ActionTag": -1229111875,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -299,
+            "Scale9OriginY": -84,
+            "Scale9Width": 598,
+            "Scale9Height": 168,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 417,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "NoviceHelpUI/1.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 403,
+                "Scale9OriginY": 220,
+                "Scale9Width": 417,
+                "Scale9Height": 229,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 341.568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4744
+                },
+                "PreSize": {
+                  "X": 0.9555,
+                  "Y": 0.9292
+                },
+                "LeftMargin": 28.5,
+                "RightMargin": 28.5,
+                "TopMargin": 43.932,
+                "BottomMargin": 7.068,
+                "Tag": 484,
+                "ActionTag": 1893540041,
+                "Size": {
+                  "X": 1223.0,
+                  "Y": 669.0
+                },
+                "Name": "content_img_0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "NoviceHelpUI/2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 403,
+                "Scale9OriginY": 220,
+                "Scale9Width": 417,
+                "Scale9Height": 229,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 341.568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4744
+                },
+                "PreSize": {
+                  "X": 0.9555,
+                  "Y": 0.9292
+                },
+                "LeftMargin": 28.5,
+                "RightMargin": 28.5,
+                "TopMargin": 43.932,
+                "BottomMargin": 7.068,
+                "Tag": 485,
+                "ActionTag": -1507376467,
+                "Size": {
+                  "X": 1223.0,
+                  "Y": 669.0
+                },
+                "VisibleForFrame": false,
+                "Name": "content_img_1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "NoviceHelpUI/3.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 403,
+                "Scale9OriginY": 220,
+                "Scale9Width": 417,
+                "Scale9Height": 229,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 341.568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4744
+                },
+                "PreSize": {
+                  "X": 0.9555,
+                  "Y": 0.9292
+                },
+                "LeftMargin": 28.5,
+                "RightMargin": 28.5,
+                "TopMargin": 43.932,
+                "BottomMargin": 7.068,
+                "Tag": 486,
+                "ActionTag": -1072926697,
+                "Size": {
+                  "X": 1223.0,
+                  "Y": 669.0
+                },
+                "VisibleForFrame": false,
+                "Name": "content_img_2",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "NoviceHelpUI/previous_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 35,
+                "Scale9Height": 107,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 29.184,
+                  "Y": 370.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.0228,
+                  "Y": 0.5144
+                },
+                "PreSize": {
+                  "X": 0.0508,
+                  "Y": 0.1792
+                },
+                "LeftMargin": -3.316,
+                "RightMargin": 1218.316,
+                "TopMargin": 285.132,
+                "BottomMargin": 305.868,
+                "Tag": 469,
+                "ActionTag": 18581876,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 129.0
+                },
+                "Name": "previous_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "NoviceHelpUI/next_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 35,
+                "Scale9Height": 107,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1248.512,
+                  "Y": 370.368
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.9754,
+                  "Y": 0.5144
+                },
+                "PreSize": {
+                  "X": 0.0508,
+                  "Y": 0.1792
+                },
+                "LeftMargin": 1216.012,
+                "RightMargin": -1.012,
+                "TopMargin": 285.132,
+                "BottomMargin": 305.868,
+                "Tag": 483,
+                "ActionTag": -1782416800,
+                "Size": {
+                  "X": 65.0,
+                  "Y": 129.0
+                },
+                "Name": "next_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/return_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1236.8962,
+                  "Y": 661.5643
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9663,
+                  "Y": 0.9188
+                },
+                "PreSize": {
+                  "X": 0.0547,
+                  "Y": 0.1
+                },
+                "LeftMargin": 1201.8962,
+                "RightMargin": 8.1038,
+                "TopMargin": 22.4357,
+                "BottomMargin": 625.5643,
+                "Tag": 418,
+                "ActionTag": 1130166747,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 72.0
+                },
+                "Name": "return_btn",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1388709978,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "help_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/return_btn.png",
+        "NoviceHelpUI/1.png",
+        "NoviceHelpUI/2.png",
+        "NoviceHelpUI/3.png",
+        "NoviceHelpUI/next_btn.png",
+        "NoviceHelpUI/previous_btn.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

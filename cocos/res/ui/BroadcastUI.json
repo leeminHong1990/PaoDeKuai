@@ -1,0 +1,298 @@
+{
+  "ID": "d4153bc3-1b9b-4195-812c-257536de4806",
+  "Version": "3.10.0.0",
+  "Name": "BroadcastUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleY": 1.0
+            },
+            "Position": {
+              "X": 0.0004,
+              "Y": 628.848
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.8734
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.0694
+            },
+            "LeftMargin": 0.0004,
+            "RightMargin": -0.0004,
+            "TopMargin": 91.152,
+            "BottomMargin": 578.848,
+            "Tag": 2,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Default/ad_bar.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 2,
+                "Scale9OriginY": 11,
+                "Scale9Width": 646,
+                "Scale9Height": 12,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5078,
+                  "Y": 0.68
+                },
+                "LeftMargin": 315.0,
+                "RightMargin": 315.0,
+                "TopMargin": 8.0,
+                "BottomMargin": 8.0,
+                "Tag": 3,
+                "ActionTag": -120563809,
+                "Size": {
+                  "X": 650.0,
+                  "Y": 34.0
+                },
+                "Name": "bg_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "Default/bugle.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 13,
+                "Scale9OriginY": 13,
+                "Scale9Width": 26,
+                "Scale9Height": 20,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 332.8,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.26,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0328,
+                  "Y": 0.8
+                },
+                "LeftMargin": 290.8,
+                "RightMargin": 947.2,
+                "TopMargin": 5.0,
+                "BottomMargin": 5.0,
+                "Tag": 53,
+                "ActionTag": -1982387607,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 40.0
+                },
+                "Name": "broadcast_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 332.8,
+                  "Y": 25.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.26,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5078,
+                  "Y": 0.68
+                },
+                "LeftMargin": 332.8,
+                "RightMargin": 297.2,
+                "TopMargin": 8.0,
+                "BottomMargin": 8.0,
+                "Tag": 54,
+                "Children": [
+                  {
+                    "FontSize": 22,
+                    "LabelText": "跑得快平台提供娱乐休闲棋牌产品，严禁赌博，健康游戏。",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 17.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 230,
+                      "G": 230,
+                      "B": 230
+                    },
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.8662,
+                      "Y": 0.7353
+                    },
+                    "RightMargin": 87.0,
+                    "TopMargin": 4.5,
+                    "BottomMargin": 4.5,
+                    "Tag": 55,
+                    "ActionTag": -203809314,
+                    "Size": {
+                      "X": 563.0,
+                      "Y": 25.0
+                    },
+                    "Name": "broadcast_label",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1636463333,
+                "Size": {
+                  "X": 650.0,
+                  "Y": 34.0
+                },
+                "Name": "label_panel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 2034295283,
+            "Size": {
+              "X": 1280.0,
+              "Y": 50.0
+            },
+            "Name": "broadcast_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/ad_bar.png",
+        "Default/bugle.png",
+        "zhunyuan.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

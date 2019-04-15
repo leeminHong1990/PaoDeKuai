@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="MagicSlipperUI" Type="Plist" ID="cc5ac81a-f883-4c42-9cc3-77b00e80b7b1" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="MagicSlipperUI/1.png" />
+      <FilePathData Path="MagicSlipperUI/10.png" />
+      <FilePathData Path="MagicSlipperUI/11.png" />
+      <FilePathData Path="MagicSlipperUI/12.png" />
+      <FilePathData Path="MagicSlipperUI/13.png" />
+      <FilePathData Path="MagicSlipperUI/14.png" />
+      <FilePathData Path="MagicSlipperUI/15.png" />
+      <FilePathData Path="MagicSlipperUI/16.png" />
+      <FilePathData Path="MagicSlipperUI/2.png" />
+      <FilePathData Path="MagicSlipperUI/3.png" />
+      <FilePathData Path="MagicSlipperUI/4.png" />
+      <FilePathData Path="MagicSlipperUI/5.png" />
+      <FilePathData Path="MagicSlipperUI/6.png" />
+      <FilePathData Path="MagicSlipperUI/7.png" />
+      <FilePathData Path="MagicSlipperUI/8.png" />
+      <FilePathData Path="MagicSlipperUI/9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

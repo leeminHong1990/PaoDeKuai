@@ -1,0 +1,1352 @@
+<Solution>
+  <PropertyGroup Name="PDK_RES" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="ActivitiesUI">
+          <Image Name="activities_bg.png" />
+          <Image Name="activities_black_bg.png" />
+          <Image Name="activitirs_txt.png" />
+          <Image Name="advitisement.png" />
+          <Image Name="ann_light_img.png" />
+          <Image Name="announcement_img.png" />
+          <Image Name="hottest_img.png" />
+          <Image Name="hottest_light_img.png" />
+          <Image Name="protrite.png" />
+        </Folder>
+        <Folder Name="ApplyCloseUI">
+          <Image Name="bg.png" />
+          <Image Name="title.png" />
+          <Image Name="yellow_bg.png" />
+        </Folder>
+        <Folder Name="ArenaDailyRankUI">
+          <Image Name="bg_img.png" />
+          <Image Name="title_bg_img.png" />
+          <Image Name="title_img_0.png" />
+          <Image Name="title_img_1.png" />
+          <Image Name="title_img_2.png" />
+        </Folder>
+        <Folder Name="ArenaInfoUI">
+          <Image Name="bg__rule_img.png" />
+          <Image Name="bg_img.png" />
+          <Image Name="my_bg.png" />
+          <Image Name="name.png" />
+          <Image Name="other_bg.png" />
+          <Image Name="rank.png" />
+          <Image Name="score.png" />
+          <Image Name="title_btn_0.png" />
+          <Image Name="title_btn_1.png" />
+          <Image Name="title_btn_2.png" />
+          <Image Name="title_btn_3.png" />
+          <Image Name="title_btn_4.png" />
+          <Image Name="title_btn_5.png" />
+          <Image Name="title_btn_6.png" />
+          <Image Name="title_btn_7.png" />
+          <Image Name="title_btn_8.png" />
+          <Image Name="title_btn_9.png" />
+          <Image Name="title_img.png" />
+        </Folder>
+        <Folder Name="ArenaRankUI">
+          <Folder Name="num">
+            <Image Name="0.png" />
+            <Image Name="1.png" />
+            <Image Name="2.png" />
+            <Image Name="3.png" />
+            <Image Name="4.png" />
+            <Image Name="5.png" />
+            <Image Name="6.png" />
+            <Image Name="7.png" />
+            <Image Name="8.png" />
+            <Image Name="9.png" />
+          </Folder>
+          <Image Name="back_btn.png" />
+          <Image Name="bg_img.png" />
+          <Image Name="drop_bg_img.png" />
+          <Image Name="drop_down_close.png" />
+          <Image Name="drop_down_open.png" />
+          <Image Name="my_rank_img.png" />
+          <Image Name="name_title.png" />
+          <Image Name="panel_bg.png" />
+          <Image Name="rank_title.png" />
+          <Image Name="ranking_img.png" />
+          <Image Name="reward_title.png" />
+          <Image Name="screenings_title.png" />
+          <Image Name="state_title.png" />
+          <Image Name="time_title.png" />
+          <Image Name="title_bg.png" />
+          <Image Name="title_close.png" />
+          <Image Name="title_img.png" />
+          <Image Name="title_name.png" />
+          <Image Name="title_open.png" />
+          <Image Name="title_score.png" />
+          <Image Name="title_txt_1.png" />
+          <Image Name="title_txt_2.png" />
+          <Image Name="title_week_bg.png" />
+          <Image Name="title_week_rank.png" />
+          <Image Name="title_week_state.png" />
+          <Image Name="week_my_bg.png" />
+          <Image Name="week_other_bg.png" />
+        </Folder>
+        <Folder Name="ArenaResultUI">
+          <Image Name="arena_result_bg.png" />
+          <Image Name="back_btn.png" />
+          <Image Name="result_bg_0.png" />
+          <Image Name="result_bg_1.png" />
+          <Image Name="titile_txt_0.png" />
+          <Image Name="titile_txt_1.png" />
+          <Image Name="titile_txt_2.png" />
+          <Image Name="titile_txt_3.png" />
+          <Image Name="titile_txt_4.png" />
+          <Image Name="titile_txt_5.png" />
+        </Folder>
+        <Folder Name="ArenaRuleUI">
+          <Image Name="sport_award_1.png" />
+          <Image Name="sport_award_2.png" />
+          <Image Name="sport_detail_1.png" />
+          <Image Name="sport_detail_2.png" />
+        </Folder>
+        <Folder Name="ArenaUI">
+          <Image Name="back_img.png" />
+          <Image Name="card_img.png" />
+          <Image Name="diamonds_img.png" />
+          <Image Name="expect_img.png" />
+          <Image Name="frame_img.png" />
+          <Image Name="game_title_img0.png" />
+          <Image Name="game_title_img1.png" />
+          <Image Name="game_txt_img0.png" />
+          <Image Name="game_txt_img1.png" />
+          <Image Name="giv_up.png" />
+          <Image Name="go_on.png" />
+          <Image Name="join_btn0.png" />
+          <Image Name="join_btn1.png" />
+          <Image Name="panel_bg.png" />
+          <Image Name="panel_big_bg.png" />
+          <Image Name="panel_time_img.png" />
+          <Image Name="png_0.png" />
+          <Image Name="png_1.png" />
+          <Image Name="png_2.png" />
+          <Image Name="rank_btn.png" />
+          <Image Name="rank_details.png" />
+          <Image Name="rank_img.png" />
+          <Image Name="signup_btn0.png" />
+          <Image Name="signup_btn1.png" />
+          <Image Name="signup_btn2.png" />
+          <Image Name="sport_ques.png" />
+          <Image Name="sporting.png" />
+          <Image Name="title_img.png" />
+        </Folder>
+        <Folder Name="ArenaWeeklyDetailsUI">
+          <Image Name="bg_img.png" />
+          <Image Name="details_btn.png" />
+          <Image Name="label_1.png" />
+          <Image Name="label_2.png" />
+          <Image Name="label_3.png" />
+          <Image Name="label_4.png" />
+          <Image Name="label_score.png" />
+          <Image Name="sleep_btn.png" />
+          <Image Name="title_bg_img.png" />
+          <Image Name="title_img.png" />
+        </Folder>
+        <Folder Name="AudioRecordUI">
+          <Image Name="audiorecord_bg.png" />
+          <Image Name="audiorecord_hint_img.png" />
+          <Image Name="audiorecord_icon_img.png" />
+        </Folder>
+        <Folder Name="BackGround">
+          <Image Name="Background.png" />
+          <Image Name="bg_desc.png" />
+          <Image Name="big_win.png" />
+          <Image Name="black_bg.png" />
+          <Image Name="config_bg.png" />
+          <Image Name="createroom_bg1.png" />
+          <Image Name="createroom_bg2.png" />
+          <Image Name="dark_bg.png" />
+          <Image Name="gameroom_bg.png" />
+          <Image Name="help_win.png" />
+          <Image Name="medium_win.png" />
+          <Image Name="player_win.png" />
+          <Image Name="public_flat_bg.png" />
+          <Image Name="set_bg.png" />
+          <Image Name="settlement_win.png" />
+          <Image Name="small_win.png" />
+          <Image Name="tall_win.png" />
+          <Image Name="tip_bg.png" />
+          <Image Name="white_bg.png" />
+          <Image Name="yellow_bg.png" />
+        </Folder>
+        <Folder Name="Card">
+          <Image Name="0.png" />
+          <Image Name="00.png" />
+          <Image Name="100.png" />
+          <Image Name="104.png" />
+          <Image Name="105.png" />
+          <Image Name="106.png" />
+          <Image Name="107.png" />
+          <Image Name="108.png" />
+          <Image Name="112.png" />
+          <Image Name="113.png" />
+          <Image Name="114.png" />
+          <Image Name="115.png" />
+          <Image Name="116.png" />
+          <Image Name="128.png" />
+          <Image Name="129.png" />
+          <Image Name="130.png" />
+          <Image Name="131.png" />
+          <Image Name="132.png" />
+          <Image Name="144.png" />
+          <Image Name="152.png" />
+          <Image Name="24.png" />
+          <Image Name="25.png" />
+          <Image Name="26.png" />
+          <Image Name="27.png" />
+          <Image Name="28.png" />
+          <Image Name="32.png" />
+          <Image Name="33.png" />
+          <Image Name="34.png" />
+          <Image Name="35.png" />
+          <Image Name="36.png" />
+          <Image Name="40.png" />
+          <Image Name="41.png" />
+          <Image Name="42.png" />
+          <Image Name="43.png" />
+          <Image Name="44.png" />
+          <Image Name="48.png" />
+          <Image Name="49.png" />
+          <Image Name="50.png" />
+          <Image Name="51.png" />
+          <Image Name="52.png" />
+          <Image Name="56.png" />
+          <Image Name="57.png" />
+          <Image Name="58.png" />
+          <Image Name="59.png" />
+          <Image Name="60.png" />
+          <Image Name="64.png" />
+          <Image Name="65.png" />
+          <Image Name="66.png" />
+          <Image Name="67.png" />
+          <Image Name="68.png" />
+          <Image Name="72.png" />
+          <Image Name="73.png" />
+          <Image Name="74.png" />
+          <Image Name="75.png" />
+          <Image Name="76.png" />
+          <Image Name="80.png" />
+          <Image Name="81.png" />
+          <Image Name="82.png" />
+          <Image Name="83.png" />
+          <Image Name="84.png" />
+          <Image Name="88.png" />
+          <Image Name="89.png" />
+          <Image Name="90.png" />
+          <Image Name="91.png" />
+          <Image Name="92.png" />
+          <Image Name="96.png" />
+          <Image Name="97.png" />
+          <Image Name="98.png" />
+          <Image Name="99.png" />
+          <Image Name="cover_bg.png" />
+        </Folder>
+        <Folder Name="CardSmall">
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="24.png" />
+          <Image Name="25.png" />
+          <Image Name="26.png" />
+          <Image Name="27.png" />
+          <Image Name="28.png" />
+          <Image Name="29.png" />
+          <Image Name="30.png" />
+          <Image Name="31.png" />
+          <Image Name="32.png" />
+          <Image Name="33.png" />
+          <Image Name="34.png" />
+          <Image Name="35.png" />
+          <Image Name="36.png" />
+          <Image Name="37.png" />
+          <Image Name="38.png" />
+          <Image Name="39.png" />
+          <Image Name="40.png" />
+          <Image Name="41.png" />
+          <Image Name="42.png" />
+          <Image Name="43.png" />
+          <Image Name="44.png" />
+          <Image Name="45.png" />
+          <Image Name="46.png" />
+          <Image Name="47.png" />
+          <Image Name="48.png" />
+          <Image Name="49.png" />
+          <Image Name="50.png" />
+          <Image Name="51.png" />
+          <Image Name="52.png" />
+          <Image Name="53.png" />
+          <Image Name="54.png" />
+          <Image Name="55.png" />
+          <Image Name="56.png" />
+          <Image Name="57.png" />
+          <Image Name="58.png" />
+          <Image Name="59.png" />
+          <Image Name="64.png" />
+          <Image Name="65.png" />
+          <Image Name="66.png" />
+          <Image Name="67.png" />
+          <Image Name="72.png" />
+          <Image Name="76.png" />
+        </Folder>
+        <Folder Name="CattleUI">
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+        </Folder>
+        <Folder Name="CommunicateUI">
+          <Image Name="biaoqing.png" />
+          <Image Name="communicate_bg.png" />
+          <Image Name="emot_btn1.png" />
+          <Image Name="emot_btn2.png" />
+          <Image Name="line.png" />
+          <Image Name="record_btn.png" />
+          <Image Name="time_short.png" />
+          <Image Name="title.png" />
+          <Image Name="voice_btn1.png" />
+          <Image Name="voice_btn2.png" />
+        </Folder>
+        <Folder Name="ConfigUI">
+          <Image Name="applyclose_btn.png" />
+          <Image Name="bar.png" />
+          <Image Name="bar_bg.png" />
+          <Image Name="bg_color.png" />
+          <Image Name="blue.png" />
+          <Image Name="close_btn.png" />
+          <Image Name="effect_title.png" />
+          <Image Name="exit_btn.png" />
+          <Image Name="green.png" />
+          <Image Name="logout_btn.png" />
+          <Image Name="long_bar.png" />
+          <Image Name="long_bar_bg.png" />
+          <Image Name="music_title.png" />
+          <Image Name="mute_btn1.png" />
+          <Image Name="mute_btn2.png" />
+          <Image Name="out_btn.png" />
+          <Image Name="sound_img.png" />
+          <Image Name="title.png" />
+          <Image Name="vibrate_title.png" />
+          <Image Name="yellow.png" />
+        </Folder>
+        <Folder Name="ConnectionUI">
+          <Image Name="content_img.png" />
+          <Image Name="title_img.png" />
+        </Folder>
+        <Folder Name="CreateRoomUI">
+          <Image Name="ad_bar.png" />
+          <Image Name="agree.png" />
+          <Image Name="anti_cheating_btn.png" />
+          <Image Name="Background.png" />
+          <Image Name="bar.9.png" />
+          <Image Name="bugle.png" />
+          <Image Name="cancel_btn.png" />
+          <Image Name="card_num_select.png" />
+          <Image Name="chx_bg.png" />
+          <Image Name="chx_img.png" />
+          <Image Name="circle_chx_1.png" />
+          <Image Name="circle_chx_2.png" />
+          <Image Name="common_blank.png" />
+          <Image Name="common_gray_bg.png" />
+          <Image Name="common_roomowner_img.png" />
+          <Image Name="common_select_bg.png" />
+          <Image Name="common_trans_bg.png" />
+          <Image Name="common_wxinvite_btn.png" />
+          <Image Name="deal_select.png" />
+          <Image Name="discard_select.png" />
+          <Image Name="end_select.png" />
+          <Image Name="first_round_select.png" />
+          <Image Name="function_select.png" />
+          <Image Name="game_mode0_bright.png" />
+          <Image Name="game_mode0_dark.png" />
+          <Image Name="game_mode1_bright.png" />
+          <Image Name="game_mode1_dark.png" />
+          <Image Name="game_mode2_bright.png" />
+          <Image Name="game_mode2_dark.png" />
+          <Image Name="game_mode3_bright.png" />
+          <Image Name="game_mode3_dark.png" />
+          <Image Name="key_select.png" />
+          <Image Name="leave_btn.png" />
+          <Image Name="ok_btn.png" />
+          <Image Name="over_shenglishibai.png" />
+          <Image Name="player_num_select.png" />
+          <Image Name="popup_big .png" />
+          <Image Name="refuse.png" />
+          <Image Name="return_btn.png" />
+          <Image Name="round_select.png" />
+          <Image Name="rule_select.png" />
+          <Image Name="score_bg.png" />
+          <Image Name="share_btn.png" />
+          <Image Name="short_bar.png" />
+          <Image Name="short_bar_bg.png" />
+          <Image Name="title.png" />
+        </Folder>
+        <Folder Name="CrownUI">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="Dealer">
+          <Image Name="dealer_cry.png" />
+          <Image Name="dealer_half.png" />
+          <Image Name="dealer_smile.png" />
+        </Folder>
+        <Folder Name="Default">
+          <Image Name="ad_bar.png" />
+          <Image Name="agree.png" />
+          <Image Name="Background.png" />
+          <Image Name="bar.9.png" />
+          <Image Name="bugle.png" />
+          <Image Name="Button_Normal.png" />
+          <Image Name="Button_Press.png" />
+          <Image Name="cancel_btn.png" />
+          <Image Name="chx_bg.png" />
+          <Image Name="chx_img.png" />
+          <Image Name="circle_chx_1.png" />
+          <Image Name="circle_chx_2.png" />
+          <Image Name="circle_chx_3.png" />
+          <Image Name="common_blank.png" />
+          <Image Name="common_gray_bg.png" />
+          <Image Name="common_roomowner_img.png" />
+          <Image Name="common_select_bg.png" />
+          <Image Name="common_trans_bg.png" />
+          <Image Name="common_wxinvite_btn.png" />
+          <Image Name="confirm_btn.png" />
+          <Image Name="false_btn.png" />
+          <Image Name="leave_btn.png" />
+          <Image Name="ok_btn.png" />
+          <Image Name="over_shenglishibai.png" />
+          <Image Name="popup_big .png" />
+          <Image Name="refuse.png" />
+          <Image Name="return_btn.png" />
+          <Image Name="score_bg.png" />
+          <Image Name="share_btn.png" />
+          <Image Name="true_btn.png" />
+        </Folder>
+        <Folder Name="EffectBtn">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="EffectDiceUI">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="24.png" />
+          <Image Name="25.png" />
+          <Image Name="26.png" />
+          <Image Name="27.png" />
+          <Image Name="28.png" />
+          <Image Name="29.png" />
+          <Image Name="3.png" />
+          <Image Name="30.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="EffectFireworksUI">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="24.png" />
+          <Image Name="25.png" />
+          <Image Name="26.png" />
+          <Image Name="27.png" />
+          <Image Name="28.png" />
+          <Image Name="29.png" />
+          <Image Name="3.png" />
+          <Image Name="30.png" />
+          <Image Name="31.png" />
+          <Image Name="32.png" />
+          <Image Name="33.png" />
+          <Image Name="34.png" />
+          <Image Name="35.png" />
+          <Image Name="36.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="Effects">
+          <Image Name="fireworks_00000.png" />
+          <Image Name="fireworks_00001.png" />
+          <Image Name="fireworks_00002.png" />
+          <Image Name="fireworks_00003.png" />
+          <Image Name="fireworks_00004.png" />
+          <Image Name="fireworks_00005.png" />
+          <Image Name="fireworks_00006.png" />
+          <Image Name="fireworks_00007.png" />
+          <Image Name="onlyone_1.png" />
+          <Image Name="onlyone_2.png" />
+        </Folder>
+        <Folder Name="EffectStreamerUI">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="24.png" />
+          <Image Name="25.png" />
+          <Image Name="26.png" />
+          <Image Name="27.png" />
+          <Image Name="28.png" />
+          <Image Name="29.png" />
+          <Image Name="3.png" />
+          <Image Name="30.png" />
+          <Image Name="31.png" />
+          <Image Name="32.png" />
+          <Image Name="33.png" />
+          <Image Name="34.png" />
+          <Image Name="35.png" />
+          <Image Name="36.png" />
+          <Image Name="37.png" />
+          <Image Name="38.png" />
+          <Image Name="39.png" />
+          <Image Name="4.png" />
+          <Image Name="40.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="EffevtCardUI">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="24.png" />
+          <Image Name="25.png" />
+          <Image Name="26.png" />
+          <Image Name="27.png" />
+          <Image Name="28.png" />
+          <Image Name="29.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="FeedBackUI">
+          <Image Name="title.png" />
+        </Folder>
+        <Folder Name="GameHallUI">
+          <Image Name="achievement.png" />
+          <Image Name="activity.png" />
+          <Image Name="ad_bar.png" />
+          <Image Name="advertisement.png" />
+          <Image Name="arena_btn.png" />
+          <Image Name="authentication.png" />
+          <Image Name="background.png" />
+          <Image Name="background_newyear.png" />
+          <Image Name="beauty_1.png" />
+          <Image Name="beauty_2.png" />
+          <Image Name="bg_advertisement.png" />
+          <Image Name="bg_black.png" />
+          <Image Name="bg_glass.png" />
+          <Image Name="bg_info.png" />
+          <Image Name="bg_txt.png" />
+          <Image Name="bugle.png" />
+          <Image Name="build.png" />
+          <Image Name="card.png" />
+          <Image Name="card_bg.png" />
+          <Image Name="connection.png" />
+          <Image Name="diamond.png" />
+          <Image Name="effect_card1.png" />
+          <Image Name="effect_card2.png" />
+          <Image Name="effect_dice1.png" />
+          <Image Name="effect_dice2.png" />
+          <Image Name="exit.png" />
+          <Image Name="feedback.png" />
+          <Image Name="frame.png" />
+          <Image Name="gamehall_refresh.png" />
+          <Image Name="guide.png" />
+          <Image Name="head_box.png" />
+          <Image Name="join.png" />
+          <Image Name="line.png" />
+          <Image Name="mascot_img.png" />
+          <Image Name="plus.png" />
+          <Image Name="point.png" />
+          <Image Name="portrait_bg.png" />
+          <Image Name="portrait_sprite.png" />
+          <Image Name="rankings.png" />
+          <Image Name="real_point.png" />
+          <Image Name="regression.png" />
+          <Image Name="rule.png" />
+          <Image Name="setting.png" />
+          <Image Name="share.png" />
+          <Image Name="shopping.png" />
+          <Image Name="sign.png" />
+          <Image Name="title.png" />
+          <Image Name="title_txt_bg_img.png" />
+          <Image Name="title_txt_img.png" />
+          <Image Name="top_bar.png" />
+          <Image Name="trade_union.png" />
+          <Image Name="virtual_point.png" />
+          <Image Name="zuheshaizi.png" />
+        </Folder>
+        <Folder Name="GamePrepareUI">
+          <Image Name="cancel_prepare_btn.png" />
+          <Image Name="common_wxinvite_btn.png" />
+          <Image Name="copyRoominfo.png" />
+          <Image Name="frame.png" />
+          <Image Name="prepare_btn.png" />
+          <Image Name="prepare_ok_img.png" />
+        </Folder>
+        <Folder Name="GameRoomInfoUI">
+          <Image Name="battery.png" />
+          <Image Name="battery_frame.png" />
+          <Image Name="bg_img_1.png" />
+          <Image Name="bg_img_2.png" />
+          <Image Name="bg_img_3.png" />
+          <Image Name="bg_label_img_1.png" />
+          <Image Name="bg_label_img_2.png" />
+          <Image Name="bg_label_img_3.png" />
+          <Image Name="bottom_bg.png" />
+          <Image Name="change_frame.png" />
+          <Image Name="communicate_btn.png" />
+          <Image Name="four_info_frame.png" />
+          <Image Name="gps.png" />
+          <Image Name="out.png" />
+          <Image Name="return.png" />
+          <Image Name="rule.png" />
+          <Image Name="setting.png" />
+          <Image Name="signal_bright.png" />
+          <Image Name="signal_dark.png" />
+          <Image Name="top_bg.png" />
+          <Image Name="voice_btn.png" />
+          <Image Name="wifi_bright1.png" />
+          <Image Name="wifi_bright2.png" />
+          <Image Name="wifi_bright3.png" />
+          <Image Name="wifi_dark.png" />
+        </Folder>
+        <Folder Name="GameRoomUI">
+          <Image Name="bottombg_img.png" />
+          <Image Name="bubble_bg.png" />
+          <Image Name="bubble_discard.png" />
+          <Image Name="bubble_notcall.png" />
+          <Image Name="bubble_onescore.png" />
+          <Image Name="bubble_threescore.png" />
+          <Image Name="bubble_twoscore.png" />
+          <Image Name="clock.png" />
+          <Image Name="common_portrait_mask.png" />
+          <Image Name="common_roomowner_img.png" />
+          <Image Name="discard_btn.png" />
+          <Image Name="discard_btn_disabled.png" />
+          <Image Name="frame.png" />
+          <Image Name="game_room_1.png" />
+          <Image Name="game_room_2.png" />
+          <Image Name="game_room_3.png" />
+          <Image Name="game_room_bg_title.png" />
+          <Image Name="game_room_refresh.png" />
+          <Image Name="game_room_reverse_card.png" />
+          <Image Name="gameroom_bg.png" />
+          <Image Name="landlord.png" />
+          <Image Name="ma_bg_img.png" />
+          <Image Name="must_hei3.png" />
+          <Image Name="name_bg.png" />
+          <Image Name="no_big_img.png" />
+          <Image Name="no_discards_img.png" />
+          <Image Name="not_afford.png" />
+          <Image Name="notcall_btn.png" />
+          <Image Name="onescore_btn.png" />
+          <Image Name="only.png" />
+          <Image Name="pas_btn.png" />
+          <Image Name="score_bg.png" />
+          <Fnt Name="shuzi.fnt" />
+          <Fnt Name="shuzishuzi.fnt" />
+          <Image Name="single_tip_img.png" />
+          <Image Name="state_offline.png" />
+          <Image Name="state_online.png" />
+          <Image Name="threescore_btn.png" />
+          <Image Name="tips_btn.png" />
+          <Image Name="title_frame.png" />
+          <Image Name="twoscore_btn.png" />
+          <Image Name="yellow_frame.png" />
+        </Folder>
+        <Folder Name="GPSUI">
+          <Image Name="back_btn.png" />
+          <Image Name="bg_img.png" />
+          <Image Name="default_img.png" />
+          <Image Name="dissroom_btn.png" />
+          <Image Name="line_img.png" />
+          <Image Name="my_img.png" />
+          <Image Name="other_img.png" />
+          <Image Name="title_img.png" />
+        </Folder>
+        <Folder Name="HelpUI">
+          <Image Name="15.png" />
+          <Image Name="15_dark_btn.png" />
+          <Image Name="15_light_btn.png" />
+          <Image Name="classic.png" />
+          <Image Name="classic_dark_btn.png" />
+          <Image Name="classic_light_btn.png" />
+          <Image Name="close.png" />
+          <Image Name="fourpeople.png" />
+          <Image Name="fourpeople_dark_btn.png" />
+          <Image Name="fourpeople_light_btn.png" />
+          <Image Name="intro_img.png" />
+          <Image Name="title.png" />
+          <Image Name="universal.png" />
+          <Image Name="universal_dark_btn.png" />
+          <Image Name="universal_light_btn.png" />
+        </Folder>
+        <Folder Name="JoinRoomUI">
+          <Image Name="0.png" />
+          <Image Name="00.png" />
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+          <Image Name="cin_roomid.png" />
+          <Image Name="clear_btn.png" />
+          <Image Name="del.png" />
+          <Image Name="num_bg.png" />
+          <Image Name="num_frame.png" />
+          <Image Name="title.png" />
+          <Image Name="underline.png" />
+          <Image Name="yellow_bg.png" />
+        </Folder>
+        <Folder Name="LeaderboardUI">
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="head_box_img.png" />
+          <Image Name="integral_btn_1.png" />
+          <Image Name="integral_btn_2.png" />
+          <Image Name="integral_btn_3.png" />
+          <Image Name="integral_btn_4.png" />
+          <Image Name="leaderboard_bg_1.png" />
+          <Image Name="leaderboard_bg_2.png" />
+          <Image Name="refresh.png" />
+          <Image Name="title_img.png" />
+        </Folder>
+        <Folder Name="LoginUI">
+          <Image Name="bg_img.png" />
+          <Image Name="bg_shadow_img.png" />
+          <Image Name="check_bg_img.png" />
+          <Image Name="check_img.png" />
+          <Image Name="login_bg.png" />
+          <Image Name="login_loging_img.png" />
+          <Image Name="logo_img.png" />
+          <Image Name="progress_img_1.png" />
+          <Image Name="progress_img_2.png" />
+          <Image Name="user_protocol_img.png" />
+          <Image Name="wechat_login.png" />
+          <Image Name="xsmj_logo.png" />
+        </Folder>
+        <Folder Name="MagicCheersUI">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="MagicEgeUI">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="MagicKissUI">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="24.png" />
+          <Image Name="25.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="MagicSlipperUI">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="MagicUI">
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+        </Folder>
+        <Folder Name="MainCityUI">
+          <Image Name="main_city_ad_bg.png" />
+          <Image Name="main_city_add.png" />
+          <Image Name="main_city_bg.png" />
+          <Image Name="main_city_card.png" />
+          <Image Name="main_city_diamond.png" />
+          <Image Name="main_city_expect.png" />
+          <Image Name="main_city_game_name_bg.png" />
+          <Image Name="main_city_head_bg.png" />
+          <Image Name="main_city_head_cicle.png" />
+          <Image Name="main_city_share_btn.png" />
+          <Image Name="main_city_shop_btn.png" />
+          <Image Name="main_city_sss.png" />
+          <Image Name="main_city_title.png" />
+          <Image Name="main_city_title_bg.png" />
+          <Image Name="main_city_xsmj.png" />
+        </Folder>
+        <Folder Name="NameCertificationUI">
+          <Image Name="NameCer_bg_img.png" />
+          <Image Name="nameCertification.png" />
+          <Image Name="ok_btn.png" />
+          <Image Name="txt_bg_img.png" />
+        </Folder>
+        <Folder Name="NumUI">
+          <Image Name="0.png" />
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="PlayerInfoUI">
+          <Image Name="bg_img.png" />
+          <Image Name="bottom_bg.png" />
+          <Image Name="magic_bg_img.png" />
+          <Image Name="playerinfo_bg.png" />
+        </Folder>
+        <Folder Name="RecordUI">
+          <Image Name="back_btn.png" />
+          <Image Name="bg.png" />
+          <Image Name="close_btn.png" />
+          <Image Name="control_img.png" />
+          <Image Name="exit_btn.png" />
+          <Image Name="latter_btn.png" />
+          <Image Name="lose_img.png" />
+          <Image Name="num_bg.png" />
+          <Image Name="other_show_btn.png" />
+          <Image Name="pause_btn.png" />
+          <Image Name="play_btn.png" />
+          <Image Name="previous_btn.png" />
+          <Image Name="record_bg_1.png" />
+          <Image Name="record_bg_2.png" />
+          <Image Name="record_bg_3.png" />
+          <Image Name="share_btn.png" />
+          <Image Name="show_btn.png" />
+          <Image Name="title.png" />
+          <Image Name="title_bg.png" />
+          <Image Name="win_img.png" />
+        </Folder>
+        <Folder Name="ResultUI">
+          <Image Name="confirm.png" />
+          <Image Name="frame.png" />
+          <Image Name="quit_room.png" />
+          <Image Name="result_bg.png" />
+          <Image Name="result_return.png" />
+          <Image Name="result_share.png" />
+          <Image Name="result_total_score.png" />
+          <Image Name="result_unit_bg.png" />
+          <Image Name="share.png" />
+          <Image Name="take_sport.png" />
+          <Image Name="title.png" />
+          <Image Name="win.png" />
+        </Folder>
+        <Folder Name="SettlementUI">
+          <Image Name="aperture.png" />
+          <Image Name="bg.png" />
+          <Image Name="confirm_btn.png" />
+          <Image Name="draw_title.png" />
+          <Image Name="fail_title.png" />
+          <Image Name="game.png" />
+          <Image Name="hide_btn.png" />
+          <Image Name="hong_ten.png" />
+          <Image Name="info_bg.png" />
+          <Image Name="item_bg.png" />
+          <Image Name="item_type_bg.png" />
+          <Image Name="landlord .png" />
+          <Image Name="no.png" />
+          <Image Name="pinghu.png" />
+          <Image Name="score_bg.png" />
+          <Image Name="settlement_lose_bg.png" />
+          <Image Name="show_btn.png" />
+          <Fnt Name="shuzi.fnt" />
+          <Image Name="title_bg.png" />
+          <Image Name="white_bg.png" />
+          <Image Name="win_bg.png" />
+          <Image Name="win_title.png" />
+        </Folder>
+        <Folder Name="ShopUI">
+          <Image Name="bg_img.png" />
+          <Image Name="diamond_img_1.png" />
+          <Image Name="diamond_img_2.png" />
+          <Image Name="diamond_img_3.png" />
+          <Image Name="diamond_img_4.png" />
+          <Image Name="diamond_img_5.png" />
+          <Image Name="diamond_img_6.png" />
+          <Image Name="item_img.png" />
+          <Image Name="money.png" />
+          <Fnt Name="SimHei.fnt" />
+          <Image Name="SimHei.png" />
+        </Folder>
+        <Folder Name="ShunziUI">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="24.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="SignUI">
+          <Folder Name="Diamond">
+            <Image Name="Diamond1.png" />
+            <Image Name="Diamond2.png" />
+            <Image Name="Diamond3.png" />
+            <Image Name="Diamond4.png" />
+            <Image Name="Diamond5.png" />
+            <Image Name="Diamond6.png" />
+            <Image Name="Diamond7.png" />
+          </Folder>
+          <Image Name="cover.png" />
+          <Image Name="cover_big.png" />
+          <Image Name="day1.png" />
+          <Image Name="day2.png" />
+          <Image Name="day3.png" />
+          <Image Name="day4.png" />
+          <Image Name="day5.png" />
+          <Image Name="day6.png" />
+          <Image Name="day7.png" />
+          <Image Name="diamond_img.png" />
+          <Image Name="light.png" />
+          <Image Name="light_big.png" />
+          <Fnt Name="qdsz.fnt" />
+          <Image Name="received.png" />
+          <Image Name="sign_win.png" />
+        </Folder>
+        <Folder Name="Trophy">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="15.png" />
+          <Image Name="16.png" />
+          <Image Name="17.png" />
+          <Image Name="18.png" />
+          <Image Name="19.png" />
+          <Image Name="2.png" />
+          <Image Name="20.png" />
+          <Image Name="21.png" />
+          <Image Name="22.png" />
+          <Image Name="23.png" />
+          <Image Name="24.png" />
+          <Image Name="25.png" />
+          <Image Name="26.png" />
+          <Image Name="27.png" />
+          <Image Name="28.png" />
+          <Image Name="29.png" />
+          <Image Name="3.png" />
+          <Image Name="30.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="TrophyUI">
+          <Image Name="1.png" />
+          <Image Name="10.png" />
+          <Image Name="11.png" />
+          <Image Name="12.png" />
+          <Image Name="13.png" />
+          <Image Name="14.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+        </Folder>
+        <Folder Name="UnionAddNewMemberUI">
+          <Image Name="0.png" />
+          <Image Name="1.png" />
+          <Image Name="2.png" />
+          <Image Name="3.png" />
+          <Image Name="4.png" />
+          <Image Name="5.png" />
+          <Image Name="6.png" />
+          <Image Name="7.png" />
+          <Image Name="8.png" />
+          <Image Name="9.png" />
+          <Image Name="bg_img.png" />
+          <Image Name="confirm_btn.png" />
+          <Image Name="delete_btn.png" />
+          <Image Name="input_bg_img.png" />
+          <Image Name="num_btn.png" />
+        </Folder>
+        <Folder Name="UnionHallUI">
+          <Image Name="bg_hall_img_1.png" />
+          <Image Name="bg_hall_img_2.png" />
+          <Image Name="content_img.png" />
+          <Image Name="createunion__img.png" />
+          <Image Name="events_btn_1.png" />
+          <Image Name="events_btn_2.png" />
+          <Image Name="hall_btn_1.png" />
+          <Image Name="hall_btn_2.png" />
+          <Image Name="member_btn_1.png" />
+          <Image Name="member_btn_2.png" />
+          <Image Name="rank_img.png" />
+          <TTF Name="Typeface.TTF" />
+          <Image Name="union_pop_img.png" />
+        </Folder>
+        <Folder Name="UnionMatchManagementUI">
+          <Image Name="check_chx.png" />
+          <Image Name="delete_btn.png" />
+          <Image Name="events_bg.png" />
+          <Image Name="member_btn.png" />
+          <Image Name="newevents_img.png" />
+          <Image Name="nextpape_btn.png" />
+          <Image Name="ok_img.png" />
+          <Image Name="pop_win.png" />
+          <Image Name="previouspage_btn.png" />
+          <Image Name="remove_btn.png" />
+          <Image Name="room_btn.png" />
+          <Image Name="select_btn.png" />
+          <Image Name="selectall_bg.png" />
+          <Image Name="selectall_btn.png" />
+          <Image Name="start_btn.png" />
+          <Image Name="stop_btn.png" />
+          <Image Name="title_bg.png" />
+          <Image Name="title_bg_1.png" />
+          <Image Name="title_bg_img.png" />
+          <Image Name="title_img.png" />
+        </Folder>
+        <Folder Name="UnionMemberUI">
+          <Image Name="addnew.png" />
+          <Image Name="bg_info_img.png" />
+          <Image Name="delete_btn.png" />
+          <Image Name="down_img.png" />
+          <Image Name="Invitation_btn.png" />
+          <Image Name="remarks_btn.png" />
+          <Image Name="title_bg_img.png" />
+          <Image Name="title_bg_img_1.png" />
+        </Folder>
+        <Folder Name="UnionPersonalUI">
+          <Image Name="ann_bg_img.png" />
+          <Image Name="ann_img.png" />
+          <Image Name="automatching.png" />
+          <Image Name="bg_unionlist_img.png" />
+          <Image Name="bg_unionname_img.png" />
+          <Image Name="createroom_btn.png" />
+          <Image Name="editann.png" />
+          <Image Name="exit_btn.png" />
+          <Image Name="help_img.png" />
+          <Image Name="modify_name_btn.png" />
+          <Image Name="room_bg_img.png" />
+          <Image Name="title_img.png" />
+          <Image Name="union_btn_1.png" />
+          <Image Name="union_btn_2.png" />
+        </Folder>
+        <Folder Name="UnionPopUI">
+          <Image Name="bg_create_img.png" />
+          <Image Name="bg_txt_img.png" />
+          <Image Name="notice_img.png" />
+          <Image Name="remark_bg_img.png" />
+          <Image Name="remarks_img.png" />
+          <Image Name="tip_img.png" />
+        </Folder>
+        <Folder Name="UnionRankUI">
+          <Image Name="acc_close_img.png" />
+          <Image Name="acc_open_img.png" />
+          <Image Name="group_rank_img.png" />
+          <Image Name="id_img.png" />
+          <Image Name="integral_btn0.png" />
+          <Image Name="integral_btn1.png" />
+          <Image Name="integral_img.png" />
+          <Image Name="join_time_img.png" />
+          <Image Name="name_img.png" />
+          <Image Name="rank_img.png" />
+          <Image Name="remark_img.png" />
+          <Image Name="star_btn0.png" />
+          <Image Name="star_btn1.png" />
+          <Image Name="times_img.png" />
+          <Image Name="win_btn0.png" />
+          <Image Name="win_btn1.png" />
+          <Image Name="win_img.png" />
+        </Folder>
+        <Folder Name="UnionRoomInfoUI">
+          <Image Name="bg_img.png" />
+          <Image Name="bg_long_img.png" />
+          <Image Name="bg_short_img.png" />
+          <Image Name="create_bg.png" />
+          <Image Name="createroom_btn_1.png" />
+          <Image Name="createroom_btn_2.png" />
+          <Image Name="first_btn.png" />
+          <Image Name="goto_btn.png" />
+          <Image Name="last_btn.png" />
+          <Image Name="list_btn.png" />
+          <Image Name="refresh_btn.png" />
+          <Image Name="roomlist_btn_1.png" />
+          <Image Name="roomlist_btn_2.png" />
+        </Folder>
+        <Folder Name="WXShareUI">
+          <Image Name="content.png" />
+          <Image Name="friends_circle.png" />
+          <Image Name="share_btn_1.png" />
+          <Image Name="share_btn_2.png" />
+          <Image Name="wx_friends.png" />
+        </Folder>
+        <Project Name="ActivitiesUI.csd" Type="Layer" />
+        <Project Name="ApplyCloseUI.csd" Type="Layer" />
+        <Project Name="ArenaDailyRankUI.csd" Type="Layer" />
+        <Project Name="ArenaInfoUI.csd" Type="Layer" />
+        <Project Name="ArenaRankUI.csd" Type="Layer" />
+        <Project Name="ArenaResultUI.csd" Type="Layer" />
+        <Project Name="ArenaRuleUI.csd" Type="Layer" />
+        <Project Name="ArenaUI.csd" Type="Layer" />
+        <Project Name="ArenaWeeklyDetailsUI.csd" Type="Layer" />
+        <Project Name="AudioRecordUI.csd" Type="Layer" />
+        <Project Name="BroadcastUI.csd" Type="Layer" />
+        <PlistInfo Name="card.csi" Type="Plist" />
+        <PlistInfo Name="cattle.csi" Type="Plist" />
+        <Project Name="CommunicateUI.csd" Type="Layer" />
+        <Project Name="ConfigUI.csd" Type="Layer" />
+        <Project Name="ConnectionUI.csd" Type="Layer" />
+        <Project Name="CreateRoomUI.csd" Type="Layer" />
+        <PlistInfo Name="CrownUI.csi" Type="Plist" />
+        <PlistInfo Name="effectbtn.csi" Type="Plist" />
+        <PlistInfo Name="effectcard.csi" Type="Plist" />
+        <PlistInfo Name="effectdice.csi" Type="Plist" />
+        <PlistInfo Name="EffectFireworksUI.csi" Type="Plist" />
+        <PlistInfo Name="EffectStreamerUI.csi" Type="Plist" />
+        <Project Name="FeedBackUI.csd" Type="Layer" />
+        <Project Name="GameConfigUI.csd" Type="Layer" />
+        <Project Name="GameHallUI.csd" Type="Layer" />
+        <Project Name="GamePlayerInfoUI.csd" Type="Layer" />
+        <Project Name="GameRoomBackUI.csd" Type="Layer" />
+        <Project Name="GameRoomInfoUI.csd" Type="Layer" />
+        <Project Name="GameRoomPrepareUI.csd" Type="Layer" />
+        <Project Name="GameRoomUI.csd" Type="Layer" />
+        <Project Name="GPSUI.csd" Type="Layer" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="HelpUI.csd" Type="Layer" />
+        <Project Name="InfoBtnUI.csd" Type="Layer" />
+        <Project Name="InfoUI.csd" Type="Layer" />
+        <Project Name="IntroUI.csd" Type="Layer" />
+        <Project Name="JoinRoomUI.csd" Type="Layer" />
+        <Project Name="LeaderboardUI.csd" Type="Layer" />
+        <Project Name="LoginUI.csd" Type="Layer" />
+        <PlistInfo Name="MagicCheersUI.csi" Type="Plist" />
+        <PlistInfo Name="MagicEgeUI.csi" Type="Plist" />
+        <PlistInfo Name="MagicKissUI.csi" Type="Plist" />
+        <PlistInfo Name="MagicSlipperUI.csi" Type="Plist" />
+        <Project Name="MainCityUI.csd" Type="Layer" />
+        <PlistInfo Name="MainCityUI.csi" Type="Plist" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="NameCertificationUI.csd" Type="Layer" />
+        <PlistInfo Name="onlyone.csi" Type="Plist" />
+        <Project Name="PlayerInfoUI.csd" Type="Layer" />
+        <Project Name="RecordUI.csd" Type="Layer" />
+        <Project Name="ResultUI.csd" Type="Layer" />
+        <Project Name="SettlementUI.csd" Type="Layer" />
+        <Project Name="ShareUI.csd" Type="Layer" />
+        <Project Name="ShopUI.csd" Type="Layer" />
+        <PlistInfo Name="shunzi.csi" Type="Plist" />
+        <Project Name="SignUI.csd" Type="Layer" />
+        <Project Name="testUI.csd" Type="Layer" />
+        <PlistInfo Name="Trophy.csi" Type="Plist" />
+        <PlistInfo Name="TrophyUI.csi" Type="Plist" />
+        <PlistInfo Name="TurnCard.csi" Type="Plist" />
+        <Project Name="UnionAddNewMemberUI.csd" Type="Layer" />
+        <Project Name="UnionCreateUI.csd" Type="Layer" />
+        <Project Name="UnionHallUI.csd" Type="Layer" />
+        <Project Name="UnionInputUI.csd" Type="Layer" />
+        <Project Name="UnionMatchMemberUI.csd" Type="Layer" />
+        <Project Name="UnionMemberAllSelectUI.csd" Type="Layer" />
+        <Project Name="UnionPersonalUI.csd" Type="Layer" />
+        <Project Name="UnionRankUI.csd" Type="Layer" />
+        <Project Name="UnionRoomInfoUI.csd" Type="Layer" />
+        <Project Name="UnionTipUI.csd" Type="Layer" />
+        <Project Name="WXShareUI.csd" Type="Layer" />
+        <TTF Name="zhunyuan.ttf" />
+        <Project Name="WebViewUI.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

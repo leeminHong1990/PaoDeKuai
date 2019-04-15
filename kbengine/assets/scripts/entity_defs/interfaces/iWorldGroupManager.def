@@ -1,0 +1,13 @@
+<root>
+	<Properties>
+		<createGroupCount>
+			<Type>				UID				</Type>
+			<Flags>				BASE			</Flags>
+			<Default>			0			    </Default>
+			<Persistent>		true			</Persistent>
+		</createGroupCount>
+	</Properties>
+	
+	<BaseMethods>
+	</BaseMethods>
+</root>

@@ -1,0 +1,10 @@
+<root>
+    <Properties>
+        <recordIndex>
+            <Type>			UINT32			</Type>
+            <Flags>			BASE		</Flags>
+            <Persistent>	true	</Persistent>
+            <Default>	600000	</Default>
+        </recordIndex>
+    </Properties>
+</root>

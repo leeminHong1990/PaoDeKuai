@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>InvitationUI/0.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{56,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,51}</string>
+			</dict>
+			<key>InvitationUI/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{56,0},{56,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,51}</string>
+			</dict>
+			<key>InvitationUI/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{112,0},{56,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,51}</string>
+			</dict>
+			<key>InvitationUI/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{168,0},{56,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,51}</string>
+			</dict>
+			<key>InvitationUI/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,51},{56,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{56,51}</string>
+			</dict>
+			<key>InvitationUI/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,107},{56,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{56,51}</string>
+			</dict>
+			<key>InvitationUI/6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,163},{56,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{56,51}</string>
+			</dict>
+			<key>InvitationUI/7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{51,51},{56,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,51}</string>
+			</dict>
+			<key>InvitationUI/8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{107,51},{56,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,51}</string>
+			</dict>
+			<key>InvitationUI/9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{163,51},{56,51}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{56,51}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>InvitationUI.png</string>
+			<key>realTextureFileName</key>
+			<string>InvitationUI.png</string>
+			<key>size</key>
+			<string>{256,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>

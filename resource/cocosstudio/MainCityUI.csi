@@ -1,0 +1,22 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="MainCityUI" Type="Plist" ID="42d1a127-cc13-4d1f-9873-40ba59a064e1" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="MainCityUI/main_city_ad_bg.png" />
+      <FilePathData Path="MainCityUI/main_city_add.png" />
+      <FilePathData Path="MainCityUI/main_city_card.png" />
+      <FilePathData Path="MainCityUI/main_city_diamond.png" />
+      <FilePathData Path="MainCityUI/main_city_expect.png" />
+      <FilePathData Path="MainCityUI/main_city_game_name_bg.png" />
+      <FilePathData Path="MainCityUI/main_city_head_bg.png" />
+      <FilePathData Path="MainCityUI/main_city_head_cicle.png" />
+      <FilePathData Path="MainCityUI/main_city_share_btn.png" />
+      <FilePathData Path="MainCityUI/main_city_shop_btn.png" />
+      <FilePathData Path="MainCityUI/main_city_sss.png" />
+      <FilePathData Path="MainCityUI/main_city_title.png" />
+      <FilePathData Path="MainCityUI/main_city_title_bg.png" />
+      <FilePathData Path="MainCityUI/main_city_xsmj.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>

@@ -1,0 +1,183 @@
+<root>
+	<Properties>
+		<blockFriends>
+			<Type>		UINT8		</Type>
+			<Flags>		BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</blockFriends>
+		<attentionPlayerList>
+			<Type>		UUID_ARRAY		</Type>
+			<Flags>		BASE		</Flags>
+			<Persistent>		true				</Persistent>	
+		</attentionPlayerList>
+		<attentionYouPlayerList>
+			<Type>		UUID_ARRAY		</Type>
+			<Flags>		BASE		</Flags>
+			<Persistent>		true				</Persistent>	
+		</attentionYouPlayerList>
+		<hasSendFriendGiftUUIDList>
+			<Type>		UUID_ARRAY		</Type>
+			<Flags>		BASE		</Flags>
+			<Persistent>		true			</Persistent>
+			<Default>		[]		</Default>
+		</hasSendFriendGiftUUIDList>
+		<hasGetFriendGiftList>
+			<Type>		GIFT_LIST		</Type>
+			<Flags>		BASE		</Flags>
+			<Persistent>		true			</Persistent>
+			<Default>		[]		</Default>
+		</hasGetFriendGiftList>
+		<canGetFriendGiftList>
+			<Type>		GIFT_LIST		</Type>
+			<Flags>		BASE		</Flags>
+			<Persistent>		true			</Persistent>
+			<Default>		[]		</Default>
+		</canGetFriendGiftList>
+
+		<recommendPlayerList>
+			<Type>		UUID_ARRAY		</Type>
+			<Flags>		BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</recommendPlayerList>
+		<recommendFriendTimeStamp>
+			<Type>		DOUBLE		</Type>
+			<Flags>		BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</recommendFriendTimeStamp>
+		<attentionPlayerNumOfDay>
+			<Type>		UINT32		</Type>
+			<Flags>		BASE		</Flags>
+			<Persistent>		true			</Persistent>
+		</attentionPlayerNumOfDay>
+		<isCanBeAttentioned>
+			<Type>		UINT8		</Type>
+			<Flags>		BASE		</Flags>
+			<Persistent>		true			</Persistent>
+			<Default> 	1 	</Default>
+		</isCanBeAttentioned>
+	</Properties>
+
+	<BaseMethods>
+		<attentionPlayerByClient>
+			<Exposed/>
+			<Arg>		UUID		</Arg>
+		</attentionPlayerByClient>
+
+		<disAttentionPlayerByClient>
+			<Exposed/>
+			<Arg>		UUID		</Arg>
+		</disAttentionPlayerByClient>
+		<disBeAttentionedByClient>
+			<Exposed/>
+			<Arg>		UUID		</Arg>
+		</disBeAttentionedByClient>
+		<beAttesioned>
+			<Arg>		UUID		</Arg>
+		</beAttesioned>
+		<disBeAttesioned>
+			<Arg>		UUID		</Arg>
+		</disBeAttesioned>
+		<disAttesioned>
+			<Arg>		UUID		</Arg>
+		</disAttesioned>
+
+		<getAttentionPlayerInfoList>
+			<Exposed/>
+		</getAttentionPlayerInfoList>
+
+		<getAttentionYouPlayerInfoList>
+			<Exposed/>
+		</getAttentionYouPlayerInfoList>
+
+		<sendFriendGift>
+			<Exposed/>
+			<Arg>		UUID		</Arg>
+		</sendFriendGift>
+
+		<sendFriendListGift>
+			<Exposed/>
+			<Arg>		UUID_ARRAY		</Arg>
+		</sendFriendListGift>
+
+		<addFriendGift>
+			<Arg>		GIFT_INFO		</Arg>
+		</addFriendGift>
+
+		<openFriendGift>
+			<Exposed/>
+			<Arg>		UUID		</Arg>
+		</openFriendGift>
+
+		<openFriendListGift>
+			<Exposed/>
+			<Arg>		UUID_ARRAY		</Arg>
+		</openFriendListGift>
+
+		<getFriendGiftPlayerInfoList>
+			<Exposed/>
+		</getFriendGiftPlayerInfoList>
+
+		<getFriendInfo>
+			<Exposed/>
+		</getFriendInfo>
+
+		<getAttentionYouList>
+			<Exposed/>
+		</getAttentionYouList>
+
+		<recieveAttentionApply>
+			<Exposed/>
+			<Arg>		UUID		</Arg>
+		</recieveAttentionApply>
+
+		<setCanRecieveFriendApply>
+			<Exposed/>
+			<Arg>		UINT8		</Arg>
+		</setCanRecieveFriendApply>
+	</BaseMethods>
+	
+	<ClientMethods>
+		<pushFriendList>
+			<Arg>		UUID_ARRAY		</Arg>
+		</pushFriendList>
+		<pushFriendGiftList>
+			<Arg>		GIFT_LIST		</Arg>
+			<Arg>		GIFT_LIST		</Arg>
+		</pushFriendGiftList>
+		<attentionPlayerSuccess>
+			<Arg>		UUID		</Arg>
+		</attentionPlayerSuccess>
+		<openedFriendGift>
+			<Arg> 		UUID 		</Arg>
+		</openedFriendGift>
+		<addedFriendGift>
+			<Arg> 		GIFT_INFO 	</Arg>
+		</addedFriendGift>
+
+		<pushFriendInfo>
+			<Arg> 	FRIEND_AVATAR_INFO_LIST 	</Arg>
+			<Arg> 	FRIEND_AVATAR_INFO_LIST 	</Arg>
+			<Arg> 	FRIEND_GIFT_INFO_LIST 	</Arg>
+			<Arg> 	UINT32 	</Arg>
+		</pushFriendInfo>
+		<pushAttentionList>
+			<Arg> 	FRIEND_AVATAR_INFO_LIST 	</Arg>
+		</pushAttentionList>
+		<pushRecommendList>
+			<Arg> 	FRIEND_AVATAR_INFO_LIST 	</Arg>
+			<Arg> 	UINT32 	</Arg>
+		</pushRecommendList>
+		<pushGiftList>
+			<Arg> 	FRIEND_GIFT_INFO_LIST 	</Arg>
+		</pushGiftList>
+		<pushAttentionYouPlayerList>
+			<Arg> 	FRIEND_AVATAR_INFO_LIST 	</Arg>
+			<Arg> 	UINT8 	</Arg>
+		</pushAttentionYouPlayerList>
+
+		<pushRecieveApplyResult>
+			<Arg> 		UUID 		</Arg>
+		</pushRecieveApplyResult>
+	</ClientMethods>
+</root>
+

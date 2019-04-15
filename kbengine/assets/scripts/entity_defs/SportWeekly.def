@@ -1,0 +1,17 @@
+<root>
+	<Properties>
+	    <sportId>
+		    <Type>			UINT32		</Type>
+			<Flags>			BASE		</Flags>
+			<Persistent>	true		</Persistent>
+		</sportId>
+		<rank>
+		    <Type>			WEEKLY_RECORD_INFO_DICT		</Type>
+			<Flags>			BASE		</Flags>
+			<Persistent>	true		</Persistent>
+		</rank>
+	</Properties>
+
+	<BaseMethods>
+	</BaseMethods>
+</root>

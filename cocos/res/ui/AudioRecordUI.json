@@ -1,0 +1,274 @@
+{
+  "ID": "9412af39-373d-4032-a2ee-18914a63ab88",
+  "Version": "3.10.0.0",
+  "Name": "AudioRecordUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 34,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "AudioRecordUI/audiorecord_bg.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 125,
+            "Scale9OriginY": 122,
+            "Scale9Width": 131,
+            "Scale9Height": 127,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.2977,
+              "Y": 0.5153
+            },
+            "LeftMargin": 449.5,
+            "RightMargin": 449.5,
+            "TopMargin": 174.5,
+            "BottomMargin": 174.5,
+            "Tag": 35,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "AudioRecordUI/audiorecord_icon_img.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 98,
+                "Scale9Width": 70,
+                "Scale9Height": 102,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 190.5,
+                  "Y": 185.5
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5354,
+                  "Y": 0.8032
+                },
+                "LeftMargin": 88.5,
+                "RightMargin": 88.5,
+                "TopMargin": 36.5,
+                "BottomMargin": 36.5,
+                "Tag": 36,
+                "ActionTag": -495568670,
+                "Size": {
+                  "X": 204.0,
+                  "Y": 298.0
+                },
+                "Name": "record_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "AudioRecordUI/audiorecord_hint_img.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 86,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 190.0002,
+                  "Y": 177.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4987,
+                  "Y": 0.4771
+                },
+                "PreSize": {
+                  "X": 0.2257,
+                  "Y": 0.0863
+                },
+                "LeftMargin": 147.0002,
+                "RightMargin": 147.9998,
+                "TopMargin": 178.0,
+                "BottomMargin": 161.0,
+                "Tag": 37,
+                "ActionTag": 1839657432,
+                "Size": {
+                  "X": 86.0,
+                  "Y": 32.0
+                },
+                "Name": "hint0",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "AudioRecordUI/audiorecord_hint_img.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 86,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 190.0002,
+                  "Y": 217.0001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4987,
+                  "Y": 0.5849
+                },
+                "PreSize": {
+                  "X": 0.2257,
+                  "Y": 0.0863
+                },
+                "LeftMargin": 147.0002,
+                "RightMargin": 147.9998,
+                "TopMargin": 137.9999,
+                "BottomMargin": 201.0001,
+                "Tag": 38,
+                "ActionTag": -2056232917,
+                "Size": {
+                  "X": 86.0,
+                  "Y": 32.0
+                },
+                "Name": "hint1",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "AudioRecordUI/audiorecord_hint_img.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 86,
+                "Scale9Height": 32,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 190.0,
+                  "Y": 257.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4987,
+                  "Y": 0.6927
+                },
+                "PreSize": {
+                  "X": 0.2257,
+                  "Y": 0.0863
+                },
+                "LeftMargin": 147.0,
+                "RightMargin": 148.0,
+                "TopMargin": 98.0,
+                "BottomMargin": 241.0,
+                "Tag": 39,
+                "ActionTag": 247104369,
+                "Size": {
+                  "X": 86.0,
+                  "Y": 32.0
+                },
+                "Name": "hint2",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 1543175893,
+            "Size": {
+              "X": 381.0,
+              "Y": 371.0
+            },
+            "Name": "audiorecord_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "AudioRecordUI/audiorecord_bg.png",
+        "AudioRecordUI/audiorecord_hint_img.png",
+        "AudioRecordUI/audiorecord_icon_img.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

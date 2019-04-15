@@ -1,0 +1,4345 @@
+{
+  "ID": "1823224f-ee59-47dc-860e-db1233542d38",
+  "Version": "3.10.0.0",
+  "Name": "UnionHallUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 60,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 61,
+            "ActionTag": 1551112557,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": -422,
+            "Scale9OriginY": -237,
+            "Scale9Width": 844,
+            "Scale9Height": 474,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 101,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UnionHallUI/bg_hall_img_2.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 15,
+                "Scale9Width": 1250,
+                "Scale9Height": 690,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 102,
+                "ActionTag": -1819964018,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "bg_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "UnionPersonalUI/title_img.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 72,
+                "Scale9OriginY": 22,
+                "Scale9Width": 76,
+                "Scale9Height": 24,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 676.8
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.94
+                },
+                "PreSize": {
+                  "X": 0.1719,
+                  "Y": 0.0944
+                },
+                "LeftMargin": 530.0,
+                "RightMargin": 530.0,
+                "TopMargin": 9.2,
+                "BottomMargin": 642.8,
+                "Tag": 180,
+                "ActionTag": 523203953,
+                "Size": {
+                  "X": 220.0,
+                  "Y": 68.0
+                },
+                "VisibleForFrame": false,
+                "Name": "title_img",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/return_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1236.8757,
+                  "Y": 635.4313
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9663,
+                  "Y": 0.8825
+                },
+                "PreSize": {
+                  "X": 0.0547,
+                  "Y": 0.1
+                },
+                "LeftMargin": 1201.8757,
+                "RightMargin": 8.1243,
+                "TopMargin": 48.5687,
+                "BottomMargin": 599.4313,
+                "Tag": 369,
+                "ActionTag": -800329553,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 72.0
+                },
+                "Name": "return_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionHallUI/hall_btn_2.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionHallUI/hall_btn_1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionHallUI/hall_btn_1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 332,
+                "Scale9Height": 52,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 309.504,
+                  "Y": 648.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.2418,
+                  "Y": 0.9
+                },
+                "PreSize": {
+                  "X": 0.2828,
+                  "Y": 0.1028
+                },
+                "LeftMargin": 128.504,
+                "RightMargin": 789.496,
+                "TopMargin": 35.0,
+                "BottomMargin": 611.0,
+                "Tag": 103,
+                "ActionTag": -213389662,
+                "Size": {
+                  "X": 362.0,
+                  "Y": 74.0
+                },
+                "Name": "title_btn_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionHallUI/events_btn_2.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionHallUI/events_btn_1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionHallUI/events_btn_1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 340,
+                "Scale9Height": 52,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 648.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.9
+                },
+                "PreSize": {
+                  "X": 0.2891,
+                  "Y": 0.1028
+                },
+                "LeftMargin": 455.0,
+                "RightMargin": 455.0,
+                "TopMargin": 35.0,
+                "BottomMargin": 611.0,
+                "Tag": 104,
+                "ActionTag": 1632354415,
+                "Size": {
+                  "X": 370.0,
+                  "Y": 74.0
+                },
+                "Name": "title_btn_2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionHallUI/member_btn_2.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionHallUI/member_btn_1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionHallUI/member_btn_1.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 332,
+                "Scale9Height": 52,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 980.608,
+                  "Y": 646.992
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7661,
+                  "Y": 0.8986
+                },
+                "PreSize": {
+                  "X": 0.2828,
+                  "Y": 0.1028
+                },
+                "LeftMargin": 799.608,
+                "RightMargin": 118.3921,
+                "TopMargin": 36.008,
+                "BottomMargin": 609.992,
+                "Tag": 105,
+                "ActionTag": 1056102789,
+                "Size": {
+                  "X": 362.0,
+                  "Y": 74.0
+                },
+                "Name": "title_btn_3",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "UnionHallUI/createunion__img.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 194,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 632.96,
+                  "Y": 160.056
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4945,
+                  "Y": 0.2223
+                },
+                "PreSize": {
+                  "X": 0.175,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 520.96,
+                "RightMargin": 535.04,
+                "TopMargin": 512.944,
+                "BottomMargin": 113.056,
+                "Tag": 303,
+                "ActionTag": -805199990,
+                "Size": {
+                  "X": 224.0,
+                  "Y": 94.0
+                },
+                "VisibleForFrame": false,
+                "Name": "createunion_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 322.056
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4473
+                },
+                "PreSize": {
+                  "X": 0.9219,
+                  "Y": 0.8056
+                },
+                "LeftMargin": 50.0,
+                "RightMargin": 50.0,
+                "TopMargin": 107.944,
+                "BottomMargin": 32.056,
+                "Tag": 332,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionPersonalUI/bg_unionlist_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 83,
+                    "Scale9OriginY": 187,
+                    "Scale9Width": 88,
+                    "Scale9Height": 194,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 17.0,
+                      "Y": 9.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0144,
+                      "Y": 0.0155
+                    },
+                    "PreSize": {
+                      "X": 0.2153,
+                      "Y": 0.9793
+                    },
+                    "LeftMargin": 17.0,
+                    "RightMargin": 909.0,
+                    "TopMargin": 3.0,
+                    "BottomMargin": 9.0,
+                    "Tag": 116,
+                    "ActionTag": -580166929,
+                    "Size": {
+                      "X": 254.0,
+                      "Y": 568.0
+                    },
+                    "Name": "union_list_bg_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsBounceEnabled": true,
+                    "InnerNodeSize": {
+                      "Width": 270,
+                      "Height": 568
+                    },
+                    "ScrollDirectionType": "Vertical",
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "FirstColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": -83,
+                    "Scale9OriginY": -187,
+                    "Scale9Width": 166,
+                    "Scale9Height": 374,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 17.0,
+                      "Y": 9.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0144,
+                      "Y": 0.0155
+                    },
+                    "PreSize": {
+                      "X": 0.2288,
+                      "Y": 0.9793
+                    },
+                    "LeftMargin": 17.0,
+                    "RightMargin": 893.0,
+                    "TopMargin": 3.0,
+                    "BottomMargin": 9.0,
+                    "Tag": 333,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": -14.877,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": -0.0551,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 1.0444,
+                          "Y": 0.162
+                        },
+                        "LeftMargin": -14.877,
+                        "RightMargin": 2.877,
+                        "TopMargin": 476.0,
+                        "Tag": 376,
+                        "Children": [
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {
+                              "R": 65,
+                              "G": 65,
+                              "B": 70
+                            },
+                            "DisabledFileData": {
+                              "Type": "Normal",
+                              "Path": "UnionPersonalUI/union_btn_1.png",
+                              "Plist": ""
+                            },
+                            "PressedFileData": {
+                              "Type": "Normal",
+                              "Path": "UnionPersonalUI/union_btn_2.png",
+                              "Plist": ""
+                            },
+                            "NormalFileData": {
+                              "Type": "Normal",
+                              "Path": "UnionPersonalUI/union_btn_2.png",
+                              "Plist": ""
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 15,
+                            "Scale9OriginY": 11,
+                            "Scale9Width": 252,
+                            "Scale9Height": 70,
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 144.948,
+                              "Y": 46.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.514,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 1.0
+                            },
+                            "LeftMargin": 3.948,
+                            "RightMargin": -3.948,
+                            "Tag": 375,
+                            "ActionTag": -806037391,
+                            "Size": {
+                              "X": 282.0,
+                              "Y": 92.0
+                            },
+                            "Name": "unionname_btn",
+                            "ctype": "ButtonObjectData"
+                          },
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 28,
+                            "LabelText": "王者无畏快乐",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "UnionHallUI/Typeface.TTF",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 141.0,
+                              "Y": 46.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 151,
+                              "G": 69,
+                              "B": 69
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.7305,
+                              "Y": 0.3261
+                            },
+                            "LeftMargin": 38.0,
+                            "RightMargin": 38.0,
+                            "TopMargin": 31.0,
+                            "BottomMargin": 31.0,
+                            "Tag": 377,
+                            "ActionTag": 946685800,
+                            "Size": {
+                              "X": 206.0,
+                              "Y": 30.0
+                            },
+                            "Name": "unionname_label",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -1268310007,
+                        "Size": {
+                          "X": 282.0,
+                          "Y": 92.0
+                        },
+                        "Name": "item_panel",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": -1182669794,
+                    "Size": {
+                      "X": 270.0,
+                      "Y": 568.0
+                    },
+                    "Name": "union_list_scroll",
+                    "ctype": "ScrollViewObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 733.6022,
+                      "Y": 293.2155
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6217,
+                      "Y": 0.5055
+                    },
+                    "PreSize": {
+                      "X": 0.7458,
+                      "Y": 0.9793
+                    },
+                    "LeftMargin": 293.6022,
+                    "RightMargin": 6.3978,
+                    "TopMargin": 2.7845,
+                    "BottomMargin": 9.2155,
+                    "Tag": 378,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "UnionPersonalUI/ann_bg_img.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 275,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 284,
+                        "Scale9Height": 12,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 452.584,
+                          "Y": 548.9039
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5143,
+                          "Y": 0.9664
+                        },
+                        "PreSize": {
+                          "X": 0.9477,
+                          "Y": 0.0599
+                        },
+                        "LeftMargin": 35.584,
+                        "RightMargin": 10.416,
+                        "TopMargin": 2.0961,
+                        "BottomMargin": 531.9039,
+                        "Tag": 380,
+                        "ActionTag": -1531249574,
+                        "Size": {
+                          "X": 834.0,
+                          "Y": 34.0
+                        },
+                        "Name": "broadcast_txt_bg",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "UnionPersonalUI/ann_img.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 13,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 14,
+                        "Scale9Height": 12,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 34.408,
+                          "Y": 548.9038
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.0391,
+                          "Y": 0.9664
+                        },
+                        "PreSize": {
+                          "X": 0.0455,
+                          "Y": 0.0599
+                        },
+                        "LeftMargin": 14.408,
+                        "RightMargin": 825.592,
+                        "TopMargin": 2.0962,
+                        "BottomMargin": 531.9038,
+                        "Tag": 379,
+                        "ActionTag": -33140038,
+                        "Size": {
+                          "X": 40.0,
+                          "Y": 34.0
+                        },
+                        "Name": "broadcast_img",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 30,
+                        "LabelText": "",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 410.256,
+                          "Y": 548.4498
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4662,
+                          "Y": 0.9656
+                        },
+                        "PreSize": {
+                          "X": 0.7955,
+                          "Y": 0.0563
+                        },
+                        "LeftMargin": 60.256,
+                        "RightMargin": 119.744,
+                        "TopMargin": 3.5502,
+                        "BottomMargin": 532.4498,
+                        "Tag": 381,
+                        "ActionTag": 1710544686,
+                        "Size": {
+                          "X": 700.0,
+                          "Y": 32.0
+                        },
+                        "Name": "broadcast_label",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "UnionPersonalUI/bg_unionname_img.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 282,
+                        "Scale9OriginY": 19,
+                        "Scale9Width": 292,
+                        "Scale9Height": 20,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 441.56,
+                          "Y": 496.9638
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5018,
+                          "Y": 0.8749
+                        },
+                        "PreSize": {
+                          "X": 0.9727,
+                          "Y": 0.1021
+                        },
+                        "LeftMargin": 13.56,
+                        "RightMargin": 10.44,
+                        "TopMargin": 42.0362,
+                        "BottomMargin": 467.9638,
+                        "Tag": 382,
+                        "ActionTag": -1899932282,
+                        "Size": {
+                          "X": 856.0,
+                          "Y": 58.0
+                        },
+                        "Name": "title_bg_img",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 30,
+                        "LabelText": "王者风范荣耀",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 440.0,
+                          "Y": 496.6024
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 142,
+                          "G": 85,
+                          "B": 28
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8743
+                        },
+                        "PreSize": {
+                          "X": 0.2273,
+                          "Y": 0.0563
+                        },
+                        "LeftMargin": 340.0,
+                        "RightMargin": 340.0,
+                        "TopMargin": 55.3976,
+                        "BottomMargin": 480.6024,
+                        "Tag": 384,
+                        "ActionTag": -965340608,
+                        "Size": {
+                          "X": 200.0,
+                          "Y": 32.0
+                        },
+                        "Name": "unionname_label",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "UnionPersonalUI/exit_btn.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 102,
+                        "Scale9Height": 28,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 787.7916,
+                          "Y": 497.1116
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8952,
+                          "Y": 0.8752
+                        },
+                        "PreSize": {
+                          "X": 0.15,
+                          "Y": 0.088
+                        },
+                        "LeftMargin": 721.7916,
+                        "RightMargin": 26.2084,
+                        "TopMargin": 45.8884,
+                        "BottomMargin": 472.1116,
+                        "Tag": 181,
+                        "ActionTag": 67362252,
+                        "Size": {
+                          "X": 132.0,
+                          "Y": 50.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "exitunion_btn",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "UnionPersonalUI/modify_name_btn.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 6,
+                        "Scale9Height": 14,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 320.0,
+                          "Y": 497.723
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3636,
+                          "Y": 0.8763
+                        },
+                        "PreSize": {
+                          "X": 0.0409,
+                          "Y": 0.0634
+                        },
+                        "LeftMargin": 302.0,
+                        "RightMargin": 542.0,
+                        "TopMargin": 52.277,
+                        "BottomMargin": 479.723,
+                        "Tag": 313,
+                        "ActionTag": -582619314,
+                        "Size": {
+                          "X": 36.0,
+                          "Y": 36.0
+                        },
+                        "VisibleForFrame": false,
+                        "Name": "modify_name_btn",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "UnionPersonalUI/editann.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 106,
+                        "Scale9Height": 14,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 787.7916,
+                          "Y": 497.1116
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8952,
+                          "Y": 0.8752
+                        },
+                        "PreSize": {
+                          "X": 0.1545,
+                          "Y": 0.0634
+                        },
+                        "LeftMargin": 719.7916,
+                        "RightMargin": 24.2084,
+                        "TopMargin": 52.8884,
+                        "BottomMargin": 479.1116,
+                        "Tag": 387,
+                        "ActionTag": -868843005,
+                        "Size": {
+                          "X": 136.0,
+                          "Y": 36.0
+                        },
+                        "Name": "editbroadcast_btn",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "UnionHallUI/rank_img.png",
+                          "Plist": ""
+                        },
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 48,
+                        "Scale9Height": 8,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 67.15,
+                          "Y": 496.6011
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0763,
+                          "Y": 0.8743
+                        },
+                        "PreSize": {
+                          "X": 0.0886,
+                          "Y": 0.0528
+                        },
+                        "LeftMargin": 28.15,
+                        "RightMargin": 773.85,
+                        "TopMargin": 56.3989,
+                        "BottomMargin": 481.6011,
+                        "Tag": 386,
+                        "ActionTag": 509413527,
+                        "Size": {
+                          "X": 78.0,
+                          "Y": 30.0
+                        },
+                        "Name": "help_btn",
+                        "ctype": "ButtonObjectData"
+                      },
+                      {
+                        "IsBounceEnabled": true,
+                        "InnerNodeSize": {
+                          "Width": 880,
+                          "Height": 460
+                        },
+                        "ScrollDirectionType": "Horizontal",
+                        "ClipAble": true,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "G": 150,
+                          "B": 100
+                        },
+                        "FirstColor": {
+                          "G": 150,
+                          "B": 100
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0008,
+                          "Y": 3.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0053
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.8099
+                        },
+                        "LeftMargin": 0.0008,
+                        "RightMargin": -0.0008,
+                        "TopMargin": 105.0,
+                        "BottomMargin": 3.0,
+                        "Tag": 388,
+                        "Children": [
+                          {
+                            "ClipAble": false,
+                            "BackColorAlpha": 102,
+                            "FileData": {
+                              "Type": "Normal",
+                              "Path": "UnionPersonalUI/room_bg_img.png",
+                              "Plist": ""
+                            },
+                            "SingleColor": {
+                              "R": 150,
+                              "G": 200
+                            },
+                            "FirstColor": {
+                              "R": 150,
+                              "G": 200
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9OriginX": 77,
+                            "Scale9OriginY": 149,
+                            "Scale9Width": 80,
+                            "Scale9Height": 156,
+                            "TouchEnable": true,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 639.4314,
+                              "Y": -0.782
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.7266,
+                              "Y": -0.0017
+                            },
+                            "PreSize": {
+                              "X": 0.2659,
+                              "Y": 0.987
+                            },
+                            "LeftMargin": 639.4314,
+                            "RightMargin": 6.5686,
+                            "TopMargin": 6.782,
+                            "BottomMargin": -0.782,
+                            "Tag": 389,
+                            "Children": [
+                              {
+                                "IsCustomSize": true,
+                                "FontSize": 28,
+                                "LabelText": "王者风范荣耀爷爷",
+                                "HorizontalAlignmentType": "HT_Center",
+                                "OutlineColor": {
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "R": 110,
+                                  "G": 110,
+                                  "B": 110
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 117.0,
+                                  "Y": 426.76
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {
+                                  "R": 142,
+                                  "G": 85,
+                                  "B": 28
+                                },
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PositionPercentYEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.94
+                                },
+                                "PreSize": {
+                                  "X": 0.8547,
+                                  "Y": 0.0705
+                                },
+                                "LeftMargin": 17.0,
+                                "RightMargin": 17.0,
+                                "TopMargin": 11.24,
+                                "BottomMargin": 410.76,
+                                "Tag": 390,
+                                "ActionTag": 1642598494,
+                                "Size": {
+                                  "X": 200.0,
+                                  "Y": 32.0
+                                },
+                                "Name": "matchname_label",
+                                "ctype": "TextObjectData"
+                              },
+                              {
+                                "FontSize": 14,
+                                "ButtonText": "",
+                                "TextColor": {
+                                  "R": 65,
+                                  "G": 65,
+                                  "B": 70
+                                },
+                                "NormalFileData": {
+                                  "Type": "Normal",
+                                  "Path": "UnionPersonalUI/automatching.png",
+                                  "Plist": ""
+                                },
+                                "Scale9Enable": true,
+                                "Scale9OriginX": 15,
+                                "Scale9OriginY": 11,
+                                "Scale9Width": 72,
+                                "Scale9Height": 60,
+                                "OutlineColor": {
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "R": 110,
+                                  "G": 110,
+                                  "B": 110
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 64.4435,
+                                  "Y": 64.7502
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.2754,
+                                  "Y": 0.1426
+                                },
+                                "PreSize": {
+                                  "X": 0.4359,
+                                  "Y": 0.1806
+                                },
+                                "LeftMargin": 13.4435,
+                                "RightMargin": 118.5565,
+                                "TopMargin": 348.2498,
+                                "BottomMargin": 23.7502,
+                                "Tag": 391,
+                                "ActionTag": 824700839,
+                                "Size": {
+                                  "X": 102.0,
+                                  "Y": 82.0
+                                },
+                                "Name": "automatching_btn",
+                                "ctype": "ButtonObjectData"
+                              },
+                              {
+                                "FontSize": 14,
+                                "ButtonText": "",
+                                "TextColor": {
+                                  "R": 65,
+                                  "G": 65,
+                                  "B": 70
+                                },
+                                "NormalFileData": {
+                                  "Type": "Normal",
+                                  "Path": "UnionPersonalUI/createroom_btn.png",
+                                  "Plist": ""
+                                },
+                                "Scale9Enable": true,
+                                "Scale9OriginX": 15,
+                                "Scale9OriginY": 11,
+                                "Scale9Width": 72,
+                                "Scale9Height": 60,
+                                "OutlineColor": {
+                                  "G": 0,
+                                  "B": 0
+                                },
+                                "ShadowColor": {
+                                  "R": 110,
+                                  "G": 110,
+                                  "B": 110
+                                },
+                                "ShadowOffsetX": 2.0,
+                                "ShadowOffsetY": -2.0,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 170.8505,
+                                  "Y": 64.7502
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.7301,
+                                  "Y": 0.1426
+                                },
+                                "PreSize": {
+                                  "X": 0.4359,
+                                  "Y": 0.1806
+                                },
+                                "LeftMargin": 119.8505,
+                                "RightMargin": 12.1495,
+                                "TopMargin": 348.2498,
+                                "BottomMargin": 23.7502,
+                                "Tag": 392,
+                                "ActionTag": -186726182,
+                                "Size": {
+                                  "X": 102.0,
+                                  "Y": 82.0
+                                },
+                                "Name": "createroom_btn",
+                                "ctype": "ButtonObjectData"
+                              },
+                              {
+                                "IsBounceEnabled": true,
+                                "InnerNodeSize": {
+                                  "Width": 200,
+                                  "Height": 300
+                                },
+                                "ScrollDirectionType": "Vertical",
+                                "ClipAble": true,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                  "G": 150,
+                                  "B": 100
+                                },
+                                "FirstColor": {
+                                  "G": 150,
+                                  "B": 100
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                  "ScaleY": 1.0
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "Position": {
+                                  "X": 117.0,
+                                  "Y": 254.29
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PositionPercentXEnabled": true,
+                                "PrePosition": {
+                                  "X": 0.5,
+                                  "Y": 0.5601
+                                },
+                                "PreSize": {
+                                  "X": 0.8547,
+                                  "Y": 0.6167
+                                },
+                                "LeftMargin": 17.0,
+                                "RightMargin": 17.0,
+                                "TopMargin": 59.71,
+                                "BottomMargin": 114.29,
+                                "Tag": 393,
+                                "Children": [
+                                  {
+                                    "ClipAble": false,
+                                    "BackColorAlpha": 102,
+                                    "SingleColor": {
+                                      "R": 150,
+                                      "G": 200
+                                    },
+                                    "FirstColor": {
+                                      "R": 150,
+                                      "G": 200
+                                    },
+                                    "EndColor": {},
+                                    "ColorVector": {
+                                      "ScaleY": 1.0
+                                    },
+                                    "Scale9Width": 1,
+                                    "Scale9Height": 1,
+                                    "TouchEnable": true,
+                                    "AnchorPoint": {},
+                                    "Position": {
+                                      "X": 0.0,
+                                      "Y": 15.29
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {},
+                                    "IconVisible": false,
+                                    "PositionPercentXEnabled": true,
+                                    "PrePosition": {
+                                      "X": 0.0,
+                                      "Y": 0.051
+                                    },
+                                    "PreSize": {
+                                      "X": 1.0,
+                                      "Y": 0.1333
+                                    },
+                                    "TopMargin": 244.71,
+                                    "BottomMargin": 15.29,
+                                    "Tag": 68,
+                                    "Children": [
+                                      {
+                                        "IsCustomSize": true,
+                                        "FontSize": 25,
+                                        "LabelText": "首局黑桃三先出",
+                                        "FontResource": {
+                                          "Type": "Normal",
+                                          "Path": "zhunyuan.ttf",
+                                          "Plist": ""
+                                        },
+                                        "HorizontalAlignmentType": "HT_Center",
+                                        "VerticalAlignmentType": "VT_Center",
+                                        "OutlineColor": {
+                                          "G": 0,
+                                          "B": 0
+                                        },
+                                        "ShadowColor": {
+                                          "R": 110,
+                                          "G": 110,
+                                          "B": 110
+                                        },
+                                        "ShadowOffsetX": 2.0,
+                                        "ShadowOffsetY": -2.0,
+                                        "AnchorPoint": {
+                                          "ScaleX": 0.5
+                                        },
+                                        "Position": {
+                                          "X": 100.0,
+                                          "Y": 5.0
+                                        },
+                                        "Scale": {
+                                          "ScaleX": 1.0,
+                                          "ScaleY": 1.0
+                                        },
+                                        "CColor": {
+                                          "R": 124,
+                                          "G": 96,
+                                          "B": 68
+                                        },
+                                        "IconVisible": false,
+                                        "PositionPercentXEnabled": true,
+                                        "PrePosition": {
+                                          "X": 0.5,
+                                          "Y": 0.125
+                                        },
+                                        "PreSize": {
+                                          "X": 0.875,
+                                          "Y": 0.625
+                                        },
+                                        "LeftMargin": 12.5,
+                                        "RightMargin": 12.5,
+                                        "TopMargin": 10.0,
+                                        "BottomMargin": 5.0,
+                                        "Tag": 69,
+                                        "ActionTag": 760750595,
+                                        "Size": {
+                                          "X": 175.0,
+                                          "Y": 25.0
+                                        },
+                                        "Name": "match_info_label",
+                                        "ctype": "TextObjectData"
+                                      }
+                                    ],
+                                    "ActionTag": 457413608,
+                                    "Size": {
+                                      "X": 200.0,
+                                      "Y": 40.0
+                                    },
+                                    "Name": "item_panel",
+                                    "ctype": "PanelObjectData"
+                                  }
+                                ],
+                                "ActionTag": -749050172,
+                                "Size": {
+                                  "X": 200.0,
+                                  "Y": 280.0
+                                },
+                                "Name": "match_info_scroll",
+                                "ctype": "ScrollViewObjectData"
+                              }
+                            ],
+                            "ActionTag": 380877195,
+                            "Size": {
+                              "X": 234.0,
+                              "Y": 454.0
+                            },
+                            "Name": "item_panel",
+                            "ctype": "PanelObjectData"
+                          }
+                        ],
+                        "ActionTag": -1436606128,
+                        "Size": {
+                          "X": 880.0,
+                          "Y": 460.0
+                        },
+                        "Name": "matchinfo_scroll",
+                        "ctype": "ScrollViewObjectData"
+                      }
+                    ],
+                    "ActionTag": 1699102034,
+                    "Size": {
+                      "X": 880.0,
+                      "Y": 568.0
+                    },
+                    "Name": "unioninfo_panel",
+                    "ctype": "PanelObjectData"
+                  }
+                ],
+                "ActionTag": 1001097192,
+                "Size": {
+                  "X": 1180.0,
+                  "Y": 580.0
+                },
+                "VisibleForFrame": false,
+                "Name": "unionhall_panel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 327.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4542
+                },
+                "PreSize": {
+                  "X": 0.9219,
+                  "Y": 0.8056
+                },
+                "LeftMargin": 50.0,
+                "RightMargin": 50.0,
+                "TopMargin": 103.0,
+                "BottomMargin": 37.0,
+                "Tag": 394,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionMatchManagementUI/title_bg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 91,
+                    "Scale9OriginY": 17,
+                    "Scale9Width": 96,
+                    "Scale9Height": 18,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 587.404,
+                      "Y": 541.836
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4978,
+                      "Y": 0.9342
+                    },
+                    "PreSize": {
+                      "X": 0.2356,
+                      "Y": 0.0897
+                    },
+                    "LeftMargin": 448.404,
+                    "RightMargin": 453.596,
+                    "TopMargin": 12.164,
+                    "BottomMargin": 515.836,
+                    "Tag": 395,
+                    "Children": [
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 35,
+                        "LabelText": "",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 139.0,
+                          "Y": 26.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 119,
+                          "G": 64,
+                          "B": 30
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.7734,
+                          "Y": 0.6923
+                        },
+                        "LeftMargin": 31.5,
+                        "RightMargin": 31.5,
+                        "TopMargin": 8.0,
+                        "BottomMargin": 8.0,
+                        "Tag": 469,
+                        "ActionTag": 1794893736,
+                        "Size": {
+                          "X": 215.0,
+                          "Y": 36.0
+                        },
+                        "Name": "match_title_label",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -1105910843,
+                    "Size": {
+                      "X": 278.0,
+                      "Y": 52.0
+                    },
+                    "Name": "bg_txt_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsBounceEnabled": true,
+                    "InnerNodeSize": {
+                      "Width": 1200,
+                      "Height": 470
+                    },
+                    "ScrollDirectionType": "Horizontal",
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "FirstColor": {
+                      "G": 150,
+                      "B": 100
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 590.0,
+                      "Y": 279.212
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.4814
+                    },
+                    "PreSize": {
+                      "X": 0.9746,
+                      "Y": 0.8103
+                    },
+                    "LeftMargin": 15.0,
+                    "RightMargin": 15.0,
+                    "TopMargin": 65.788,
+                    "BottomMargin": 44.212,
+                    "Tag": 397,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "UnionMatchManagementUI/events_bg.png",
+                          "Plist": ""
+                        },
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9OriginX": 70,
+                        "Scale9OriginY": 136,
+                        "Scale9Width": 74,
+                        "Scale9Height": 142,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 909.84,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PrePosition": {
+                          "X": 0.7582,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.1875,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 909.84,
+                        "RightMargin": 65.16,
+                        "Tag": 398,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 25,
+                            "LabelText": "我是奶爸哈哈",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "zhunyuan.ttf",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Bottom",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 112.5,
+                              "Y": 409.5799
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.8714
+                            },
+                            "PreSize": {
+                              "X": 0.8889,
+                              "Y": 0.0638
+                            },
+                            "LeftMargin": 12.5,
+                            "RightMargin": 12.5,
+                            "TopMargin": 45.4201,
+                            "BottomMargin": 394.5799,
+                            "Tag": 399,
+                            "ActionTag": 1837412922,
+                            "Size": {
+                              "X": 200.0,
+                              "Y": 30.0
+                            },
+                            "Name": "match_name_label",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {
+                              "R": 65,
+                              "G": 65,
+                              "B": 70
+                            },
+                            "NormalFileData": {
+                              "Type": "Normal",
+                              "Path": "UnionMatchManagementUI/delete_btn.png",
+                              "Plist": ""
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 8,
+                            "Scale9OriginY": 11,
+                            "Scale9Width": 10,
+                            "Scale9Height": 4,
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 200.03,
+                              "Y": 408.19
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.889,
+                              "Y": 0.8685
+                            },
+                            "PreSize": {
+                              "X": 0.1156,
+                              "Y": 0.0553
+                            },
+                            "LeftMargin": 187.03,
+                            "RightMargin": 11.97,
+                            "TopMargin": 48.81,
+                            "BottomMargin": 395.19,
+                            "Tag": 432,
+                            "ActionTag": -1647309951,
+                            "Size": {
+                              "X": 26.0,
+                              "Y": 26.0
+                            },
+                            "Name": "delete_btn",
+                            "ctype": "ButtonObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {
+                              "R": 65,
+                              "G": 65,
+                              "B": 70
+                            },
+                            "NormalFileData": {
+                              "Type": "Normal",
+                              "Path": "UnionMatchManagementUI/stop_btn.png",
+                              "Plist": ""
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 15,
+                            "Scale9OriginY": 11,
+                            "Scale9Width": 60,
+                            "Scale9Height": 30,
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 112.5,
+                              "Y": 76.61
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.163
+                            },
+                            "PreSize": {
+                              "X": 0.4,
+                              "Y": 0.1106
+                            },
+                            "LeftMargin": 67.5,
+                            "RightMargin": 67.5,
+                            "TopMargin": 367.39,
+                            "BottomMargin": 50.61,
+                            "Tag": 400,
+                            "ActionTag": 1734158553,
+                            "Size": {
+                              "X": 90.0,
+                              "Y": 52.0
+                            },
+                            "Name": "stop_btn",
+                            "ctype": "ButtonObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {
+                              "R": 65,
+                              "G": 65,
+                              "B": 70
+                            },
+                            "NormalFileData": {
+                              "Type": "Normal",
+                              "Path": "UnionMatchManagementUI/start_btn.png",
+                              "Plist": ""
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 15,
+                            "Scale9OriginY": 11,
+                            "Scale9Width": 60,
+                            "Scale9Height": 30,
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 112.5,
+                              "Y": 76.61
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.163
+                            },
+                            "PreSize": {
+                              "X": 0.4,
+                              "Y": 0.1106
+                            },
+                            "LeftMargin": 67.5,
+                            "RightMargin": 67.5,
+                            "TopMargin": 367.39,
+                            "BottomMargin": 50.61,
+                            "Tag": 342,
+                            "ActionTag": 59060956,
+                            "Size": {
+                              "X": 90.0,
+                              "Y": 52.0
+                            },
+                            "Name": "start_btn",
+                            "ctype": "ButtonObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {
+                              "R": 65,
+                              "G": 65,
+                              "B": 70
+                            },
+                            "NormalFileData": {
+                              "Type": "Normal",
+                              "Path": "UnionMatchManagementUI/member_btn.png",
+                              "Plist": ""
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 15,
+                            "Scale9OriginY": 11,
+                            "Scale9Width": 60,
+                            "Scale9Height": 30,
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 63.0,
+                              "Y": 135.36
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.28,
+                              "Y": 0.288
+                            },
+                            "PreSize": {
+                              "X": 0.4,
+                              "Y": 0.1106
+                            },
+                            "LeftMargin": 18.0,
+                            "RightMargin": 117.0,
+                            "TopMargin": 308.64,
+                            "BottomMargin": 109.36,
+                            "Tag": 403,
+                            "ActionTag": -398701721,
+                            "Size": {
+                              "X": 90.0,
+                              "Y": 52.0
+                            },
+                            "Name": "member_btn",
+                            "ctype": "ButtonObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {
+                              "R": 65,
+                              "G": 65,
+                              "B": 70
+                            },
+                            "NormalFileData": {
+                              "Type": "Normal",
+                              "Path": "UnionMatchManagementUI/room_btn.png",
+                              "Plist": ""
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 15,
+                            "Scale9OriginY": 11,
+                            "Scale9Width": 60,
+                            "Scale9Height": 30,
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 162.0,
+                              "Y": 135.36
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.72,
+                              "Y": 0.288
+                            },
+                            "PreSize": {
+                              "X": 0.4,
+                              "Y": 0.1106
+                            },
+                            "LeftMargin": 117.0,
+                            "RightMargin": 18.0,
+                            "TopMargin": 308.64,
+                            "BottomMargin": 109.36,
+                            "Tag": 402,
+                            "ActionTag": -955337657,
+                            "Size": {
+                              "X": 90.0,
+                              "Y": 52.0
+                            },
+                            "Name": "room_btn",
+                            "ctype": "ButtonObjectData"
+                          },
+                          {
+                            "IsBounceEnabled": true,
+                            "InnerNodeSize": {
+                              "Width": 200,
+                              "Height": 300
+                            },
+                            "ScrollDirectionType": "Vertical",
+                            "ClipAble": true,
+                            "BackColorAlpha": 102,
+                            "SingleColor": {
+                              "G": 150,
+                              "B": 100
+                            },
+                            "FirstColor": {
+                              "G": 150,
+                              "B": 100
+                            },
+                            "EndColor": {},
+                            "ColorVector": {
+                              "ScaleY": 1.0
+                            },
+                            "Scale9Width": 1,
+                            "Scale9Height": 1,
+                            "TouchEnable": true,
+                            "AnchorPoint": {},
+                            "Position": {
+                              "X": 5.1013,
+                              "Y": 174.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0227,
+                              "Y": 0.3702
+                            },
+                            "PreSize": {
+                              "X": 0.8889,
+                              "Y": 0.4255
+                            },
+                            "LeftMargin": 5.1013,
+                            "RightMargin": 19.8987,
+                            "TopMargin": 96.0,
+                            "BottomMargin": 174.0,
+                            "Tag": 404,
+                            "Children": [
+                              {
+                                "ClipAble": false,
+                                "BackColorAlpha": 102,
+                                "SingleColor": {
+                                  "R": 150,
+                                  "G": 200
+                                },
+                                "FirstColor": {
+                                  "R": 150,
+                                  "G": 200
+                                },
+                                "EndColor": {},
+                                "ColorVector": {
+                                  "ScaleY": 1.0
+                                },
+                                "Scale9Width": 1,
+                                "Scale9Height": 1,
+                                "TouchEnable": true,
+                                "AnchorPoint": {},
+                                "Position": {
+                                  "X": 0.0,
+                                  "Y": 100.0
+                                },
+                                "Scale": {
+                                  "ScaleX": 1.0,
+                                  "ScaleY": 1.0
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.0,
+                                  "Y": 0.3333
+                                },
+                                "PreSize": {
+                                  "X": 1.0,
+                                  "Y": 0.1333
+                                },
+                                "TopMargin": 160.0,
+                                "BottomMargin": 100.0,
+                                "Tag": 744,
+                                "Children": [
+                                  {
+                                    "IsCustomSize": true,
+                                    "FontSize": 25,
+                                    "LabelText": "首局黑桃三先出",
+                                    "FontResource": {
+                                      "Type": "Normal",
+                                      "Path": "zhunyuan.ttf",
+                                      "Plist": ""
+                                    },
+                                    "HorizontalAlignmentType": "HT_Center",
+                                    "VerticalAlignmentType": "VT_Center",
+                                    "OutlineColor": {
+                                      "G": 0,
+                                      "B": 0
+                                    },
+                                    "ShadowColor": {
+                                      "R": 110,
+                                      "G": 110,
+                                      "B": 110
+                                    },
+                                    "ShadowOffsetX": 2.0,
+                                    "ShadowOffsetY": -2.0,
+                                    "AnchorPoint": {
+                                      "ScaleX": 0.5
+                                    },
+                                    "Position": {
+                                      "X": 100.0,
+                                      "Y": 5.0
+                                    },
+                                    "Scale": {
+                                      "ScaleX": 1.0,
+                                      "ScaleY": 1.0
+                                    },
+                                    "CColor": {
+                                      "R": 124,
+                                      "G": 96,
+                                      "B": 68
+                                    },
+                                    "IconVisible": false,
+                                    "PositionPercentXEnabled": true,
+                                    "PrePosition": {
+                                      "X": 0.5,
+                                      "Y": 0.125
+                                    },
+                                    "PreSize": {
+                                      "X": 0.875,
+                                      "Y": 0.625
+                                    },
+                                    "LeftMargin": 12.5,
+                                    "RightMargin": 12.5,
+                                    "TopMargin": 10.0,
+                                    "BottomMargin": 5.0,
+                                    "Tag": 745,
+                                    "ActionTag": -969294296,
+                                    "Size": {
+                                      "X": 175.0,
+                                      "Y": 25.0
+                                    },
+                                    "Name": "match_info_label",
+                                    "ctype": "TextObjectData"
+                                  }
+                                ],
+                                "ActionTag": 1999397427,
+                                "Size": {
+                                  "X": 200.0,
+                                  "Y": 40.0
+                                },
+                                "Name": "match_info_panel",
+                                "ctype": "PanelObjectData"
+                              }
+                            ],
+                            "ActionTag": -361382124,
+                            "Size": {
+                              "X": 200.0,
+                              "Y": 200.0
+                            },
+                            "Name": "match_info_scroll",
+                            "ctype": "ScrollViewObjectData"
+                          }
+                        ],
+                        "ActionTag": -1168840785,
+                        "Size": {
+                          "X": 225.0,
+                          "Y": 470.0
+                        },
+                        "Name": "item_panel",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": -1131999227,
+                    "Size": {
+                      "X": 1150.0,
+                      "Y": 470.0
+                    },
+                    "Name": "match_scroll",
+                    "ctype": "ScrollViewObjectData"
+                  }
+                ],
+                "ActionTag": -2013600103,
+                "Size": {
+                  "X": 1180.0,
+                  "Y": 580.0
+                },
+                "VisibleForFrame": false,
+                "Name": "match_panel",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 326.016
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4528
+                },
+                "PreSize": {
+                  "X": 0.9219,
+                  "Y": 0.8056
+                },
+                "LeftMargin": 50.0,
+                "RightMargin": 50.0,
+                "TopMargin": 103.984,
+                "BottomMargin": 36.016,
+                "Tag": 412,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionMemberUI/bg_info_img.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 75,
+                    "Scale9OriginY": 9,
+                    "Scale9Width": 80,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 143.9575,
+                      "Y": 537.5235
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.122,
+                      "Y": 0.9268
+                    },
+                    "PreSize": {
+                      "X": 0.1949,
+                      "Y": 0.0517
+                    },
+                    "LeftMargin": 28.9575,
+                    "RightMargin": 921.0425,
+                    "TopMargin": 27.4765,
+                    "BottomMargin": 522.5235,
+                    "Tag": 413,
+                    "ActionTag": 752900553,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 30.0
+                    },
+                    "Name": "bg_num_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "成员数量：",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 95.7342,
+                      "Y": 537.5223
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 116,
+                      "G": 73,
+                      "B": 50
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0811,
+                      "Y": 0.9268
+                    },
+                    "PreSize": {
+                      "X": 0.0907,
+                      "Y": 0.0466
+                    },
+                    "LeftMargin": 42.2342,
+                    "RightMargin": 1030.7659,
+                    "TopMargin": 28.9777,
+                    "BottomMargin": 524.0223,
+                    "Tag": 414,
+                    "ActionTag": -679352036,
+                    "Size": {
+                      "X": 107.0,
+                      "Y": 27.0
+                    },
+                    "Name": "title_num_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "12/500",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 200.3235,
+                      "Y": 537.5217
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 116,
+                      "G": 73,
+                      "B": 50
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1698,
+                      "Y": 0.9268
+                    },
+                    "PreSize": {
+                      "X": 0.0847,
+                      "Y": 0.0448
+                    },
+                    "LeftMargin": 150.3235,
+                    "RightMargin": 929.6765,
+                    "TopMargin": 29.4783,
+                    "BottomMargin": 524.5217,
+                    "Tag": 415,
+                    "ActionTag": -2127207823,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 26.0
+                    },
+                    "Name": "num_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "UnionMatchManagementUI/previouspage_btn.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 60,
+                    "Scale9Height": 30,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 306.5545,
+                      "Y": 537.5219
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2598,
+                      "Y": 0.9268
+                    },
+                    "PreSize": {
+                      "X": 0.0763,
+                      "Y": 0.0897
+                    },
+                    "LeftMargin": 261.5545,
+                    "RightMargin": 828.4455,
+                    "TopMargin": 16.4781,
+                    "BottomMargin": 511.5219,
+                    "Tag": 416,
+                    "ActionTag": 1821189399,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 52.0
+                    },
+                    "Name": "previouspage_btn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "UnionMatchManagementUI/nextpape_btn.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 60,
+                    "Scale9Height": 30,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 479.7549,
+                      "Y": 537.5219
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4066,
+                      "Y": 0.9268
+                    },
+                    "PreSize": {
+                      "X": 0.0763,
+                      "Y": 0.0897
+                    },
+                    "LeftMargin": 434.7549,
+                    "RightMargin": 655.2451,
+                    "TopMargin": 16.4781,
+                    "BottomMargin": 511.5219,
+                    "Tag": 417,
+                    "ActionTag": -522919208,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 52.0
+                    },
+                    "Name": "nextpage_btn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "UnionRoomInfoUI/goto_btn.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 60,
+                    "Scale9Height": 30,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 697.6,
+                      "Y": 536.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5912,
+                      "Y": 0.925
+                    },
+                    "PreSize": {
+                      "X": 0.0763,
+                      "Y": 0.0897
+                    },
+                    "LeftMargin": 652.6,
+                    "RightMargin": 437.4,
+                    "TopMargin": 17.5,
+                    "BottomMargin": 510.5,
+                    "Tag": 952,
+                    "ActionTag": 1577272200,
+                    "Size": {
+                      "X": 90.0,
+                      "Y": 52.0
+                    },
+                    "Name": "goto_btn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 24,
+                    "LabelText": "页码：",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 561.0309,
+                      "Y": 534.4552
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 116,
+                      "G": 73,
+                      "B": 50
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4754,
+                      "Y": 0.9215
+                    },
+                    "PreSize": {
+                      "X": 0.061,
+                      "Y": 0.0414
+                    },
+                    "LeftMargin": 525.0309,
+                    "RightMargin": 582.9691,
+                    "TopMargin": 33.5448,
+                    "BottomMargin": 522.4552,
+                    "Tag": 954,
+                    "ActionTag": 1757480532,
+                    "Size": {
+                      "X": 72.0,
+                      "Y": 24.0
+                    },
+                    "Name": "page_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "12/50",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 392.7648,
+                      "Y": 537.5235
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 116,
+                      "G": 73,
+                      "B": 50
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3329,
+                      "Y": 0.9268
+                    },
+                    "PreSize": {
+                      "X": 0.0678,
+                      "Y": 0.0552
+                    },
+                    "LeftMargin": 352.7648,
+                    "RightMargin": 747.2352,
+                    "TopMargin": 26.4765,
+                    "BottomMargin": 521.5235,
+                    "Tag": 418,
+                    "ActionTag": 39049694,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 32.0
+                    },
+                    "Name": "num_page_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "UnionMemberUI/addnew.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 172,
+                    "Scale9Height": 54,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 847.816,
+                      "Y": 527.5247
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7185,
+                      "Y": 0.9095
+                    },
+                    "PreSize": {
+                      "X": 0.1712,
+                      "Y": 0.131
+                    },
+                    "LeftMargin": 746.816,
+                    "RightMargin": 231.184,
+                    "TopMargin": 14.4753,
+                    "BottomMargin": 489.5247,
+                    "Tag": 419,
+                    "ActionTag": -54556433,
+                    "Size": {
+                      "X": 202.0,
+                      "Y": 76.0
+                    },
+                    "Name": "addnew_btn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "UnionMemberUI/Invitation_btn.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 172,
+                    "Scale9Height": 54,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 1060.3132,
+                      "Y": 527.5247
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8986,
+                      "Y": 0.9095
+                    },
+                    "PreSize": {
+                      "X": 0.1712,
+                      "Y": 0.131
+                    },
+                    "LeftMargin": 959.3132,
+                    "RightMargin": 18.6868,
+                    "TopMargin": 14.4753,
+                    "BottomMargin": 489.5247,
+                    "Tag": 420,
+                    "ActionTag": -1233687583,
+                    "Size": {
+                      "X": 202.0,
+                      "Y": 76.0
+                    },
+                    "Name": "invitation_btn",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "ClipAble": false,
+                    "BackColorAlpha": 102,
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "UnionMemberUI/title_bg_img.png",
+                      "Plist": ""
+                    },
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9OriginX": 377,
+                    "Scale9OriginY": 17,
+                    "Scale9Width": 390,
+                    "Scale9Height": 20,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 590.0,
+                      "Y": 461.448
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.7956
+                    },
+                    "PreSize": {
+                      "X": 0.9695,
+                      "Y": 0.0931
+                    },
+                    "LeftMargin": 18.0,
+                    "RightMargin": 18.0,
+                    "TopMargin": 91.552,
+                    "BottomMargin": 434.448,
+                    "Tag": 422,
+                    "Children": [
+                      {
+                        "FontSize": 30,
+                        "LabelText": "成员",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 107.0286,
+                          "Y": 27.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 116,
+                          "G": 73,
+                          "B": 50
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.0936,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0551,
+                          "Y": 0.6296
+                        },
+                        "LeftMargin": 75.5286,
+                        "RightMargin": 1005.4714,
+                        "TopMargin": 10.0,
+                        "BottomMargin": 10.0,
+                        "Tag": 423,
+                        "ActionTag": -534310185,
+                        "Size": {
+                          "X": 63.0,
+                          "Y": 34.0
+                        },
+                        "Name": "title_member_label",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 30,
+                        "LabelText": "入会时间",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 300.7576,
+                          "Y": 27.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 245,
+                          "G": 230,
+                          "B": 192
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.2629,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.1058,
+                          "Y": 0.6296
+                        },
+                        "LeftMargin": 240.2576,
+                        "RightMargin": 782.7424,
+                        "TopMargin": 10.0,
+                        "BottomMargin": 10.0,
+                        "Tag": 424,
+                        "ActionTag": 1151501816,
+                        "Size": {
+                          "X": 121.0,
+                          "Y": 34.0
+                        },
+                        "Name": "title_time_label",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 30,
+                        "LabelText": "备注",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 645.6084,
+                          "Y": 27.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 116,
+                          "G": 73,
+                          "B": 50
+                        },
+                        "IconVisible": false,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5643,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0551,
+                          "Y": 0.6296
+                        },
+                        "LeftMargin": 614.1084,
+                        "RightMargin": 466.8916,
+                        "TopMargin": 10.0,
+                        "BottomMargin": 10.0,
+                        "Tag": 426,
+                        "ActionTag": 2091197629,
+                        "Size": {
+                          "X": 63.0,
+                          "Y": 34.0
+                        },
+                        "Name": "title_remarks_label",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 30,
+                        "LabelText": "管理",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "zhunyuan.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 1027.5408,
+                          "Y": 27.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 245,
+                          "G": 230,
+                          "B": 192
+                        },
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.8982,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.0551,
+                          "Y": 0.6296
+                        },
+                        "LeftMargin": 996.0408,
+                        "RightMargin": 84.9592,
+                        "TopMargin": 10.0,
+                        "BottomMargin": 10.0,
+                        "Tag": 427,
+                        "ActionTag": 270407269,
+                        "Size": {
+                          "X": 63.0,
+                          "Y": 34.0
+                        },
+                        "Name": "title_manage_label",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -711867769,
+                    "Size": {
+                      "X": 1144.0,
+                      "Y": 54.0
+                    },
+                    "Name": "title_member_info_panel",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "DirectionType": "Vertical",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 590.0,
+                      "Y": 230.724
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.3978
+                    },
+                    "PreSize": {
+                      "X": 0.9695,
+                      "Y": 0.6897
+                    },
+                    "LeftMargin": 18.0,
+                    "RightMargin": 18.0,
+                    "TopMargin": 149.276,
+                    "BottomMargin": 30.724,
+                    "Tag": 429,
+                    "Children": [
+                      {
+                        "ClipAble": false,
+                        "BackColorAlpha": 102,
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "UnionMemberUI/title_bg_img_1.png",
+                          "Plist": ""
+                        },
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9OriginX": 377,
+                        "Scale9OriginY": 17,
+                        "Scale9Width": 390,
+                        "Scale9Height": 36,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 330.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.825
+                        },
+                        "PreSize": {
+                          "X": 1.0,
+                          "Y": 0.175
+                        },
+                        "BottomMargin": 330.0,
+                        "Tag": 430,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 20,
+                            "LabelText": "夏日晴天",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "zhunyuan.ttf",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 102.0,
+                              "Y": 47.7821
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 116,
+                              "G": 73,
+                              "B": 50
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0892,
+                              "Y": 0.6826
+                            },
+                            "PreSize": {
+                              "X": 0.1486,
+                              "Y": 0.3143
+                            },
+                            "LeftMargin": 17.0,
+                            "RightMargin": 957.0,
+                            "TopMargin": 11.2179,
+                            "BottomMargin": 36.7821,
+                            "Tag": 434,
+                            "ActionTag": -1309914094,
+                            "Size": {
+                              "X": 170.0,
+                              "Y": 22.0
+                            },
+                            "Name": "name_label",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 20,
+                            "LabelText": "ID:123456\n",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "zhunyuan.ttf",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 102.0,
+                              "Y": 20.5744
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 116,
+                              "G": 73,
+                              "B": 50
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0892,
+                              "Y": 0.2939
+                            },
+                            "PreSize": {
+                              "X": 0.1486,
+                              "Y": 0.3143
+                            },
+                            "LeftMargin": 17.0,
+                            "RightMargin": 957.0,
+                            "TopMargin": 38.4256,
+                            "BottomMargin": 9.5744,
+                            "Tag": 435,
+                            "ActionTag": -598896804,
+                            "Size": {
+                              "X": 170.0,
+                              "Y": 22.0
+                            },
+                            "Name": "id_label",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 30,
+                            "LabelText": "2时",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "zhunyuan.ttf",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 300.7576,
+                              "Y": 36.7403
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 245,
+                              "G": 230,
+                              "B": 192
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.2629,
+                              "Y": 0.5249
+                            },
+                            "PreSize": {
+                              "X": 0.0874,
+                              "Y": 0.4571
+                            },
+                            "LeftMargin": 250.7576,
+                            "RightMargin": 793.2424,
+                            "TopMargin": 17.2597,
+                            "BottomMargin": 20.7403,
+                            "Tag": 445,
+                            "ActionTag": -927330542,
+                            "Size": {
+                              "X": 100.0,
+                              "Y": 32.0
+                            },
+                            "Name": "time_label",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 30,
+                            "LabelText": "添加成功",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "zhunyuan.ttf",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 645.6086,
+                              "Y": 35.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 116,
+                              "G": 73,
+                              "B": 50
+                            },
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5643,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.3497,
+                              "Y": 0.4857
+                            },
+                            "LeftMargin": 445.6086,
+                            "RightMargin": 298.3914,
+                            "TopMargin": 18.0,
+                            "BottomMargin": 18.0,
+                            "Tag": 446,
+                            "ActionTag": -264085135,
+                            "Size": {
+                              "X": 400.0,
+                              "Y": 34.0
+                            },
+                            "Name": "remarks_label",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {
+                              "R": 65,
+                              "G": 65,
+                              "B": 70
+                            },
+                            "NormalFileData": {
+                              "Type": "Normal",
+                              "Path": "UnionMemberUI/remarks_btn.png",
+                              "Plist": ""
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 15,
+                            "Scale9OriginY": 11,
+                            "Scale9Width": 22,
+                            "Scale9Height": 30,
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 983.4551,
+                              "Y": 35.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.8597,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0455,
+                              "Y": 0.7429
+                            },
+                            "LeftMargin": 957.4551,
+                            "RightMargin": 134.5449,
+                            "TopMargin": 9.0,
+                            "BottomMargin": 9.0,
+                            "Tag": 447,
+                            "ActionTag": 1216785732,
+                            "Size": {
+                              "X": 52.0,
+                              "Y": 52.0
+                            },
+                            "Name": "remarks_btn",
+                            "ctype": "ButtonObjectData"
+                          },
+                          {
+                            "FontSize": 14,
+                            "ButtonText": "",
+                            "TextColor": {
+                              "R": 65,
+                              "G": 65,
+                              "B": 70
+                            },
+                            "NormalFileData": {
+                              "Type": "Normal",
+                              "Path": "UnionMemberUI/delete_btn.png",
+                              "Plist": ""
+                            },
+                            "Scale9Enable": true,
+                            "Scale9OriginX": 15,
+                            "Scale9OriginY": 11,
+                            "Scale9Width": 22,
+                            "Scale9Height": 30,
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "TouchEnable": true,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 1084.0959,
+                              "Y": 35.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.9476,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.0455,
+                              "Y": 0.7429
+                            },
+                            "LeftMargin": 1058.0959,
+                            "RightMargin": 33.9041,
+                            "TopMargin": 9.0,
+                            "BottomMargin": 9.0,
+                            "Tag": 448,
+                            "ActionTag": 487860592,
+                            "Size": {
+                              "X": 52.0,
+                              "Y": 52.0
+                            },
+                            "Name": "delete_btn",
+                            "ctype": "ButtonObjectData"
+                          }
+                        ],
+                        "ActionTag": -2080003727,
+                        "Size": {
+                          "X": 1144.0,
+                          "Y": 70.0
+                        },
+                        "Name": "item_panel",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": -919871351,
+                    "Size": {
+                      "X": 1144.0,
+                      "Y": 400.0
+                    },
+                    "Name": "member_info_scroll",
+                    "ctype": "ListViewObjectData"
+                  }
+                ],
+                "ActionTag": 2019681716,
+                "Size": {
+                  "X": 1180.0,
+                  "Y": 580.0
+                },
+                "VisibleForFrame": false,
+                "Name": "member_panel",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1214465564,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "union_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/return_btn.png",
+        "UnionHallUI/bg_hall_img_2.png",
+        "UnionHallUI/createunion__img.png",
+        "UnionHallUI/events_btn_1.png",
+        "UnionHallUI/events_btn_2.png",
+        "UnionHallUI/hall_btn_1.png",
+        "UnionHallUI/hall_btn_2.png",
+        "UnionHallUI/member_btn_1.png",
+        "UnionHallUI/member_btn_2.png",
+        "UnionHallUI/rank_img.png",
+        "UnionHallUI/Typeface.TTF",
+        "UnionMatchManagementUI/delete_btn.png",
+        "UnionMatchManagementUI/events_bg.png",
+        "UnionMatchManagementUI/member_btn.png",
+        "UnionMatchManagementUI/nextpape_btn.png",
+        "UnionMatchManagementUI/previouspage_btn.png",
+        "UnionMatchManagementUI/room_btn.png",
+        "UnionMatchManagementUI/start_btn.png",
+        "UnionMatchManagementUI/stop_btn.png",
+        "UnionMatchManagementUI/title_bg.png",
+        "UnionMemberUI/addnew.png",
+        "UnionMemberUI/bg_info_img.png",
+        "UnionMemberUI/delete_btn.png",
+        "UnionMemberUI/Invitation_btn.png",
+        "UnionMemberUI/remarks_btn.png",
+        "UnionMemberUI/title_bg_img.png",
+        "UnionMemberUI/title_bg_img_1.png",
+        "UnionPersonalUI/ann_bg_img.png",
+        "UnionPersonalUI/ann_img.png",
+        "UnionPersonalUI/automatching.png",
+        "UnionPersonalUI/bg_unionlist_img.png",
+        "UnionPersonalUI/bg_unionname_img.png",
+        "UnionPersonalUI/createroom_btn.png",
+        "UnionPersonalUI/editann.png",
+        "UnionPersonalUI/exit_btn.png",
+        "UnionPersonalUI/modify_name_btn.png",
+        "UnionPersonalUI/room_bg_img.png",
+        "UnionPersonalUI/title_img.png",
+        "UnionPersonalUI/union_btn_1.png",
+        "UnionPersonalUI/union_btn_2.png",
+        "UnionRoomInfoUI/goto_btn.png",
+        "zhunyuan.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

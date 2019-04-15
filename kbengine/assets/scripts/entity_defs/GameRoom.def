@@ -1,0 +1,97 @@
+<root>
+	<Volatile>
+		<position> 0 </position>
+		<yaw> 0 </yaw>
+		<pitch> 0 </pitch>
+		<roll> 0 </roll>
+	</Volatile>
+
+	<Interfaces>
+		<Interface>	GameObject		</Interface>
+	</Interfaces>
+
+	<Properties>
+		<roomId>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE		</Flags>
+		</roomId>
+		<owner_uid>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE		</Flags>
+		</owner_uid>
+		<game_mode>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE		</Flags>
+		</game_mode>
+		<game_round>
+			<Type>			UINT32			</Type>
+			<Flags>			BASE		</Flags>
+		</game_round>
+		<player_num>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE		</Flags>
+		</player_num>
+		<game_hei3>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE		</Flags>
+		</game_hei3>
+		<game_function>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE		</Flags>
+		</game_function>
+		<game_deal>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE		</Flags>
+		</game_deal>
+		<game_force>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE		</Flags>
+		</game_force>
+		<game_plays>
+			<Type>	     UINT32_ARRAY		</Type>
+			<Flags>			BASE		</Flags>
+		</game_plays>
+		<is_agent>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE		</Flags>
+		</is_agent>
+		<is_competition>
+			<Type>			UINT8			</Type>
+			<Flags>			BASE		</Flags>
+		</is_competition>
+
+		<create_time>
+            <Type>			DOUBLE		</Type>
+			<Flags>			BASE		</Flags>
+        </create_time>
+		<match_mode>
+			<Type>			UINT8		</Type>
+			<Flags>			BASE		</Flags>
+		</match_mode>
+		<group_id>
+		    <Type>			UID		    </Type>
+			<Flags>			BASE		</Flags>
+		</group_id>
+		<team_uuid>
+		    <Type>			UUID		</Type>
+			<Flags>			BASE		</Flags>
+		</team_uuid>
+		<sportId>
+		    <Type>			UUID		</Type>
+			<Flags>			BASE		</Flags>
+		</sportId>
+	</Properties>
+
+	<BaseMethods>
+		<swapTileToTop>
+			<Arg>		UINT32		</Arg>
+		</swapTileToTop>
+	</BaseMethods>
+
+	<CellMethods>
+	</CellMethods>
+
+	<ClientMethods>
+	</ClientMethods>
+</root>
+

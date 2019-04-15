@@ -1,0 +1,2157 @@
+{
+  "ID": "8d0a2f3c-bd27-476d-80b0-727686d20c74",
+  "Version": "3.10.0.0",
+  "Name": "ShopUI",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 638,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 178,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 743,
+            "ActionTag": 138955409,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "bg_panel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "ShopUI/bg_img.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9OriginX": 299,
+            "Scale9OriginY": 228,
+            "Scale9Width": 320,
+            "Scale9Height": 216,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 692,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "Default/return_btn.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 40,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1078.272,
+                  "Y": 629.568
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.8424,
+                  "Y": 0.8744
+                },
+                "PreSize": {
+                  "X": 0.0547,
+                  "Y": 0.1
+                },
+                "LeftMargin": 1043.272,
+                "RightMargin": 166.728,
+                "TopMargin": 54.432,
+                "BottomMargin": 593.568,
+                "Tag": 693,
+                "ActionTag": -584539124,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 72.0
+                },
+                "Name": "return_btn",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopUI/item_img.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 96,
+                "Scale9Height": 60,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 250.624,
+                  "Y": 312.696
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1958,
+                  "Y": 0.4343
+                },
+                "PreSize": {
+                  "X": 0.1797,
+                  "Y": 0.325
+                },
+                "LeftMargin": 250.624,
+                "RightMargin": 799.376,
+                "TopMargin": 173.304,
+                "BottomMargin": 312.696,
+                "Tag": 694,
+                "Children": [
+                  {
+                    "FontSize": 30,
+                    "LabelText": "颗钻石",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.767,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5729,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.4043,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 85.267,
+                    "RightMargin": 51.733,
+                    "TopMargin": 16.345,
+                    "BottomMargin": 183.655,
+                    "Tag": 744,
+                    "ActionTag": 360263256,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 34.0
+                    },
+                    "Name": "txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 36,
+                    "LabelText": "6",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.942,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1954,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.3478,
+                      "Y": 0.1624
+                    },
+                    "LeftMargin": 4.942,
+                    "RightMargin": 145.058,
+                    "TopMargin": 14.345,
+                    "BottomMargin": 181.655,
+                    "Tag": 745,
+                    "ActionTag": 1030177554,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 38.0
+                    },
+                    "Name": "reward_txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/diamond_img_1.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 117.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6435,
+                      "Y": 0.6239
+                    },
+                    "LeftMargin": 41.0,
+                    "RightMargin": 41.0,
+                    "TopMargin": 44.0,
+                    "BottomMargin": 44.0,
+                    "Tag": 696,
+                    "ActionTag": 1225779292,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/money.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 97.313,
+                      "Y": 46.7532
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4231,
+                      "Y": 0.1998
+                    },
+                    "PreSize": {
+                      "X": 0.113,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 84.313,
+                    "RightMargin": 119.687,
+                    "TopMargin": 170.2468,
+                    "BottomMargin": 29.7532,
+                    "Tag": 746,
+                    "ActionTag": 514833181,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 34.0
+                    },
+                    "Name": "money_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "6",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/SimHei.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 128.754,
+                      "Y": 49.3974
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5598,
+                      "Y": 0.2111
+                    },
+                    "PreSize": {
+                      "X": 0.113,
+                      "Y": 0.1368
+                    },
+                    "LeftMargin": 115.754,
+                    "RightMargin": 88.246,
+                    "TopMargin": 168.6026,
+                    "BottomMargin": 33.3974,
+                    "Tag": 698,
+                    "ActionTag": 1940013287,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1161688511,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 234.0
+                },
+                "Name": "reward_panel_0",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopUI/item_img.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 96,
+                "Scale9Height": 60,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 528.768,
+                  "Y": 312.696
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4131,
+                  "Y": 0.4343
+                },
+                "PreSize": {
+                  "X": 0.1797,
+                  "Y": 0.325
+                },
+                "LeftMargin": 528.768,
+                "RightMargin": 521.232,
+                "TopMargin": 173.304,
+                "BottomMargin": 312.696,
+                "Tag": 747,
+                "Children": [
+                  {
+                    "FontSize": 30,
+                    "LabelText": "颗钻石",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.767,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5729,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.4043,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 85.267,
+                    "RightMargin": 51.733,
+                    "TopMargin": 16.345,
+                    "BottomMargin": 183.655,
+                    "Tag": 748,
+                    "ActionTag": -965163296,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 34.0
+                    },
+                    "Name": "txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 36,
+                    "LabelText": "18",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.942,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1954,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.3478,
+                      "Y": 0.1624
+                    },
+                    "LeftMargin": 4.942,
+                    "RightMargin": 145.058,
+                    "TopMargin": 14.345,
+                    "BottomMargin": 181.655,
+                    "Tag": 749,
+                    "ActionTag": -1610670980,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 38.0
+                    },
+                    "Name": "reward_txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/diamond_img_2.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 117.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6435,
+                      "Y": 0.6239
+                    },
+                    "LeftMargin": 41.0,
+                    "RightMargin": 41.0,
+                    "TopMargin": 44.0,
+                    "BottomMargin": 44.0,
+                    "Tag": 750,
+                    "ActionTag": 2029950617,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/money.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 97.313,
+                      "Y": 46.7532
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4231,
+                      "Y": 0.1998
+                    },
+                    "PreSize": {
+                      "X": 0.113,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 84.313,
+                    "RightMargin": 119.687,
+                    "TopMargin": 170.2468,
+                    "BottomMargin": 29.7532,
+                    "Tag": 751,
+                    "ActionTag": -90276258,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 34.0
+                    },
+                    "Name": "money_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "18",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/SimHei.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 134.757,
+                      "Y": 50.4036
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5859,
+                      "Y": 0.2154
+                    },
+                    "PreSize": {
+                      "X": 0.2261,
+                      "Y": 0.1368
+                    },
+                    "LeftMargin": 108.757,
+                    "RightMargin": 69.243,
+                    "TopMargin": 167.5964,
+                    "BottomMargin": 34.4036,
+                    "Tag": 752,
+                    "ActionTag": -353122476,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 530557991,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 234.0
+                },
+                "Name": "reward_panel_1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopUI/item_img.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 96,
+                "Scale9Height": 60,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 800.256,
+                  "Y": 312.696
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6252,
+                  "Y": 0.4343
+                },
+                "PreSize": {
+                  "X": 0.1797,
+                  "Y": 0.325
+                },
+                "LeftMargin": 800.256,
+                "RightMargin": 249.744,
+                "TopMargin": 173.304,
+                "BottomMargin": 312.696,
+                "Tag": 753,
+                "Children": [
+                  {
+                    "FontSize": 30,
+                    "LabelText": "颗钻石",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.767,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5729,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.4043,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 85.267,
+                    "RightMargin": 51.733,
+                    "TopMargin": 16.345,
+                    "BottomMargin": 183.655,
+                    "Tag": 754,
+                    "ActionTag": -1330961461,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 34.0
+                    },
+                    "Name": "txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 36,
+                    "LabelText": "30",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 43.8514,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1907,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.3478,
+                      "Y": 0.1624
+                    },
+                    "LeftMargin": 3.8514,
+                    "RightMargin": 146.1486,
+                    "TopMargin": 14.345,
+                    "BottomMargin": 181.655,
+                    "Tag": 755,
+                    "ActionTag": -1391747273,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 38.0
+                    },
+                    "Name": "reward_txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/diamond_img_3.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 117.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6435,
+                      "Y": 0.6239
+                    },
+                    "LeftMargin": 41.0,
+                    "RightMargin": 41.0,
+                    "TopMargin": 44.0,
+                    "BottomMargin": 44.0,
+                    "Tag": 756,
+                    "ActionTag": 455571777,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/money.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 92.322,
+                      "Y": 46.7532
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4014,
+                      "Y": 0.1998
+                    },
+                    "PreSize": {
+                      "X": 0.113,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 79.322,
+                    "RightMargin": 124.678,
+                    "TopMargin": 170.2468,
+                    "BottomMargin": 29.7532,
+                    "Tag": 757,
+                    "ActionTag": 672466979,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 34.0
+                    },
+                    "Name": "money_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "30",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/SimHei.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 132.618,
+                      "Y": 49.2804
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5766,
+                      "Y": 0.2106
+                    },
+                    "PreSize": {
+                      "X": 0.2261,
+                      "Y": 0.1368
+                    },
+                    "LeftMargin": 106.618,
+                    "RightMargin": 71.382,
+                    "TopMargin": 168.7196,
+                    "BottomMargin": 33.2804,
+                    "Tag": 758,
+                    "ActionTag": -1222361999,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1662512817,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 234.0
+                },
+                "Name": "reward_panel_2",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopUI/item_img.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 96,
+                "Scale9Height": 60,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 249.216,
+                  "Y": 56.808
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1947,
+                  "Y": 0.0789
+                },
+                "PreSize": {
+                  "X": 0.1797,
+                  "Y": 0.325
+                },
+                "LeftMargin": 249.216,
+                "RightMargin": 800.784,
+                "TopMargin": 429.192,
+                "BottomMargin": 56.808,
+                "Tag": 759,
+                "Children": [
+                  {
+                    "FontSize": 30,
+                    "LabelText": "颗钻石",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.767,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5729,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.4043,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 85.267,
+                    "RightMargin": 51.733,
+                    "TopMargin": 16.345,
+                    "BottomMargin": 183.655,
+                    "Tag": 760,
+                    "ActionTag": -279178480,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 34.0
+                    },
+                    "Name": "txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 36,
+                    "LabelText": "40",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.942,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1954,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.3478,
+                      "Y": 0.1624
+                    },
+                    "LeftMargin": 4.942,
+                    "RightMargin": 145.058,
+                    "TopMargin": 14.345,
+                    "BottomMargin": 181.655,
+                    "Tag": 761,
+                    "ActionTag": 122702969,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 38.0
+                    },
+                    "Name": "reward_txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/diamond_img_4.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 117.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6435,
+                      "Y": 0.6239
+                    },
+                    "LeftMargin": 41.0,
+                    "RightMargin": 41.0,
+                    "TopMargin": 44.0,
+                    "BottomMargin": 44.0,
+                    "Tag": 762,
+                    "ActionTag": -1372954271,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/money.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 92.322,
+                      "Y": 46.7532
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4014,
+                      "Y": 0.1998
+                    },
+                    "PreSize": {
+                      "X": 0.113,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 79.322,
+                    "RightMargin": 124.678,
+                    "TopMargin": 170.2468,
+                    "BottomMargin": 29.7532,
+                    "Tag": 763,
+                    "ActionTag": -1460888311,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 34.0
+                    },
+                    "Name": "money_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "40",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/SimHei.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 129.49,
+                      "Y": 47.9466
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.563,
+                      "Y": 0.2049
+                    },
+                    "PreSize": {
+                      "X": 0.2261,
+                      "Y": 0.1368
+                    },
+                    "LeftMargin": 103.49,
+                    "RightMargin": 74.51,
+                    "TopMargin": 170.0534,
+                    "BottomMargin": 31.9466,
+                    "Tag": 764,
+                    "ActionTag": -1216618318,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": -1831867871,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 234.0
+                },
+                "Name": "reward_panel_3",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopUI/item_img.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 96,
+                "Scale9Height": 60,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 527.36,
+                  "Y": 56.808
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.412,
+                  "Y": 0.0789
+                },
+                "PreSize": {
+                  "X": 0.1797,
+                  "Y": 0.325
+                },
+                "LeftMargin": 527.36,
+                "RightMargin": 522.64,
+                "TopMargin": 429.192,
+                "BottomMargin": 56.808,
+                "Tag": 765,
+                "Children": [
+                  {
+                    "FontSize": 30,
+                    "LabelText": "颗钻石",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.767,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5729,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.4043,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 85.267,
+                    "RightMargin": 51.733,
+                    "TopMargin": 16.345,
+                    "BottomMargin": 183.655,
+                    "Tag": 766,
+                    "ActionTag": -1846015272,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 34.0
+                    },
+                    "Name": "txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 36,
+                    "LabelText": "50",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.942,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1954,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.3478,
+                      "Y": 0.1624
+                    },
+                    "LeftMargin": 4.942,
+                    "RightMargin": 145.058,
+                    "TopMargin": 14.345,
+                    "BottomMargin": 181.655,
+                    "Tag": 767,
+                    "ActionTag": 947838913,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 38.0
+                    },
+                    "Name": "reward_txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/diamond_img_5.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 117.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6435,
+                      "Y": 0.6239
+                    },
+                    "LeftMargin": 41.0,
+                    "RightMargin": 41.0,
+                    "TopMargin": 44.0,
+                    "BottomMargin": 44.0,
+                    "Tag": 768,
+                    "ActionTag": 1597516020,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/money.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 94.323,
+                      "Y": 46.7532
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4101,
+                      "Y": 0.1998
+                    },
+                    "PreSize": {
+                      "X": 0.113,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 81.323,
+                    "RightMargin": 122.677,
+                    "TopMargin": 170.2468,
+                    "BottomMargin": 29.7532,
+                    "Tag": 769,
+                    "ActionTag": -285013377,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 34.0
+                    },
+                    "Name": "money_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "50",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/SimHei.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 133.561,
+                      "Y": 48.3444
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5807,
+                      "Y": 0.2066
+                    },
+                    "PreSize": {
+                      "X": 0.2261,
+                      "Y": 0.1368
+                    },
+                    "LeftMargin": 107.561,
+                    "RightMargin": 70.439,
+                    "TopMargin": 169.6556,
+                    "BottomMargin": 32.3444,
+                    "Tag": 770,
+                    "ActionTag": -1837360279,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 1781281287,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 234.0
+                },
+                "Name": "reward_panel_4",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "ClipAble": false,
+                "BackColorAlpha": 102,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "ShopUI/item_img.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9OriginX": 67,
+                "Scale9OriginY": 87,
+                "Scale9Width": 96,
+                "Scale9Height": 60,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 798.848,
+                  "Y": 56.808
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.6241,
+                  "Y": 0.0789
+                },
+                "PreSize": {
+                  "X": 0.1797,
+                  "Y": 0.325
+                },
+                "LeftMargin": 798.848,
+                "RightMargin": 251.152,
+                "TopMargin": 429.192,
+                "BottomMargin": 56.808,
+                "Tag": 771,
+                "Children": [
+                  {
+                    "FontSize": 30,
+                    "LabelText": "颗钻石",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.767,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5729,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.4043,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 85.267,
+                    "RightMargin": 51.733,
+                    "TopMargin": 16.345,
+                    "BottomMargin": 183.655,
+                    "Tag": 772,
+                    "ActionTag": 1707973451,
+                    "Size": {
+                      "X": 93.0,
+                      "Y": 34.0
+                    },
+                    "Name": "txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 36,
+                    "LabelText": "68",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "zhunyuan.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Right",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 44.942,
+                      "Y": 200.655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 137,
+                      "G": 96,
+                      "B": 58
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.1954,
+                      "Y": 0.8575
+                    },
+                    "PreSize": {
+                      "X": 0.3478,
+                      "Y": 0.1624
+                    },
+                    "LeftMargin": 4.942,
+                    "RightMargin": 145.058,
+                    "TopMargin": 14.345,
+                    "BottomMargin": 181.655,
+                    "Tag": 773,
+                    "ActionTag": 780688364,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 38.0
+                    },
+                    "Name": "reward_txt_label",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/diamond_img_6.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 21,
+                    "Scale9OriginY": 21,
+                    "Scale9Width": 106,
+                    "Scale9Height": 104,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 115.0,
+                      "Y": 117.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6435,
+                      "Y": 0.6239
+                    },
+                    "LeftMargin": 41.0,
+                    "RightMargin": 41.0,
+                    "TopMargin": 44.0,
+                    "BottomMargin": 44.0,
+                    "Tag": 774,
+                    "ActionTag": 1742557114,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 146.0
+                    },
+                    "Name": "reward_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/money.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 10,
+                    "Scale9Height": 12,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 95.312,
+                      "Y": 46.7532
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4144,
+                      "Y": 0.1998
+                    },
+                    "PreSize": {
+                      "X": 0.113,
+                      "Y": 0.1453
+                    },
+                    "LeftMargin": 82.312,
+                    "RightMargin": 121.688,
+                    "TopMargin": 170.2468,
+                    "BottomMargin": 29.7532,
+                    "Tag": 775,
+                    "ActionTag": -869413329,
+                    "Size": {
+                      "X": 26.0,
+                      "Y": 34.0
+                    },
+                    "Name": "money_img",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "LabelText": "68",
+                    "LabelBMFontFile_CNB": {
+                      "Type": "Normal",
+                      "Path": "ShopUI/SimHei.fnt",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 134.274,
+                      "Y": 48.2742
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5838,
+                      "Y": 0.2063
+                    },
+                    "PreSize": {
+                      "X": 0.2261,
+                      "Y": 0.1368
+                    },
+                    "LeftMargin": 108.274,
+                    "RightMargin": 69.726,
+                    "TopMargin": 169.7258,
+                    "BottomMargin": 32.2742,
+                    "Tag": 776,
+                    "ActionTag": 1722896916,
+                    "Size": {
+                      "X": 52.0,
+                      "Y": 32.0
+                    },
+                    "Name": "reward_fnt",
+                    "ctype": "TextBMFontObjectData"
+                  }
+                ],
+                "ActionTag": 623251565,
+                "Size": {
+                  "X": 230.0,
+                  "Y": 234.0
+                },
+                "Name": "reward_panel_5",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1148376199,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "shop_panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/return_btn.png",
+        "ShopUI/bg_img.png",
+        "ShopUI/diamond_img_1.png",
+        "ShopUI/diamond_img_2.png",
+        "ShopUI/diamond_img_3.png",
+        "ShopUI/diamond_img_4.png",
+        "ShopUI/diamond_img_5.png",
+        "ShopUI/diamond_img_6.png",
+        "ShopUI/item_img.png",
+        "ShopUI/money.png",
+        "ShopUI/SimHei.fnt",
+        "ShopUI/SimHei.png",
+        "zhunyuan.ttf"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

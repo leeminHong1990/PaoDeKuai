@@ -1,0 +1,44 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="EffectFireworksUI" Type="Plist" ID="5ecc8256-aee8-4ae0-b9e8-473a39561dd5" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="EffectFireworksUI/1.png" />
+      <FilePathData Path="EffectFireworksUI/10.png" />
+      <FilePathData Path="EffectFireworksUI/11.png" />
+      <FilePathData Path="EffectFireworksUI/12.png" />
+      <FilePathData Path="EffectFireworksUI/13.png" />
+      <FilePathData Path="EffectFireworksUI/14.png" />
+      <FilePathData Path="EffectFireworksUI/15.png" />
+      <FilePathData Path="EffectFireworksUI/16.png" />
+      <FilePathData Path="EffectFireworksUI/17.png" />
+      <FilePathData Path="EffectFireworksUI/18.png" />
+      <FilePathData Path="EffectFireworksUI/19.png" />
+      <FilePathData Path="EffectFireworksUI/2.png" />
+      <FilePathData Path="EffectFireworksUI/20.png" />
+      <FilePathData Path="EffectFireworksUI/21.png" />
+      <FilePathData Path="EffectFireworksUI/22.png" />
+      <FilePathData Path="EffectFireworksUI/23.png" />
+      <FilePathData Path="EffectFireworksUI/24.png" />
+      <FilePathData Path="EffectFireworksUI/25.png" />
+      <FilePathData Path="EffectFireworksUI/26.png" />
+      <FilePathData Path="EffectFireworksUI/27.png" />
+      <FilePathData Path="EffectFireworksUI/28.png" />
+      <FilePathData Path="EffectFireworksUI/29.png" />
+      <FilePathData Path="EffectFireworksUI/3.png" />
+      <FilePathData Path="EffectFireworksUI/30.png" />
+      <FilePathData Path="EffectFireworksUI/31.png" />
+      <FilePathData Path="EffectFireworksUI/32.png" />
+      <FilePathData Path="EffectFireworksUI/33.png" />
+      <FilePathData Path="EffectFireworksUI/34.png" />
+      <FilePathData Path="EffectFireworksUI/35.png" />
+      <FilePathData Path="EffectFireworksUI/36.png" />
+      <FilePathData Path="EffectFireworksUI/4.png" />
+      <FilePathData Path="EffectFireworksUI/5.png" />
+      <FilePathData Path="EffectFireworksUI/6.png" />
+      <FilePathData Path="EffectFireworksUI/7.png" />
+      <FilePathData Path="EffectFireworksUI/8.png" />
+      <FilePathData Path="EffectFireworksUI/9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

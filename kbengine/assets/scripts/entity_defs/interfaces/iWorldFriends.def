@@ -1,0 +1,31 @@
+<root>
+	<Properties>
+	</Properties>
+
+	<BaseMethods>
+		<sendPidToFriend>
+			<Arg>		UUID		</Arg>
+			<Arg>		UINT32		</Arg>
+			<Arg>		DBID		</Arg>
+			<Arg>		UINT32		</Arg>
+		</sendPidToFriend>
+
+		<sendFriendGift>
+			<Arg>		UUID		</Arg>
+			<Arg>		GIFT_INFO		</Arg>
+		</sendFriendGift>
+		<sendFriendGiftByUID>
+			<Arg>		UINT32		</Arg>
+			<Arg>		GIFT_INFO		</Arg>
+		</sendFriendGiftByUID>
+		<sendPidToFriendGift>
+			<Arg>		UINT32		</Arg>
+			<Arg>		DBID		</Arg>
+			<Arg>		GIFT_INFO		</Arg>
+		</sendPidToFriendGift>	
+	</BaseMethods>
+	
+	<ClientMethods>
+	</ClientMethods>
+</root>
+

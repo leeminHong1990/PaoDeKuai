@@ -1,0 +1,60 @@
+<root>
+	<Properties>
+		<group_id>
+			<Type>			GROUP_ID			    </Type>
+			<Flags>			BASE					</Flags>
+			<Default>		0			            </Default>
+			<Persistent>	true					</Persistent>
+		</group_id>
+		<group_name>
+		    <Type>			UNICODE					</Type>
+			<Flags>			BASE					</Flags>
+			<Default>		""			            </Default>
+			<Persistent>	true					</Persistent>
+		</group_name>
+		<owner_info>
+			<Type>			GROUP_MEMBER_INFO		</Type>
+			<Flags>			BASE					</Flags>
+			<Persistent>	true					</Persistent>
+		</owner_info>
+		<bill_board>
+		    <Type>			UNICODE		            </Type>
+			<Flags>			BASE					</Flags>
+			<Default>		""			            </Default>
+			<Persistent>	true					</Persistent>
+		</bill_board>
+		<mem_list>
+			<Type>			GROUP_MEMBER_INFO_LIST	</Type>
+			<Flags>			BASE					</Flags>
+			<Default>		[]			            </Default>
+			<Persistent>	true					</Persistent>
+		</mem_list>
+		<team_list>
+			<Type>			GROUP_TEAM_INFO_LIST	</Type>
+			<Flags>			BASE					</Flags>
+			<Default>		[]			            </Default>
+			<Persistent>	true					</Persistent>
+		</team_list>
+		<group_rank_list>
+			<Type>			GROUP_RANK_LIST_LIST    </Type>
+			<Flags>			BASE				    </Flags>
+			<Default>	    []                      </Default>
+			<Persistent>	true				    </Persistent>
+		</group_rank_list>
+		<normal_access>
+		    <Type>			UINT8   			    </Type>
+			<Flags>			BASE					</Flags>
+			<Default>		0			            </Default>
+			<Persistent>	true					</Persistent>
+		</normal_access>
+		<lastGroupRankTime>
+			<Type>			DOUBLE			</Type>
+			<Flags>			BASE		    </Flags>
+			<Default>		0.0		        </Default>
+			<Persistent>		true		</Persistent>
+		</lastGroupRankTime>
+	</Properties>
+	
+	<BaseMethods>
+	</BaseMethods>
+</root>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>CattleUI/1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{65,92}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{65,92}</string>
+			</dict>
+			<key>CattleUI/2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,184},{54,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{54,87}</string>
+			</dict>
+			<key>CattleUI/3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{68,1},{53,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{53,83}</string>
+			</dict>
+			<key>CattleUI/4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,95},{58,87}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{58,87}</string>
+			</dict>
+			<key>CattleUI/5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{90,180},{51,88}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{51,88}</string>
+			</dict>
+			<key>CattleUI/6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{61,95},{55,83}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{55,83}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>cattle.png</string>
+			<key>realTextureFileName</key>
+			<string>cattle.png</string>
+			<key>size</key>
+			<string>{256,256}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>256</integer>
+			<key>height</key>
+			<integer>256</integer>
+		</dict>
+	</dict>
+</plist>
