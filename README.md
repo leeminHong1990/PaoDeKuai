@@ -1,14 +1,14 @@
-<h1 align="center">ImageFrameWork</h1>
+<h1 align="center">feixia Engine</h1>
 
 <div align="center">
-An framework contain more than one chess and card game.
+An chess and card game framework.
 </div>
 
 ## Env and dependencies
 
-client-engine:Cocos2d-x-3.16
-client-ui-tools:Cocos Studio v3.10
-server-engine:KBEngine v1.17
+- client-engine:Cocos2d-x-3.16
+- client-ui-tools:Cocos Studio v3.10
+- server-engine:KBEngine v1.17
 
 
 - Client Home Page: https://www.cocos.com/
